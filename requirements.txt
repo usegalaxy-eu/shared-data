@@ -1,1 +1,2 @@
-ephemeris==0.10.2
+git+https://github.com/galaxyproject/ephemeris.git@fix-data-lib-waiting
+galaxy-parsec==1.12.1
