@@ -22,7 +22,7 @@ items:
         info: https://doi.org/10.5281/zenodo.582600
         src: url
         url: https://zenodo.org/api/files/287966da-5411-4f79-8cfb-0ffa84d0d6cc/wildtype.fna
-      - ext: gbk
+      - ext: genbank
         info: https://doi.org/10.5281/zenodo.582600
         src: url
         url: https://zenodo.org/api/files/287966da-5411-4f79-8cfb-0ffa84d0d6cc/wildtype.gbk
@@ -51,7 +51,7 @@ items:
         info: https://doi.org/10.5281/zenodo.60520
         src: url
         url: https://zenodo.org/api/files/fc05c2ad-eff6-430c-8138-3b6f5934f87c/GIAB-Ashkenazim-Trio.txt
-      - ext: gz
+      - ext: bam
         info: https://doi.org/10.5281/zenodo.60520
         src: url
         url: https://zenodo.org/api/files/fc05c2ad-eff6-430c-8138-3b6f5934f87c/GIAB-Ashkenazim-Trio-hg19.gz
@@ -80,7 +80,7 @@ items:
         info: https://doi.org/10.5281/zenodo.60520
         src: url
         url: https://zenodo.org/api/files/fc05c2ad-eff6-430c-8138-3b6f5934f87c/GIAB-Ashkenazim-Trio.txt
-      - ext: gz
+      - ext: bam
         info: https://doi.org/10.5281/zenodo.60520
         src: url
         url: https://zenodo.org/api/files/fc05c2ad-eff6-430c-8138-3b6f5934f87c/GIAB-Ashkenazim-Trio-hg19.gz
@@ -93,7 +93,7 @@ items:
   - items:
     - description: latest
       items:
-      - ext: vcf.gz
+      - ext: vcf
         info: https://doi.org/10.5281/zenodo.2582555
         src: url
         url: https://zenodo.org/api/files/a8dae68d-74a9-4283-9d3a-942668270643/dbsnp.b147.chr5_12_17.vcf.gz
@@ -900,11 +900,11 @@ items:
   - items:
     - description: latest
       items:
-      - ext: gz
+      - ext: augustus
         info: https://doi.org/10.5281/zenodo.1488687
         src: url
         url: https://zenodo.org/api/files/4385871d-9632-4fae-9aaf-f8ed692163d1/augustus_training_1.tar.gz
-      - ext: gz
+      - ext: augustus
         info: https://doi.org/10.5281/zenodo.1488687
         src: url
         url: https://zenodo.org/api/files/4385871d-9632-4fae-9aaf-f8ed692163d1/augustus_training_2.tar.gz
@@ -938,11 +938,11 @@ items:
         info: https://doi.org/10.5281/zenodo.1183661
         src: url
         url: https://zenodo.org/api/files/a77fcd26-9185-4947-9fed-54d2851c5eed/dm3_genes.bed
-      - ext: gz
+      - ext: fastqsanger.gz
         info: https://doi.org/10.5281/zenodo.1183661
         src: url
         url: https://zenodo.org/api/files/a77fcd26-9185-4947-9fed-54d2851c5eed/HiC_S2_1p_10min_lowU_R1.fastq.gz
-      - ext: gz
+      - ext: fastqsanger.gz
         info: https://doi.org/10.5281/zenodo.1183661
         src: url
         url: https://zenodo.org/api/files/a77fcd26-9185-4947-9fed-54d2851c5eed/HiC_S2_1p_10min_lowU_R2.fastq.gz
@@ -1579,11 +1579,11 @@ items:
         info: https://zenodo.org/record/254485#.WKODmRIrKRu
         src: url
         url: https://zenodo.org/api/files/47580600-dce0-44cf-b4d9-62713ab9fa63/Megakaryocyte_R2_reverse_downsampled_SRR549358.fastqsanger.gz
-      - ext: gz
+      - ext: gtf
         info: https://zenodo.org/record/254485#.WKODmRIrKRu
         src: url
         url: https://zenodo.org/api/files/47580600-dce0-44cf-b4d9-62713ab9fa63/RefSeq_gene_annotations_mm10.bed.gtf.gz
-      - ext: gz
+      - ext: bed
         info: https://zenodo.org/record/254485#.WKODmRIrKRu
         src: url
         url: https://zenodo.org/api/files/47580600-dce0-44cf-b4d9-62713ab9fa63/RNAseq_regions_of_interest.bed.gz
@@ -1916,19 +1916,19 @@ items:
         info: https://zenodo.org/record/826906
         src: url
         url: https://zenodo.org/api/files/91891445-b940-4880-a087-751075b0f8f9/Blank_RNAi_sRNA-seq_rep3_downsampled.fastqsanger.gz
-      - ext: gz
+      - ext: fa
         info: https://zenodo.org/record/826906
         src: url
         url: https://zenodo.org/api/files/91891445-b940-4880-a087-751075b0f8f9/dm3_miRNA_hairpin_sequences.fa.gz
-      - ext: gz
+      - ext: fa
         info: https://zenodo.org/record/826906
         src: url
         url: https://zenodo.org/api/files/91891445-b940-4880-a087-751075b0f8f9/dm3_rRNA_sequences.fa.gz
-      - ext: gz
+      - ext: fa
         info: https://zenodo.org/record/826906
         src: url
         url: https://zenodo.org/api/files/91891445-b940-4880-a087-751075b0f8f9/dm3_transcriptome_sequences_downsampled.fa.gz
-      - ext: gz
+      - ext: tabular
         info: https://zenodo.org/record/826906
         src: url
         url: https://zenodo.org/api/files/91891445-b940-4880-a087-751075b0f8f9/dm3_transcriptome_Tx2Gene_downsampled.tab.gz
