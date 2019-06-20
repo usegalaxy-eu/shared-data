@@ -3,6 +3,9 @@ set -x
 
 setup-data-libraries -g https://usegalaxy.eu -a $GALAXY_API_KEY -vvv --legacy -i GTN.yaml 2>&1 | grep --line-buffered -v DEBUG
 
+# Super noisy so we'll disable it.
+set +x
+
 for dataset in $(parsec libraries show_library 7d84c2ac21245dad --contents | jq '.[] | select(.type == "file") | .id' -r); do
 	echo -n "$dataset "
 	for _ in $(seq 1 10); do
