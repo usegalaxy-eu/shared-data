@@ -2097,6 +2097,81 @@ items:
   - items:
     - description: latest
       items:
+      - ext: tsv
+        info: https://zenodo.org/record/3253142
+        src: url
+        url: https://zenodo.org/record/3253142/files/celseq_barcodes.192.tabular
+      - ext: gtf
+        info: https://zenodo.org/record/3253142
+        src: url
+        url: https://zenodo.org/record/3253142/files/Mus_musculus.GRCm38.93.mm10.UCSC.ncbiRefSeq.gtf
+      - ext: tsv
+        info: https://zenodo.org/record/3253142
+        src: url
+        url: https://zenodo.org/record/3253142/files/P1_B1.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3253142
+        src: url
+        url: https://zenodo.org/record/3253142/files/P1_B2.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3253142
+        src: url
+        url: https://zenodo.org/record/3253142/files/P1_B3.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3253142
+        src: url
+        url: https://zenodo.org/record/3253142/files/P1_B4.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3253142
+        src: url
+        url: https://zenodo.org/record/3253142/files/P2_B5.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3253142
+        src: url
+        url: https://zenodo.org/record/3253142/files/P2_B6.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3253142
+        src: url
+        url: https://zenodo.org/record/3253142/files/P2_B7.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3253142
+        src: url
+        url: https://zenodo.org/record/3253142/files/P2_B8.tsv
+      - ext: fastq
+        info: https://zenodo.org/record/3253142
+        src: url
+        url: https://zenodo.org/record/3253142/files/SRR5683689_1.subset.fastq
+      - ext: fastq
+        info: https://zenodo.org/record/3253142
+        src: url
+        url: https://zenodo.org/record/3253142/files/SRR5683689_2.subset.fastq
+      name: 'DOI: 10.5281/zenodo.3253142'
+    name: Pre-processing of Single-Cell RNA Data
+  - items:
+    - description: latest
+      items:
+      - ext: fastq.gz
+        info: https://zenodo.org/record/2573177
+        src: url
+        url: https://zenodo.org/record/2573177/files/test_barcodes_celseq2_R1.fastq.gz
+      - ext: fastq.gz
+        info: https://zenodo.org/record/2573177
+        src: url
+        url: https://zenodo.org/record/2573177/files/test_barcodes_celseq2_R2.fastq.gz
+      name: 'DOI: 10.5281/zenodo.2573177'
+    name: Understanding Barcodes
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/1511582
+        src: url
+        url: https://zenodo.org/record/1511582/files/intestinalData.tsv?
+      name: 'DOI: 10.1016/j.stem.2016.05.010'
+    name: Downstream Single-cell RNA analysis with RaceID
+  - items:
+    - description: latest
+      items:
       - ext: sqlite
         info: https://zenodo.org/record/1001880
         src: url
