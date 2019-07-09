@@ -1,2 +1,1 @@
 ansible==2.8.2
-galaxy-parsec==1.12.1
