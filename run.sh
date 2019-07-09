@@ -5,7 +5,7 @@ setup_library() {
 	key=$2
 	lib_id=$3
 
-	setup-data-libraries -g $server -a $key -vvv --legacy -i GTN.yaml 2>&1 | grep --line-buffered -v DEBUG
+	setup-data-libraries -g $server -a $key -vvv --training --legacy -i GTN.yaml 2>&1 | grep --line-buffered -v DEBUG
 
 	# Super noisy so we'll disable it.
 	for dataset in $(curl --silent "${server}/api/libraries/${lib_id}/contents" | jq '.[] | select(.type == "file") | .id' -r); do
