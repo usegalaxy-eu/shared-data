@@ -1,2 +1,2 @@
-git+https://github.com/galaxyproject/ephemeris.git@fix-data-lib-waiting
+ansible==2.8.2
 galaxy-parsec==1.12.1
