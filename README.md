@@ -28,6 +28,15 @@ Please [email us](mailto:security@usegalaxy.eu) with:
 
 1. An API key of a non-admin user
 2. The library ID for an already created data library
+
+   Please create it with:
+
+   Field       | Value
+   ---         | ---
+   Name        | `GTN - Material`
+   Synopsis    | `Galaxy Training Network Material`
+   Description | `Galaxy Training Network Material. See https://training.galaxyproject.org`
+
 3. Your server's URL
 
 And we can add you to this automation, and you'll always be ready to run trainings.
