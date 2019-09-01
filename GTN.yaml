@@ -738,7 +738,7 @@ items:
     DNA.
   items:
   - items:
-      description: latest
+    - description: latest
       items:
       - url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_CTCF_rep1.bam
         src: url
