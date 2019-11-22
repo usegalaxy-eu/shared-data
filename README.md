@@ -41,6 +41,6 @@ Please [email us](mailto:security@usegalaxy.eu) with:
 
 And we can add you to this automation, and you'll always be ready to run trainings.
 
-## TODOs:
+## Updating
 
-- no automation for training yet.
+Run `./build.sh`
