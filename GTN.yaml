@@ -1604,6 +1604,23 @@ items:
         url: https://zenodo.org/api/files/0d468136-5025-4c0f-bf8b-a8277a513a93/breast-w_train.tsv
       name: 'DOI: 10.5281/zenodo.1468039#.W8zyxBRoSAo'
     name: Basics of machine learning
+  - items:
+    - description: latest
+      items:
+      - ext: csv
+        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
+        src: url
+        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/test_rows.csv
+      - ext: csv
+        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
+        src: url
+        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/test_rows_labels.csv
+      - ext: csv
+        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
+        src: url
+        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/train_rows.csv
+      name: 'DOI: 10.5281/zenodo.2545213#.XEWTJ9-YVa0'
+    name: Regression in Machine Learning
   name: Statistics and machine learning
 - description: Training material for all kinds of transcriptomics analysis.
   items:
@@ -2367,4 +2384,101 @@ items:
     name: Identification of somatic and germline variants from tumor and normal sample
       pairs
   name: Variant Analysis
+- description: Training material for data visualisation in Galaxy
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/chrom.tab
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/debate_axis.tab
+      - ext: txt
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/debate_karyotype.txt
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/debate_links.tab
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/debate_slices.tab
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/hg18_karyotype_bands.tsv
+      - ext: txt
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/hg18_karyotype.txt
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/highlights.tab
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/VCaP_B-allele-Frequency.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/VCaP_Copy-Number.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/VCaP-highConfidenceJunctions.tsv
+      name: 'DOI: 10.5281/zenodo.3603221'
+    name: Visualisation with Circos
+  - items:
+    - description: latest
+      items:
+      - ext: gff3
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/blastp%20genes.gff3
+      - ext: blastxml
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/blastp%20vs%20swissprot.xml
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/dna%20sequencing.bam
+      - ext: bigwig
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/dna%20sequencing%20coverage.bw
+      - ext: gff3
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/genes%20%28de%20novo%29.gff3
+      - ext: gff3
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/genes%20%28NCBI%29.gff3
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/genome.fa
+      - ext: bigwig
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/RNA-Seq%20coverage%201.bw
+      - ext: bigwig
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/RNA-Seq%20coverage%202.bw
+      - ext: vcf
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/variants.vcf
+      name: 'DOI: 10.5281/zenodo.3591856'
+    name: Genomic Data Visualisation with JBrowse
+  name: Visualisation
 
