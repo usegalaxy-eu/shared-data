@@ -2178,6 +2178,88 @@ items:
   - items:
     - description: latest
       items:
+      - ext: txt.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/3M-february-2018.txt.gz
+      - ext: txt
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/737K-august-2016.txt
+      - ext: txt
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/cellranger_mit_license.txt
+      - ext: gtf
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/Homo_sapiens.GRCh37.75.gtf
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L001_I1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L001_R1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L001_R2_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L002_I1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L002_R1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L002_R2_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subset_pbmc_1k_v3_S1_L001_R1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subset_pbmc_1k_v3_S1_L001_R2_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subset_pbmc_1k_v3_S1_L002_R1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subset_pbmc_1k_v3_S1_L002_R2_001.fastq.gz
+      - ext: txt
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subsetting_data.txt
+      name: 'DOI: 10.5281/zenodo.3457880'
+    name: Pre-processing of 10X Single-Cell RNA Datasets
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/3581213
+        src: url
+        url: https://zenodo.org/api/files/78a8ec7e-3357-44b8-854d-4a9d772b4589/barcodes.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3581213
+        src: url
+        url: https://zenodo.org/api/files/78a8ec7e-3357-44b8-854d-4a9d772b4589/genes.tsv
+      - ext: mtx
+        info: https://zenodo.org/record/3581213
+        src: url
+        url: https://zenodo.org/api/files/78a8ec7e-3357-44b8-854d-4a9d772b4589/matrix.mtx
+      name: 'DOI: 10.5281/zenodo.3581213'
+    name: Clustering 3K PBMCs with Scanpy
+  - items:
+    - description: latest
+      items:
       - ext: bam
         info: https://zenodo.org/record/1491876
         src: url
