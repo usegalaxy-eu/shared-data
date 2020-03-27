@@ -1561,6 +1561,27 @@ items:
   - items:
     - description: latest
       items:
+      - ext: tsv
+        info: https://zenodo.org/record/3706539#.XmjDYHVKg5k
+        src: url
+        url: https://zenodo.org/record/3706539/files/X_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3706539#.XmjDYHVKg5k
+        src: url
+        url: https://zenodo.org/record/3706539/files/X_train.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3706539#.XmjDYHVKg5k
+        src: url
+        url: https://zenodo.org/record/3706539/files/y_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3706539#.XmjDYHVKg5k
+        src: url
+        url: https://zenodo.org/record/3706539/files/y_train.tsv
+      name: 'DOI: 10.5281/zenodo.3706539'
+    name: Introduction to deep learning
+  - items:
+    - description: latest
+      items:
       - ext: bed
         info: https://zenodo.org/record/1288429
         src: url
@@ -2312,6 +2333,34 @@ items:
       name: 'DOI: 10.5281/zenodo.826906'
     name: Differential abundance testing of small RNAs
   name: Transcriptomics
+- description: RNA interactome data analysis
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: fasta.gz
+        info: https://zenodo.org/record/3709188
+        src: url
+        url: https://zenodo.org/api/files/be3bc8ed-75bd-4470-b662-bca1a503b28d/miRNA_mature.fa.gz
+      - ext: fasta.gz
+        info: https://zenodo.org/record/3709188
+        src: url
+        url: https://zenodo.org/api/files/be3bc8ed-75bd-4470-b662-bca1a503b28d/Mus_musculus.GRCm38.dna.fa.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3709188
+        src: url
+        url: https://zenodo.org/api/files/be3bc8ed-75bd-4470-b662-bca1a503b28d/SRR2413302.100k.fastq.gz
+      - ext: fasta.gz
+        info: https://zenodo.org/record/3709188
+        src: url
+        url: https://zenodo.org/api/files/be3bc8ed-75bd-4470-b662-bca1a503b28d/transcriptome.fa.gz
+      - ext: gff.gz
+        info: https://zenodo.org/record/3709188
+        src: url
+        url: https://zenodo.org/api/files/be3bc8ed-75bd-4470-b662-bca1a503b28d/whole_transcriptome.gff.gz
+      name: 'DOI: 10.5281/zenodo.3709188'
+    name: Chimeric Read Analysis from RNA-RNA interactome data
+  name: RNA interactome
 - description: Exome sequencing means that all protein-coding genes in a genome are
     sequenced
   items:
