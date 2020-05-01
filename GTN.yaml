@@ -1074,6 +1074,39 @@ items:
   - items:
     - description: latest
       items:
+      - ext: thermo.raw
+        info: https://zenodo.org/record/3774452
+        src: url
+        url: https://zenodo.org/record/3774452/files/Sample1.raw
+      - ext: thermo.raw
+        info: https://zenodo.org/record/3774452
+        src: url
+        url: https://zenodo.org/record/3774452/files/Sample2.raw
+      - ext: fasta
+        info: https://zenodo.org/record/3774452
+        src: url
+        url: https://zenodo.org/record/3774452/files/Protein_database.fasta
+      - ext: pdf
+        info: https://zenodo.org/record/3774452
+        src: url
+        url: https://zenodo.org/record/3774452/files/PTXQC_report.pdf
+      - ext: tabular
+        info: https://zenodo.org/record/3774452
+        src: url
+        url: https://zenodo.org/record/3774452/files/MaxQuant_Protein_Groups.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/3774452
+        src: url
+        url: https://zenodo.org/record/3774452/files/MaxQuant_Peptides.tabular
+      - ext: xml
+        info: https://zenodo.org/record/3774452
+        src: url
+        url: https://zenodo.org/record/3774452/files/MaxQuant_mqpar.xml
+      name: 10.5281/zenodo.3774452
+    name: Label-free data analysis using MaxQuant
+  - items:
+    - description: latest
+      items:
       - ext: mgf
         info: https://doi.org/10.5281/zenodo.839701
         src: url
@@ -1529,6 +1562,23 @@ items:
         url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/train_rows.csv
       name: 'DOI: 10.5281/zenodo.2545213#.XEWTJ9-YVa0'
     name: Age prediction using machine learning
+  - items:
+    - description: latest
+      items:
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.3738729
+        src: url
+        url: https://zenodo.org/record/3738729/files/train_rows.csv
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.3738729
+        src: url
+        url: https://zenodo.org/record/3738729/files/test_rows_labels.csv
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.3738729
+        src: url
+        url: https://zenodo.org/record/3738729/files/test_rows.csv
+      name: DOI:10.5281/zenodo.3738729
+    name: Classification in Machine Learning
   - items:
     - description: latest
       items:
