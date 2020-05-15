@@ -1611,6 +1611,23 @@ items:
   - items:
     - description: latest
       items:
+      - ext: csv
+        info: https://zenodo.org/record/3813447#.XrVJJHUzaV4
+        src: url
+        url: https://zenodo.org/record/3813447/files/iris.csv
+      - ext: csv
+        info: https://zenodo.org/record/3813447#.XrVJJHUzaV4
+        src: url
+        url: https://zenodo.org/record/3813447/files/moon.csv
+      - ext: csv
+        info: https://zenodo.org/record/3813447#.XrVJJHUzaV4
+        src: url
+        url: https://zenodo.org/record/3813447/files/circles.csv
+      name: 'DOI: 10.5281/zenodo.3813447'
+    name: Clustering in Machine Learning
+  - items:
+    - description: latest
+      items:
       - ext: tsv
         info: https://zenodo.org/record/3706539#.XmjDYHVKg5k
         src: url
