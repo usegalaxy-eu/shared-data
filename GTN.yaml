@@ -220,6 +220,155 @@ items:
       name: 'DOI: 10.5281/zenodo.1324204'
     name: Regional GAM
   name: Ecology
+- description: DNA methylation is an epigenetic mechanism used by higher eukaryotes
+    and involved in e.g. gene expression, X-Chromosome inactivating, imprinting, and
+    gene silencing of germline specific gene and repetitive elements.
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: gz
+        info: https://zenodo.org/record/3862793
+        src: url
+        url: https://zenodo.org/api/files/b205aa3d-919b-4fbb-a8dd-3ae01d5daa91/ENCFF933NTR.bed.gz
+      - ext: gz
+        info: https://zenodo.org/record/3862793
+        src: url
+        url: https://zenodo.org/api/files/b205aa3d-919b-4fbb-a8dd-3ae01d5daa91/SRR891268_chr22_enriched_R1.fastq.gz
+      - ext: gz
+        info: https://zenodo.org/record/3862793
+        src: url
+        url: https://zenodo.org/api/files/b205aa3d-919b-4fbb-a8dd-3ae01d5daa91/SRR891268_chr22_enriched_R2.fastq.gz
+      name: 'DOI: 10.5281/zenodo.3862793'
+    name: ATAC-Seq data analysis
+  - items:
+    - description: latest
+      items:
+      - ext: idat
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588704_8795207135_R01C02_Grn.idat
+      - ext: idat
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588704_8795207135_R01C02_Red.idat
+      - ext: idat
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588705_8795207119_R05C02_Grn.idat
+      - ext: idat
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588705_8795207119_R05C02_Red.idat
+      - ext: idat
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588706_8795207135_R02C02_Grn.idat
+      - ext: idat
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588706_8795207135_R02C02_Red.idat
+      - ext: idat
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588707_8795207119_R06C02_Grn.idat
+      - ext: idat
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588707_8795207119_R06C02_Red.idat
+      - ext: txt
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/phenotypeTable.txt
+      name: 'DOI: 10.5281/zenodo.1251211#.WwREQ1Mvz-Y'
+    name: EWAS data analysis of 450k data
+  - items:
+    - description: latest
+      items:
+      - ext: bed
+        info: https://doi.org/10.5281/zenodo.1183661
+        src: url
+        url: https://zenodo.org/api/files/a77fcd26-9185-4947-9fed-54d2851c5eed/dm3_genes.bed
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.1183661
+        src: url
+        url: https://zenodo.org/api/files/a77fcd26-9185-4947-9fed-54d2851c5eed/HiC_S2_1p_10min_lowU_R1.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.1183661
+        src: url
+        url: https://zenodo.org/api/files/a77fcd26-9185-4947-9fed-54d2851c5eed/HiC_S2_1p_10min_lowU_R2.fastq.gz
+      name: 'DOI: 10.5281/zenodo.1183661'
+    name: Hi-C analysis of Drosophila melanogaster cells using HiCExplorer
+  - items:
+    - description: latest
+      items:
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT089_CpG.meth.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT089_CpG.meth_ucsc.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT126_CpG.meth.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT126_CpG.meth_ucsc.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT198_CpG.meth.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT198_CpG.meth_ucsc.bedGraph
+      - ext: bed
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/CpGIslands.bed
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/MCF7_CpG.meth.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/MCF7_CpG.meth_ucsc.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/NB1_CpG.meth.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/NB1_CpG.meth_ucsc.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/NB2_CpG.meth.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/NB2_CpG.meth_ucsc.bedGraph
+      - ext: fastqsanger
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/subset_1.fastq
+      - ext: fastqsanger
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/subset_2.fastq
+      - ext: bam
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/aligned_subset.bam
+      name: 'DOI: 10.5281/zenodo.557099'
+    name: DNA Methylation data analysis
+  name: Epigenetics
 - description: ChIP-sequencing is a method used to analyze protein interactions with
     DNA.
   items:
@@ -399,138 +548,6 @@ items:
     name: Identification of the binding sites of the T-cell acute lymphocytic leukemia
       protein 1 (TAL1)
   name: ChIP-Seq data analysis
-- description: DNA methylation is an epigenetic mechanism used by higher eukaryotes
-    and involved in e.g. gene expression, X-Chromosome inactivating, imprinting, and
-    gene silencing of germline specific gene and repetitive elements.
-  items:
-  - items:
-    - description: latest
-      items:
-      - ext: idat
-        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
-        src: url
-        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588704_8795207135_R01C02_Grn.idat
-      - ext: idat
-        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
-        src: url
-        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588704_8795207135_R01C02_Red.idat
-      - ext: idat
-        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
-        src: url
-        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588705_8795207119_R05C02_Grn.idat
-      - ext: idat
-        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
-        src: url
-        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588705_8795207119_R05C02_Red.idat
-      - ext: idat
-        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
-        src: url
-        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588706_8795207135_R02C02_Grn.idat
-      - ext: idat
-        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
-        src: url
-        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588706_8795207135_R02C02_Red.idat
-      - ext: idat
-        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
-        src: url
-        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588707_8795207119_R06C02_Grn.idat
-      - ext: idat
-        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
-        src: url
-        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588707_8795207119_R06C02_Red.idat
-      - ext: txt
-        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
-        src: url
-        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/phenotypeTable.txt
-      name: 'DOI: 10.5281/zenodo.1251211#.WwREQ1Mvz-Y'
-    name: EWAS data analysis of 450k data
-  - items:
-    - description: latest
-      items:
-      - ext: bed
-        info: https://doi.org/10.5281/zenodo.1183661
-        src: url
-        url: https://zenodo.org/api/files/a77fcd26-9185-4947-9fed-54d2851c5eed/dm3_genes.bed
-      - ext: fastqsanger.gz
-        info: https://doi.org/10.5281/zenodo.1183661
-        src: url
-        url: https://zenodo.org/api/files/a77fcd26-9185-4947-9fed-54d2851c5eed/HiC_S2_1p_10min_lowU_R1.fastq.gz
-      - ext: fastqsanger.gz
-        info: https://doi.org/10.5281/zenodo.1183661
-        src: url
-        url: https://zenodo.org/api/files/a77fcd26-9185-4947-9fed-54d2851c5eed/HiC_S2_1p_10min_lowU_R2.fastq.gz
-      name: 'DOI: 10.5281/zenodo.1183661'
-    name: Hi-C analysis of Drosophila melanogaster cells using HiCExplorer
-  - items:
-    - description: latest
-      items:
-      - ext: bedgraph
-        info: https://zenodo.org/record/557099
-        src: url
-        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT089_CpG.meth.bedGraph
-      - ext: bedgraph
-        info: https://zenodo.org/record/557099
-        src: url
-        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT089_CpG.meth_ucsc.bedGraph
-      - ext: bedgraph
-        info: https://zenodo.org/record/557099
-        src: url
-        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT126_CpG.meth.bedGraph
-      - ext: bedgraph
-        info: https://zenodo.org/record/557099
-        src: url
-        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT126_CpG.meth_ucsc.bedGraph
-      - ext: bedgraph
-        info: https://zenodo.org/record/557099
-        src: url
-        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT198_CpG.meth.bedGraph
-      - ext: bedgraph
-        info: https://zenodo.org/record/557099
-        src: url
-        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT198_CpG.meth_ucsc.bedGraph
-      - ext: bed
-        info: https://zenodo.org/record/557099
-        src: url
-        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/CpGIslands.bed
-      - ext: bedgraph
-        info: https://zenodo.org/record/557099
-        src: url
-        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/MCF7_CpG.meth.bedGraph
-      - ext: bedgraph
-        info: https://zenodo.org/record/557099
-        src: url
-        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/MCF7_CpG.meth_ucsc.bedGraph
-      - ext: bedgraph
-        info: https://zenodo.org/record/557099
-        src: url
-        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/NB1_CpG.meth.bedGraph
-      - ext: bedgraph
-        info: https://zenodo.org/record/557099
-        src: url
-        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/NB1_CpG.meth_ucsc.bedGraph
-      - ext: bedgraph
-        info: https://zenodo.org/record/557099
-        src: url
-        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/NB2_CpG.meth.bedGraph
-      - ext: bedgraph
-        info: https://zenodo.org/record/557099
-        src: url
-        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/NB2_CpG.meth_ucsc.bedGraph
-      - ext: fastqsanger
-        info: https://zenodo.org/record/557099
-        src: url
-        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/subset_1.fastq
-      - ext: fastqsanger
-        info: https://zenodo.org/record/557099
-        src: url
-        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/subset_2.fastq
-      - ext: bam
-        info: https://zenodo.org/record/557099
-        src: url
-        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/aligned_subset.bam
-      name: 'DOI: 10.5281/zenodo.557099'
-    name: DNA Methylation data analysis
-  name: Epigenetics
 - description: A collection of microtutorials explaining various features of the Galaxy
     user interface
   items:
