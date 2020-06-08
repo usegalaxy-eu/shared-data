@@ -227,15 +227,15 @@ items:
   - items:
     - description: latest
       items:
-      - ext: gz
+      - ext: bed
         info: https://zenodo.org/record/3862793
         src: url
         url: https://zenodo.org/api/files/b205aa3d-919b-4fbb-a8dd-3ae01d5daa91/ENCFF933NTR.bed.gz
-      - ext: gz
+      - ext: fastqsanger.gz
         info: https://zenodo.org/record/3862793
         src: url
         url: https://zenodo.org/api/files/b205aa3d-919b-4fbb-a8dd-3ae01d5daa91/SRR891268_chr22_enriched_R1.fastq.gz
-      - ext: gz
+      - ext: fastqsanger.gz
         info: https://zenodo.org/record/3862793
         src: url
         url: https://zenodo.org/api/files/b205aa3d-919b-4fbb-a8dd-3ae01d5daa91/SRR891268_chr22_enriched_R2.fastq.gz
