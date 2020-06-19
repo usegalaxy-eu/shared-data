@@ -1713,18 +1713,18 @@ items:
     - description: latest
       items:
       - ext: csv
-        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
+        info: http://doi.org/10.5281/zenodo.2545213
         src: url
         url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/test_rows.csv
       - ext: csv
-        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
+        info: http://doi.org/10.5281/zenodo.2545213
         src: url
         url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/test_rows_labels.csv
       - ext: csv
-        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
+        info: http://doi.org/10.5281/zenodo.2545213
         src: url
         url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/train_rows.csv
-      name: 'DOI: 10.5281/zenodo.2545213#.XEWTJ9-YVa0'
+      name: 'DOI: 10.5281/zenodo.2545213'
     name: Regression in Machine Learning
   name: Statistics and machine learning
 - description: Training material for all kinds of transcriptomics analysis.
