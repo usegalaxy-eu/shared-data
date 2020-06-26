@@ -1629,17 +1629,17 @@ items:
     - description: latest
       items:
       - ext: csv
-        info: https://zenodo.org/record/3813447#.XrVJJHUzaV4
+        info: https://doi.org/10.5281/zenodo.3813447
         src: url
-        url: https://zenodo.org/record/3813447/files/iris.csv
+        url: https://zenodo.org/api/files/4cc718d4-8a36-4d05-a211-b954fbc015f7/iris.csv
       - ext: csv
-        info: https://zenodo.org/record/3813447#.XrVJJHUzaV4
+        info: https://doi.org/10.5281/zenodo.3813447
         src: url
-        url: https://zenodo.org/record/3813447/files/moon.csv
+        url: https://zenodo.org/api/files/4cc718d4-8a36-4d05-a211-b954fbc015f7/circles.csv
       - ext: csv
-        info: https://zenodo.org/record/3813447#.XrVJJHUzaV4
+        info: https://doi.org/10.5281/zenodo.3813447
         src: url
-        url: https://zenodo.org/record/3813447/files/circles.csv
+        url: https://zenodo.org/api/files/4cc718d4-8a36-4d05-a211-b954fbc015f7/moon.csv
       name: 'DOI: 10.5281/zenodo.3813447'
     name: Clustering in Machine Learning
   - items:
