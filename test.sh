@@ -1,7 +1,7 @@
 ec=0
 
 IFS=$'\n';
-for x in $(cat decrypt.json | jq 'to_entries[] | "\(.key) \(.value.key) \(.value.email) \(.value.url) \(.value.lib)"' -r); do
+for x in $(cat secrets.json | jq 'to_entries[] | "\(.key) \(.value.key) \(.value.email) \(.value.url) \(.value.lib)"' -r); do
 	IFS=' ';
 	read -a arr < <(echo $x)
 
