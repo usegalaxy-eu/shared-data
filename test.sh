@@ -1,3 +1,4 @@
+#!/bin/bash
 ec=0
 
 IFS=$'\n';
