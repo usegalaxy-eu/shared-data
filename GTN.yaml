@@ -53,6 +53,10 @@ items:
         info: https://doi.org/10.5281/zenodo.582600
         src: url
         url: https://zenodo.org/api/files/287966da-5411-4f79-8cfb-0ffa84d0d6cc/mutant_R2.fastq
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.582600
+        src: url
+        url: https://zenodo.org/api/files/287966da-5411-4f79-8cfb-0ffa84d0d6cc/wildtype.fna
       name: 'DOI: 10.5281/zenodo.582600'
     name: Introduction to Genome Assembly
   - items:
@@ -2605,6 +2609,37 @@ items:
       name: 'DOI: 10.5281/zenodo.2582555'
     name: Identification of somatic and germline variants from tumor and normal sample
       pairs
+  - description: latest
+    items:
+    - ext: fastqsanger.gz
+      info: https://doi.org/10.5281/zenodo.3960260
+      src: url
+      url: https://zenodo.org/record/3960260/files/004-2_1.fastq.gz
+    - ext: fastqsanger.gz
+      info: https://doi.org/10.5281/zenodo.3960260
+      src: url
+      url: https://zenodo.org/record/3960260/files/004-2_2.fastq.gz
+    - ext: genbank
+      info: https://doi.org/10.5281/zenodo.3960260
+      src: url
+      url: https://zenodo.org/record/https://zenodo.org/record/3960260/files/Mycobacterium_tuberculosis_ancestral_reference.gbk/files/Mycobacterium_tuberculosis_ancestral_reference.gbk
+    - ext: fasta
+      info: https://doi.org/10.5281/zenodo.3960260
+      src: url
+      url: https://zenodo.org/record/3960260/files/MTB_ancestor_reference.fasta
+    - ext: fasta
+      info: https://doi.org/10.5281/zenodo.3960260
+      src: url
+      url: https://zenodo.org/record/3960260/files/Mycobacterium_tuberculosis_h37rv.ASM19595v2.45.chromosome.Chromosome.gff3
+    - ext: fastqsanger.gz
+      info: https://doi.org/10.5281/zenodo.3960260
+      src: url
+      url: https://zenodo.org/record/3960260/files/018-1_1.fastq.gz
+    - ext: fastqsanger.gz
+      info: https://doi.org/10.5281/zenodo.3960260
+      src: url
+      url: https://zenodo.org/record/3960260/files/018-1_2.fastq.gz
+    name: 'DOI: 10.5281/zenodo.3960260'
   name: Variant Analysis
 - description: Training material for data visualisation in Galaxy
   items:
