@@ -10,14 +10,8 @@ The central repo for the data libraries that are shared across `usegalaxy.*`. Th
 
      ```json
      {
-       "eu": {
-         "email": "training@usegalaxy.eu",
-         "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-       },
-       "org": {
-         "email": "training@usegalaxy.org",
-         "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-       }
+       "eu": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+       "org": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
      }
      ```
 

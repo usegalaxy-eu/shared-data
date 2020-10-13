@@ -29,7 +29,7 @@ setup_library() {
 export IFS=$'\n';
 for line in $(jq -c '.[]' < servers.json ); do
     id=$(echo "$line" | jq -r '.id');
-    key=$(jq ".$id.key" -r < secrets.json);
+    key=$(jq ".$id" -r < secrets.json);
     url=$(echo "$line" | jq -r '.url');
 
     for lib_yaml in $(echo "$line" | jq -r '.libs | keys[]'); do

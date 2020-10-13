@@ -2,10 +2,11 @@
 ec=0
 
 IFS=$'\n';
-for line in $(cat secrets.json | jq -c '.[]'); do
-    email=$(echo "$line" | jq -r '.email');
-    key=$(echo "$line" | jq -r '.key');
+for line in $(jq -c '.[]' < servers.json ); do
+    id=$(echo "$line" | jq -r '.id');
+    key=$(jq ".$id" -r < secrets.json);
     url=$(echo "$line" | jq -r '.url');
+
     for lib_yaml in $(echo "$line" | jq -r '.libs | keys[]'); do
         lib_id=$(echo "$line" | jq -r ".libs | .\"$lib_yaml\"");
         echo "# Checking $lib_id on $url";
