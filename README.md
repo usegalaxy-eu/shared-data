@@ -12,25 +12,16 @@ The central repo for the data libraries that are shared across `usegalaxy.*`. Th
      {
        "eu": {
          "email": "training@usegalaxy.eu",
-         "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-         "url": "https://usegalaxy.eu",
-         "libs": {
-           "GTN.yaml": "7d84c2ac21245dad",
-           "EI.yaml": "eruhb4w504jv90eje"
-         }
+         "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
        },
        "org": {
          "email": "training@usegalaxy.org",
-         "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-         "url": "https://usegalaxy.org",
-         "libs": {
-           "GTN.yaml": "nh4vh4hv954h9hb8t"
-         }
+         "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
        }
      }
      ```
 
-  2. We loop over these servers, and run `setup-data-libraries` for each one.
+  2. We loop over the servers in [`servers.json`](./servers.json), and run `setup-data-libraries` for each one.
   3. At the end of the loop we update the permissions on each dataset to be public, if it wasn't already.
 
 ## Joining

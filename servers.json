@@ -1,0 +1,30 @@
+{
+  "eu": {
+    "id": "eu",
+    "url": "https://usegalaxy.eu",
+    "libs": {
+      "GTN.yaml": "7d84c2ac21245dad"
+    }
+  },
+  "org": {
+    "id": "org",
+    "url": "https://usegalaxy.org",
+    "libs": {
+      "GTN.yaml": "6f4082136a3b05e9"
+    }
+  },
+  "au": {
+    "id": "au",
+    "url": "https://usegalaxy.org.au",
+    "libs": {
+      "GTN.yaml": "a2fdf0982f5ec4d2"
+    }
+  },
+  "fr": {
+    "id": "fr",
+    "url": "https://usegalaxy.fr",
+    "libs": {
+      "GTN.yaml": "33b43b4e7093c91f"
+    }
+  }
+}
