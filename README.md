@@ -14,7 +14,18 @@ The central repo for the data libraries that are shared across `usegalaxy.*`. Th
          "email": "training@usegalaxy.eu",
          "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
          "url": "https://usegalaxy.eu",
-         "lib": "7d84c2ac21245dad"
+         "libs": {
+           "GTN.yaml": "7d84c2ac21245dad",
+           "EI.yaml": "eruhb4w504jv90eje"
+         }
+       },
+       "org": {
+         "email": "training@usegalaxy.org",
+         "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+         "url": "https://usegalaxy.org",
+         "libs": {
+           "GTN.yaml": "nh4vh4hv954h9hb8t"
+         }
        }
      }
      ```
