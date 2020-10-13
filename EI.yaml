@@ -1,0 +1,132 @@
+destination:
+  description: Earlham Institute Training Material
+  name: EI Training Material
+  type: library
+items:
+- items:
+  - items:
+    - ext: fastqsanger.gz
+      info: https://zenodo.org/record/4082232
+      name: A1_R1.fastq.gz
+      src: url
+      url: https://zenodo.org/record/4082232/files/A1_R1.fastq.gz
+    - ext: fastqsanger.gz
+      info: https://zenodo.org/record/4082232
+      name: A1_R2.fastq.gz
+      src: url
+      url: https://zenodo.org/record/4082232/files/A1_R2.fastq.gz
+    - ext: gtf
+      info: https://zenodo.org/record/4082232
+      name: Arabidopsis_thaliana.TAIR10.37.gtf
+      src: url
+      url: https://zenodo.org/record/4082232/files/Arabidopsis_thaliana.TAIR10.37.gtf
+    name: Single Cell 1
+  - items:
+    - ext: fastqsanger.gz
+      info: https://zenodo.org/record/4082232
+      name: A1_R1.fastq.gz
+      src: url
+      url: https://zenodo.org/record/4082232/files/A1_R1.fastq.gz
+    - ext: fastqsanger.gz
+      info: https://zenodo.org/record/4082232
+      name: A1_R2.fastq.gz
+      src: url
+      url: https://zenodo.org/record/4082232/files/A1_R2.fastq.gz
+    - ext: fastqsanger.gz
+      info: https://zenodo.org/record/4082232
+      name: A2_R1.fastq.gz
+      src: url
+      url: https://zenodo.org/record/4082232/files/A2_R1.fastq.gz
+    - ext: fastqsanger.gz
+      info: https://zenodo.org/record/4082232
+      name: A2_R2.fastq.gz
+      src: url
+      url: https://zenodo.org/record/4082232/files/A2_R2.fastq.gz
+    - ext: fastqsanger.gz
+      info: https://zenodo.org/record/4082232
+      name: A3_R1.fastq.gz
+      src: url
+      url: https://zenodo.org/record/4082232/files/A3_R1.fastq.gz
+    - ext: fastqsanger.gz
+      info: https://zenodo.org/record/4082232
+      name: A3_R2.fastq.gz
+      src: url
+      url: https://zenodo.org/record/4082232/files/A3_R2.fastq.gz
+    - ext: fastqsanger.gz
+      info: https://zenodo.org/record/4082232
+      name: A4_R1.fastq.gz
+      src: url
+      url: https://zenodo.org/record/4082232/files/A4_R1.fastq.gz
+    - ext: fastqsanger.gz
+      info: https://zenodo.org/record/4082232
+      name: A4_R2.fastq.gz
+      src: url
+      url: https://zenodo.org/record/4082232/files/A4_R2.fastq.gz
+    - ext: fastqsanger.gz
+      info: https://zenodo.org/record/4082232
+      name: A5_R1.fastq.gz
+      src: url
+      url: https://zenodo.org/record/4082232/files/A5_R1.fastq.gz
+    - ext: fastqsanger.gz
+      info: https://zenodo.org/record/4082232
+      name: A5_R2.fastq.gz
+      src: url
+      url: https://zenodo.org/record/4082232/files/A5_R2.fastq.gz
+    - ext: gtf
+      info: https://zenodo.org/record/4082232
+      name: Arabidopsis_thaliana.TAIR10.37.gtf
+      src: url
+      url: https://zenodo.org/record/4082232/files/Arabidopsis_thaliana.TAIR10.37.gtf
+    name: Single Cell 2
+  - items:
+    - ext: tabular
+      info: https://zenodo.org/record/4082232
+      name: annotation.txt
+      src: url
+      url: https://zenodo.org/record/4082232/files/annotation3.txt
+    - ext: tabular
+      info: https://zenodo.org/record/4082232
+      name: expression_matrix.txt
+      src: url
+      url: https://zenodo.org/record/4082232/files/expression_matrix3.txt
+    - ext: txt
+      info: https://zenodo.org/record/4082232
+      name: mt_genes.txt
+      src: url
+      url: https://zenodo.org/record/4082232/files/mt_genes3.txt
+    name: Single Cell 3
+  - items:
+    - ext: tabular
+      info: https://zenodo.org/record/4082232
+      name: annotation.txt
+      src: url
+      url: https://zenodo.org/record/4082232/files/annotation4.txt
+    - ext: tabular
+      info: https://zenodo.org/record/4082232
+      name: expression_matrix.txt
+      src: url
+      url: https://zenodo.org/record/4082232/files/expression_matrix4.txt
+    - ext: txt
+      info: https://zenodo.org/record/4082232
+      name: mt_genes.txt
+      src: url
+      url: https://zenodo.org/record/4082232/files/mt_genes4.txt
+    name: Single Cell 4
+  - items:
+    - ext: tabular
+      info: https://zenodo.org/record/4082232
+      name: annotation.txt
+      src: url
+      url: https://zenodo.org/record/4082232/files/annotation5.txt
+    - ext: tabular
+      info: https://zenodo.org/record/4082232
+      name: expression_matrix.txt
+      src: url
+      url: https://zenodo.org/record/4082232/files/expression_matrix5.txt
+    - ext: txt
+      info: https://zenodo.org/record/4082232
+      name: mt_genes.txt
+      src: url
+      url: https://zenodo.org/record/4082232/files/mt_genes5.txt
+    name: Single Cell 5
+  name: Single Cell 2020
