@@ -1,6 +1,6 @@
 destination:
-  description: Earlham Institute Training Material
-  name: EI Training Material
+  description: Data for Galaxy courses
+  name: Galaxy courses
   type: library
 items:
 - items:
@@ -129,4 +129,4 @@ items:
       src: url
       url: https://zenodo.org/record/4082232/files/mt_genes5.txt
     name: Single Cell 5
-  name: Single Cell 2020
+  name: EI Single Cell 2020
