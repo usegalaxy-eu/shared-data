@@ -9,7 +9,7 @@ setup_library() {
     setup-data-libraries -g "$server" -a "$key" -vvv --training --legacy -i "$lib_yaml" 2>&1 | grep --line-buffered -v DEBUG
 
     # Super noisy so we'll disable it.
-    for dataset in $(curl --silent --show-error "${server}/api/libraries/${lib_id}/contents" | jq '.[] | select(.type == "file") | .id' -r); do
+    for dataset in $(curl --silent --show-error "${server}/api/libraries/${lib_id}/contents?key=$key" | jq '.[] | select(.type == "file") | .id' -r); do
         echo -n "$dataset "
         for _ in $(seq 1 10); do
             echo -n '.'
