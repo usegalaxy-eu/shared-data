@@ -9,11 +9,11 @@ setup_library() {
     setup-data-libraries -g "$server" -a "$key" -vvv --training --legacy -i "$lib_yaml" 2>&1 | grep --line-buffered -v DEBUG
 
     # Super noisy so we'll disable it.
-    for dataset in $(curl --silent "${server}/api/libraries/${lib_id}/contents" | jq '.[] | select(.type == "file") | .id' -r); do
+    for dataset in $(curl --silent --show-error "${server}/api/libraries/${lib_id}/contents" | jq '.[] | select(.type == "file") | .id' -r); do
         echo -n "$dataset "
         for _ in $(seq 1 10); do
             echo -n '.'
-            output="$(curl --silent "${server}/api/libraries/datasets/${dataset}/permissions?action=set_permissions&key=$key" --data '')"
+            output=$(curl --silent --show-error "${server}/api/libraries/datasets/${dataset}/permissions?action=set_permissions&key=$key" --data '')
             echo "$output" | grep --quiet access_dataset_roles
             ec=$?
             if (( ec == 0 )); then
@@ -27,10 +27,15 @@ setup_library() {
 }
 
 export IFS=$'\n';
-for line in $(jq -c '.[]' < servers.json ); do
+for line in $(jq -c '.[]' < servers.json); do
     id=$(echo "$line" | jq -r '.id');
     key=$(jq ".$id" -r < secrets.json);
     url=$(echo "$line" | jq -r '.url');
+
+    if [ -z "$(curl --silent --show-error "$url/api/version" | jq -r '.version_major')" ]; then
+        echo "$url seems down, skipping";
+        continue;
+    fi
 
     for lib_yaml in $(echo "$line" | jq -r '.libs | keys[]'); do
         lib_id=$(echo "$line" | jq -r ".libs | .\"$lib_yaml\"");
