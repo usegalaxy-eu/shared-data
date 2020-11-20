@@ -82,6 +82,23 @@ items:
   - items:
     - description: latest
       items:
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.1324204
+        src: url
+        url: https://zenodo.org/api/files/65ae2c8c-3d4c-4e16-b485-883c58a16573/regional%20GAM%20data.csv
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.1324204
+        src: url
+        url: https://zenodo.org/api/files/65ae2c8c-3d4c-4e16-b485-883c58a16573/Dataset%20multispecies%20Regional%20GAM.csv
+      - ext: rdata
+        info: https://doi.org/10.5281/zenodo.1324204
+        src: url
+        url: https://zenodo.org/api/files/65ae2c8c-3d4c-4e16-b485-883c58a16573/gatekeeper_CM%20.RData
+      name: 'DOI: 10.5281/zenodo.1324204'
+    name: Regional GAM
+  - items:
+    - description: latest
+      items:
       - ext: txt
         info: https://doi.org/10.5281/zenodo.1134547
         src: url
@@ -206,23 +223,6 @@ items:
         url: https://zenodo.org/api/files/dc22cf60-8ec9-4d2f-83e3-16e1922aa079/Reference_genome_11_chromosomes.fasta
       name: 'DOI: 10.5281/zenodo.1134547'
     name: RAD-Seq Reference-based data analysis
-  - items:
-    - description: latest
-      items:
-      - ext: csv
-        info: https://doi.org/10.5281/zenodo.1324204
-        src: url
-        url: https://zenodo.org/api/files/65ae2c8c-3d4c-4e16-b485-883c58a16573/regional%20GAM%20data.csv
-      - ext: csv
-        info: https://doi.org/10.5281/zenodo.1324204
-        src: url
-        url: https://zenodo.org/api/files/65ae2c8c-3d4c-4e16-b485-883c58a16573/Dataset%20multispecies%20Regional%20GAM.csv
-      - ext: rdata
-        info: https://doi.org/10.5281/zenodo.1324204
-        src: url
-        url: https://zenodo.org/api/files/65ae2c8c-3d4c-4e16-b485-883c58a16573/gatekeeper_CM%20.RData
-      name: 'DOI: 10.5281/zenodo.1324204'
-    name: Regional GAM
   name: Ecology
 - description: DNA methylation is an epigenetic mechanism used by higher eukaryotes
     and involved in e.g. gene expression, X-Chromosome inactivating, imprinting, and
