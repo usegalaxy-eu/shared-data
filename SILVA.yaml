@@ -28,13 +28,13 @@ items:
     name: Multi FASTA files of the SSU/LSU databases
   - items:
     - ext: arb.gz
-      info: SILVA_138.1_SSURef_NR99_12_06_20_opt.arb.gz
-      name: A1_R1.fastq.gz
+      info: https://www.arb-silva.de/projects/ssu-ref-nr/
+      name: SILVA_138.1_SSURef_NR99_12_06_20_opt.arb.gz
       src: url
       url: https://www.arb-silva.de/fileadmin/silva_databases/release_138.1/ARB_files/SILVA_138.1_SSURef_NR99_12_06_20_opt.arb.gz
     - ext: arb.gz
-      info: SILVA_138.1_LSURef_NR99_30_06_20_opt.arb.gz
-      name: A1_R2.fastq.gz
+      info: https://www.arb-silva.de/projects/ssu-ref-nr/
+      name: SILVA_138.1_LSURef_NR99_30_06_20_opt.arb.gz
       src: url
       url: https://www.arb-silva.de/fileadmin/silva_databases/release_138.1/ARB_files/SILVA_138.1_LSURef_NR99_30_06_20_opt.arb.gz
     name: ARB Database of the SSU/LSU databases
