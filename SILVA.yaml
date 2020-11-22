@@ -1,0 +1,41 @@
+destination:
+  description: SILVA FASTA and ARB datasets for Galaxy
+  name: SILVA datasets
+  type: library
+items:
+- items:
+  - items:
+    - ext: fasta.gz
+      info: https://www.arb-silva.de/projects/ssu-ref-nr/
+      name: SILVA_138.1_SSURef_NR99_tax_silva_full_align_trunc.fasta.gz
+      src: url
+      url: https://www.arb-silva.de/fileadmin/silva_databases/release_138.1/Exports/SILVA_138.1_SSURef_NR99_tax_silva_full_align_trunc.fasta.gz
+    - ext: fasta.gz
+      info: https://www.arb-silva.de/projects/ssu-ref-nr/
+      name: SILVA_138.1_LSURef_NR99_tax_silva_full_align_trunc.fasta.gz
+      src: url
+      url: https://www.arb-silva.de/fileadmin/silva_databases/release_138.1/Exports/SILVA_138.1_LSURef_NR99_tax_silva_full_align_trunc.fasta.gz
+    - ext: fasta.gz
+      info: https://www.arb-silva.de/projects/ssu-ref-nr/
+      name: SILVA_138.1_SSURef_NR99_tax_silva_trunc.fasta.gz
+      src: url
+      url: https://www.arb-silva.de/fileadmin/silva_databases/release_138.1/Exports/SILVA_138.1_SSURef_NR99_tax_silva_trunc.fasta.gz
+    - ext: fasta.gz
+      info: https://www.arb-silva.de/projects/ssu-ref-nr/
+      name: SILVA_138.1_LSURef_NR99_tax_silva_trunc.fasta.gz
+      src: url
+      url: https://www.arb-silva.de/fileadmin/silva_databases/release_138.1/Exports/SILVA_138.1_LSURef_NR99_tax_silva_trunc.fasta.gz
+    name: Multi FASTA files of the SSU/LSU databases
+  - items:
+    - ext: arb.gz
+      info: SILVA_138.1_SSURef_NR99_12_06_20_opt.arb.gz
+      name: A1_R1.fastq.gz
+      src: url
+      url: https://www.arb-silva.de/fileadmin/silva_databases/release_138.1/ARB_files/SILVA_138.1_SSURef_NR99_12_06_20_opt.arb.gz
+    - ext: arb.gz
+      info: SILVA_138.1_LSURef_NR99_30_06_20_opt.arb.gz
+      name: A1_R2.fastq.gz
+      src: url
+      url: https://www.arb-silva.de/fileadmin/silva_databases/release_138.1/ARB_files/SILVA_138.1_LSURef_NR99_30_06_20_opt.arb.gz
+    name: ARB Database of the SSU/LSU databases
+  name: SILVA datasets for Galaxy
