@@ -1037,6 +1037,27 @@ items:
   - items:
     - description: latest
       items:
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4274812
+        src: url
+        url: https://zenodo.org/api/files/e1ebd35f-16df-4340-8a40-d57a7681a1dd/bulk_bottom.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4274812
+        src: url
+        url: https://zenodo.org/api/files/e1ebd35f-16df-4340-8a40-d57a7681a1dd/bulk_top.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4274812
+        src: url
+        url: https://zenodo.org/api/files/e1ebd35f-16df-4340-8a40-d57a7681a1dd/rhizosphere_bottom.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4274812
+        src: url
+        url: https://zenodo.org/api/files/e1ebd35f-16df-4340-8a40-d57a7681a1dd/rhizosphere_top.fastq.gz
+      name: 'DOI: 10.5281/zenodo.4274812'
+    name: 16s microbial analysis with nanopore data
+  - items:
+    - description: latest
+      items:
       - ext: fasta
         info: https://doi.org/10.5281/zenodo.3247504
         src: url
