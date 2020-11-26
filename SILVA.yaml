@@ -1,6 +1,6 @@
 destination:
-  description: SILVA FASTA and ARB datasets for Galaxy
-  name: SILVA datasets
+  description: Reference genomes and gene annotations
+  name: "Genomes + annotations"
   type: library
 items:
 - items:
