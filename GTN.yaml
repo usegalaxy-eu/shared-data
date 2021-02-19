@@ -1332,6 +1332,111 @@ items:
   - items:
     - description: latest
       items:
+      - ext: fasta
+        info: https://zenodo.org/record/4544529
+        src: url
+        url: https://zenodo.org/record/4544529/files/input_protein_database.fasta
+      - ext: tabular
+        info: https://zenodo.org/record/4544529
+        src: url
+        url: https://zenodo.org/record/4544529/files/input_annotation_file.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/4544529
+        src: url
+        url: https://zenodo.org/record/4544529/files/input_comparison_matrix.tabular
+      - ext: pdf
+        info: https://zenodo.org/record/4544529
+        src: url
+        url: https://zenodo.org/record/4544529/files/PTXQC_report.pdf
+      - ext: tabular
+        info: https://zenodo.org/record/4544529
+        src: url
+        url: https://zenodo.org/record/4544529/files/protein_groups.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/4544529
+        src: url
+        url: https://zenodo.org/record/4544529/files/Evidence.tabular
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment105_metast_cSCC1.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment106_metast_cSCC2.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment107_metast_cSCC3.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment109_metast_cSCC4.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment116_metast_cSCC5.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment117_metast_cSCC6.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment118_metast_cSCC7.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment119_metast_cSCC8.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment120_metast_cSCC9.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment121_metast_cSCC10.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment122_metast_cSCC11.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment123_metast_cSCC12.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment124_metast_cSCC13.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment110_RDEB_cSCC1.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment111_RDEB_cSCC2.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment112_RDEB_cSCC3.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment113_RDEB_cSCC4.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment114_RDEB_cSCC5.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment115_RDEB_cSCC6.raw
+      name: 10.5281/zenodo.4544529
+    name: MaxQuant and MSstats for the analysis of label-free data
+  - items:
+    - description: latest
+      items:
       - ext: mgf
         info: https://doi.org/10.5281/zenodo.839701
         src: url
