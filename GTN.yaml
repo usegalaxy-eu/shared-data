@@ -1874,6 +1874,27 @@ items:
   - items:
     - description: latest
       items:
+      - ext: tsv
+        info: https://zenodo.org/record/4477881
+        src: url
+        url: https://zenodo.org/api/files/47b8692d-2671-4082-ac8f-746a0783cfa1/X_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/4477881
+        src: url
+        url: https://zenodo.org/api/files/47b8692d-2671-4082-ac8f-746a0783cfa1/X_train.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/4477881
+        src: url
+        url: https://zenodo.org/api/files/47b8692d-2671-4082-ac8f-746a0783cfa1/y_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/4477881
+        src: url
+        url: https://zenodo.org/api/files/47b8692d-2671-4082-ac8f-746a0783cfa1/y_train.tsv
+      name: 'DOI: 10.5281/zenodo.4477881'
+    name: Introduction to recurrent neural networks (RNN)
+  - items:
+    - description: latest
+      items:
       - ext: csv
         info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
         src: url
