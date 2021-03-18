@@ -679,6 +679,18 @@ items:
       name: 'DOI: 3362976#B3'
     name: Image Data siRNA Screen
   name: Imaging
+- description: Summary
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: zip
+        info: http://doi.org/10.5281/zenodo.4567084
+        src: url
+        url: https://zenodo.org/api/files/e5d1bd5c-60a0-42e4-8f0d-a2ebc863c5d9/drosophila_sample.zip
+      name: 'DOI: 10.5281/zenodo.4567084'
+    name: Object tracking using CellProfiler
+  name: The new topic
 - description: 'Galaxy is a scientific workflow, data integration, and data and analysis
     persistence and publishing platform that aims to make computational biology accessible
     to research scientists that do not have computer programming experience. '
