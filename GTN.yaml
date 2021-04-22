@@ -2615,6 +2615,31 @@ items:
   - items:
     - description: latest
       items:
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4710649
+        src: url
+        url: https://zenodo.org/record/4710649/files/SRR7779222_BRL3_mRNA_drought.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4710649
+        src: url
+        url: https://zenodo.org/record/4710649/files/SRR7779223_BRL3_mRNA_drought.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4710649
+        src: url
+        url: https://zenodo.org/record/4710649/files/SRR7779224_BRL3_mRNA_drought.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4710649
+        src: url
+        url: https://zenodo.org/record/4710649/files/SRR7779228_BRL3_mRNA_watered.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4710649
+        src: url
+        url: https://zenodo.org/record/4710649/files/SRR7779229_BRL3_mRNA_watered.fastqsanger.gz
+      name: 'DOI: 10.5281/zenodo.4710649'
+    name: Whole transcriptome analysis of Arabidopsis thaliana
+  - items:
+    - description: latest
+      items:
       - ext: sqlite
         info: https://zenodo.org/record/1001880
         src: url
