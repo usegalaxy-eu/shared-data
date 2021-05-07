@@ -4,47 +4,53 @@ destination:
     type: library
 items:
     - name: SILVA
-      description: "SILVA database"
+      description: "SILVA database: A comprehensive resource for quality checked and aligned ribosomal RNA sequence data. FASTA and ARB datasets."
       items:
-        - name: "Multi FASTA files of the SSU/LSU databases"
-          description: "Multi FASTA files of the SSU/LSU databases"
+        - name: "Truncated Multi FASTA files of the SSU/LSU databases"
+          description: "Multi FASTA files of the SSU/LSU databases including the SILVA taxonomy for Bacteria, Archaea and Eukaryotes in the header. REMARK: Sequences in these files haven been truncated. This means that all nucleotides that have not been aligned were removed from the sequence. Fasta header: >accession_number.start_position.stop_position taxonomic path organism name"
           items:
             - name: "138.1"
-              description: "version 138.1"
+              description: "Version 138.1"
               items:
                 - ext: fasta.gz
                   info: https://www.arb-silva.de/projects/ssu-ref-nr/
-                  name: SILVA_138.1_SSURef_NR99_tax_silva_full_align_trunc.fasta.gz
+                  name: "SILVA 138.1 SSU Ref_NR99 aligned truncated"
+                  description: "Multi FASTA file of the SSU Ref NR99 database including the FULL alignment. NOTE: can be used for tree computation purposes"
                   src: url
                   url: https://www.arb-silva.de/fileadmin/silva_databases/release_138.1/Exports/SILVA_138.1_SSURef_NR99_tax_silva_full_align_trunc.fasta.gz
                 - ext: fasta.gz
                   info: https://www.arb-silva.de/projects/ssu-ref-nr/
-                  name: SILVA_138.1_LSURef_NR99_tax_silva_full_align_trunc.fasta.gz
+                  name: "SILVA 138.1 LSURef_NR99 aligned truncated"
+                  description: "Multi FASTA file of the LSU Ref NR99 database including the FULL alignment. NOTE: can be used for tree computation purposes"
                   src: url
                   url: https://www.arb-silva.de/fileadmin/silva_databases/release_138.1/Exports/SILVA_138.1_LSURef_NR99_tax_silva_full_align_trunc.fasta.gz
                 - ext: fasta.gz
                   info: https://www.arb-silva.de/projects/ssu-ref-nr/
-                  name: SILVA_138.1_SSURef_NR99_tax_silva_trunc.fasta.gz
+                  name: "SILVA 138.1 SSURef_NR99 truncated"
+                  description: "Multi FASTA file of the SSU Ref NR99 database, unaligned. NOTE: can be used for BLAST and similar tools"
                   src: url
                   url: https://www.arb-silva.de/fileadmin/silva_databases/release_138.1/Exports/SILVA_138.1_SSURef_NR99_tax_silva_trunc.fasta.gz
                 - ext: fasta.gz
                   info: https://www.arb-silva.de/projects/ssu-ref-nr/
-                  name: SILVA_138.1_LSURef_NR99_tax_silva_trunc.fasta.gz
+                  name: "SILVA 138.1 LSURef_NR99 truncated"
+                  description: "Multi FASTA file of the LSU Ref NR99 database, unaligned. NOTE: can be used for BLAST and similar tools"
                   src: url
                   url: https://www.arb-silva.de/fileadmin/silva_databases/release_138.1/Exports/SILVA_138.1_LSURef_NR99_tax_silva_trunc.fasta.gz
         - name: "ARB Database of the SSU/LSU databases"
-          description: "ARB Database of the SSU/LSU databases"
+          description: "Arb files include all available metadata on sequences, the SILVA alignment and SILVA taxonomy REMARK: The sequences in the files are NOT truncated to the effective LSU or SSU genes. They contain the full entries as they have been deposited in the public repositories (ENA/GenBank/DDBJ). NOTE: can be used for SINA"
           items:
             - name: "138.1"
-              description: "version 138.1"
+              description: "Version 138.1"
               items:
                 - ext: arb.gz
                   info: https://www.arb-silva.de/projects/ssu-ref-nr/
-                  name: SILVA_138.1_SSURef_NR99_12_06_20_opt.arb.gz
+                  name: "SILVA 138.1 SSURef_NR99 12_06_20"
+                  description: "Arb database of the SSU Ref NR99 database"
                   src: url
                   url: https://www.arb-silva.de/fileadmin/silva_databases/release_138.1/ARB_files/SILVA_138.1_SSURef_NR99_12_06_20_opt.arb.gz
                 - ext: arb.gz
                   info: https://www.arb-silva.de/projects/ssu-ref-nr/
-                  name: SILVA_138.1_LSURef_NR99_30_06_20_opt.arb.gz
+                  name: "SILVA 138.1 LSURef_NR99 30_06_20"
+                  description: "Arb database of the LSU Ref NR99 database"
                   src: url
                   url: https://www.arb-silva.de/fileadmin/silva_databases/release_138.1/ARB_files/SILVA_138.1_LSURef_NR99_30_06_20_opt.arb.gz
