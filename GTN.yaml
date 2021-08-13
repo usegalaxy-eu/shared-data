@@ -582,6 +582,47 @@ items:
       name: 'DOI: 10.5281/zenodo.1185122'
     name: 'Jupyter: Use Jupyter notebooks in Galaxy'
   name: User Interface and Features
+- description: Summary
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/GTN_tutorial_mock_metadata.xlsx
+      - ext: gz
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10902284_ONT.fq.gz
+      - ext: gz
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10903401_1.fastq.gz
+      - ext: gz
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10903401_2.fastq.gz
+      - ext: gz
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10903402_1.fastq.gz
+      - ext: gz
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10903402_2.fastq.gz
+      name: 'DOI: 10.5281/zenodo.5163611'
+    name: Submitting raw sequencing reads to ENA
+  - items:
+    - description: latest
+      items:
+      - ext: zip
+        info: http://doi.org/10.5281/zenodo.4567084
+        src: url
+        url: https://zenodo.org/api/files/e5d1bd5c-60a0-42e4-8f0d-a2ebc863c5d9/drosophila_sample.zip
+      name: 'DOI: 10.5281/zenodo.4567084'
+    name: Object tracking using CellProfiler
+  name: The new topic
 - description: Genome annotation is a multi-level process that includes prediction
     of protein-coding genes, as well as other functional genome units such as structural
     RNAs, tRNAs, small RNAs, pseudogenes, control regions, direct and inverted repeats,
@@ -742,18 +783,6 @@ items:
       name: 'DOI: 3362976#B3'
     name: Image Data siRNA Screen
   name: Imaging
-- description: Summary
-  items:
-  - items:
-    - description: latest
-      items:
-      - ext: zip
-        info: http://doi.org/10.5281/zenodo.4567084
-        src: url
-        url: https://zenodo.org/api/files/e5d1bd5c-60a0-42e4-8f0d-a2ebc863c5d9/drosophila_sample.zip
-      name: 'DOI: 10.5281/zenodo.4567084'
-    name: Object tracking using CellProfiler
-  name: The new topic
 - description: 'Galaxy is a scientific workflow, data integration, and data and analysis
     persistence and publishing platform that aims to make computational biology accessible
     to research scientists that do not have computer programming experience. '
@@ -1237,30 +1266,30 @@ items:
     - description: latest
       items:
       - ext: tabular
-        info: https://zenodo.org/record/4302084
+        info: https://zenodo.org/record/4307758
         src: url
-        url: https://zenodo.org/record/4302084/files/PyProphet_export.tabular
+        url: https://zenodo.org/record/4307758/files/PyProphet_export.tabular
       - ext: tabular
-        info: https://zenodo.org/record/4302084
+        info: https://zenodo.org/record/4307758
         src: url
-        url: https://zenodo.org/record/4302084/files/Sample_annot_MSstats.txt
+        url: https://zenodo.org/record/4307758/files/Sample_annot_MSstats.txt
       - ext: tabular
-        info: https://zenodo.org/record/4302084
+        info: https://zenodo.org/record/4307758
         src: url
-        url: https://zenodo.org/record/4302084/files/Comp_matrix_HEK_Ecoli.txt
+        url: https://zenodo.org/record/4307758/files/Comp_matrix_HEK_Ecoli.txt
       - ext: tabular
-        info: https://zenodo.org/record/4302084
+        info: https://zenodo.org/record/4307758
         src: url
-        url: https://zenodo.org/record/4302084/files/PyProphet_msstats_input.tabular
+        url: https://zenodo.org/record/4307758/files/PyProphet_msstats_input.tabular
       - ext: tabular
-        info: https://zenodo.org/record/4302084
+        info: https://zenodo.org/record/4307758
         src: url
-        url: https://zenodo.org/record/4302084/files/MSstats_ComparisonResult_export_tabular.tsv
+        url: https://zenodo.org/record/4307758/files/MSstats_ComparisonResult_export_tabular.tsv
       - ext: tabular
-        info: https://zenodo.org/record/4302084
+        info: https://zenodo.org/record/4307758
         src: url
-        url: https://zenodo.org/record/4302084/files/MSstats_ComparisonResult_msstats_input.tsv
-      name: 10.5281/zenodo.4302084
+        url: https://zenodo.org/record/4307758/files/MSstats_ComparisonResult_msstats_input.tsv
+      name: 10.5281/zenodo.4307758
     name: Statistical analysis of DIA data
   - items:
     - description: latest
