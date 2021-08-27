@@ -825,6 +825,22 @@ items:
         url: https://zenodo.org/api/files/287966da-5411-4f79-8cfb-0ffa84d0d6cc/mutant_R1.fastq
       name: 'DOI: 10.5281/zenodo.582600'
     name: A short introduction to Galaxy
+  - items:
+    - description: iris dataset
+      items:
+      - ext: csv
+        info: https://zenodo.org/record/1319069
+        src: url
+        url: https://zenodo.org/api/files/e6f59ef2-4d13-4033-8727-750665c38af9/iris.csv
+      name: 'DOI: 10.5281/zenodo.1319069'
+    - description: iris workflow
+      items:
+      - ext: ga
+        info: https://zenodo.org/record/5090049
+        src: url
+        url: https://zenodo.org/record/5090049/files/main_workflow.ga
+      name: 10.5281/zenodo.5090049
+    name: How to reproduce published Galaxy analyses
   name: Introduction to Galaxy Analyses
 - description: 'Training material to analyse Mass spectrometry data in Galaxy: Metabolomics
     (LCMS, FIAMS, GCMS, NMR) and imaging.'
