@@ -1,0 +1,3662 @@
+destination:
+  description: Galaxy Training Network Material
+  name: GTN - Material
+  synopsis: Galaxy Training Network Material. See https://training.galaxyproject.org
+  type: library
+items:
+- description: Genome assembly
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger
+        info: http://doi.org/10.5281/zenodo.3567224
+        src: url
+        url: https://zenodo.org/record/3567224/files/sweet-potato-chloroplast-illumina-reduced.fastq
+      - ext: fastqsanger
+        info: http://doi.org/10.5281/zenodo.3567224
+        src: url
+        url: https://zenodo.org/record/3567224/files/sweet-potato-chloroplast-nanopore-reduced.fastq
+      - ext: fastqsanger
+        info: http://doi.org/10.5281/zenodo.3567224
+        src: url
+        url: https://zenodo.org/record/3567224/files/sweet-potato-chloroplast-illumina-tiny.fastq
+      - ext: fastqsanger
+        info: http://doi.org/10.5281/zenodo.3567224
+        src: url
+        url: https://zenodo.org/record/3567224/files/sweet-potato-chloroplast-nanopore-tiny.fastq
+      name: 'DOI: 10.5281/zenodo.3567224'
+    name: Chloroplast genome assembly
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.582600
+        src: url
+        url: https://zenodo.org/api/files/287966da-5411-4f79-8cfb-0ffa84d0d6cc/mutant_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.582600
+        src: url
+        url: https://zenodo.org/api/files/287966da-5411-4f79-8cfb-0ffa84d0d6cc/mutant_R2.fastq
+      name: 'DOI: 10.5281/zenodo.582600'
+    name: De Bruijn Graph Assembly
+  - items:
+    - description: latest
+      items:
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1306128
+        src: url
+        url: https://zenodo.org/api/files/0a441269-78e5-4c70-b313-b10cb798907a/Ecoli_C_assembly.fna
+      name: 'DOI: 10.5281/zenodo.1306128'
+    name: Making sense of a newly assembled genome
+  - description: Training material for analysis of new assemblies
+    items:
+    - description: latest
+      items:
+      - ext: fasta
+        info: https://zenodo.org/record/1257429
+        src: url
+        url: https://zenodo.org/record/1306128/files/Ecoli_C_assembly.fna
+      name: 'DOI: 10.5281/zenodo.1257429'
+    name: E. coli C assembly
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.582600
+        src: url
+        url: https://zenodo.org/api/files/287966da-5411-4f79-8cfb-0ffa84d0d6cc/mutant_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.582600
+        src: url
+        url: https://zenodo.org/api/files/287966da-5411-4f79-8cfb-0ffa84d0d6cc/mutant_R2.fastq
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.582600
+        src: url
+        url: https://zenodo.org/api/files/287966da-5411-4f79-8cfb-0ffa84d0d6cc/wildtype.fna
+      name: 'DOI: 10.5281/zenodo.582600'
+    name: Introduction to Genome Assembly
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.940733
+        src: url
+        url: https://zenodo.org/api/files/0b6b7422-42dc-489e-9567-a9de12c6972e/illumina_f.fq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.940733
+        src: url
+        url: https://zenodo.org/api/files/0b6b7422-42dc-489e-9567-a9de12c6972e/illumina_r.fq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.940733
+        src: url
+        url: https://zenodo.org/api/files/0b6b7422-42dc-489e-9567-a9de12c6972e/minion_2d.fq
+      name: 'DOI: 10.5281/zenodo.940733'
+    name: Unicycler Assembly
+  name: Assembly
+- description: Learn to analyse Ecological data through Galaxy.
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.1324204
+        src: url
+        url: https://zenodo.org/api/files/65ae2c8c-3d4c-4e16-b485-883c58a16573/regional%20GAM%20data.csv
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.1324204
+        src: url
+        url: https://zenodo.org/api/files/65ae2c8c-3d4c-4e16-b485-883c58a16573/Dataset%20multispecies%20Regional%20GAM.csv
+      - ext: rdata
+        info: https://doi.org/10.5281/zenodo.1324204
+        src: url
+        url: https://zenodo.org/api/files/65ae2c8c-3d4c-4e16-b485-883c58a16573/gatekeeper_CM%20.RData
+      name: 'DOI: 10.5281/zenodo.1324204'
+    name: Regional GAM
+  - items:
+    - description: latest
+      items:
+      - ext: txt
+        info: https://doi.org/10.5281/zenodo.1134547
+        src: url
+        url: https://zenodo.org/api/files/dc22cf60-8ec9-4d2f-83e3-16e1922aa079/Barcode_SRR034310.txt
+      - ext: txt
+        info: https://doi.org/10.5281/zenodo.1134547
+        src: url
+        url: https://zenodo.org/api/files/dc22cf60-8ec9-4d2f-83e3-16e1922aa079/Details_Barcode_Population_SRR034310.txt
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1134547
+        src: url
+        url: https://zenodo.org/api/files/dc22cf60-8ec9-4d2f-83e3-16e1922aa079/Reference_genome_11_chromosomes.fasta
+      name: 'DOI: 10.5281/zenodo.1134547'
+    name: RAD-Seq de-novo data analysis
+  - items:
+    - description: latest
+      items:
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/female
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/male
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_1
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_10
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_11
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_12
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_13
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_14
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_15
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_16
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_17
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_18
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_19
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_2
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_20
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_3
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_4
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_5
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_6
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_7
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_8
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1219888
+        src: url
+        url: https://zenodo.org/api/files/af88bbbe-43a7-4c6b-8e12-3477cd3106ad/progeny_9
+      name: 'DOI: 10.5281/zenodo.1219888'
+    name: RAD-Seq to construct genetic maps
+  - items:
+    - description: latest
+      items:
+      - ext: txt
+        info: https://doi.org/10.5281/zenodo.1134547
+        src: url
+        url: https://zenodo.org/api/files/dc22cf60-8ec9-4d2f-83e3-16e1922aa079/Barcode_SRR034310.txt
+      - ext: txt
+        info: https://doi.org/10.5281/zenodo.1134547
+        src: url
+        url: https://zenodo.org/api/files/dc22cf60-8ec9-4d2f-83e3-16e1922aa079/Details_Barcode_Population_SRR034310.txt
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1134547
+        src: url
+        url: https://zenodo.org/api/files/dc22cf60-8ec9-4d2f-83e3-16e1922aa079/Reference_genome_11_chromosomes.fasta
+      name: 'DOI: 10.5281/zenodo.1134547'
+    name: RAD-Seq Reference-based data analysis
+  name: Ecology
+- description: DNA methylation is an epigenetic mechanism used by higher eukaryotes
+    and involved in e.g. gene expression, X-Chromosome inactivating, imprinting, and
+    gene silencing of germline specific gene and repetitive elements.
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: bed
+        info: https://zenodo.org/record/3862793
+        src: url
+        url: https://zenodo.org/api/files/b205aa3d-919b-4fbb-a8dd-3ae01d5daa91/ENCFF933NTR.bed.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3862793
+        src: url
+        url: https://zenodo.org/api/files/b205aa3d-919b-4fbb-a8dd-3ae01d5daa91/SRR891268_chr22_enriched_R1.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3862793
+        src: url
+        url: https://zenodo.org/api/files/b205aa3d-919b-4fbb-a8dd-3ae01d5daa91/SRR891268_chr22_enriched_R2.fastq.gz
+      name: 'DOI: 10.5281/zenodo.3862793'
+    name: ATAC-Seq data analysis
+  - items:
+    - description: latest
+      items:
+      - ext: idat
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588704_8795207135_R01C02_Grn.idat
+      - ext: idat
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588704_8795207135_R01C02_Red.idat
+      - ext: idat
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588705_8795207119_R05C02_Grn.idat
+      - ext: idat
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588705_8795207119_R05C02_Red.idat
+      - ext: idat
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588706_8795207135_R02C02_Grn.idat
+      - ext: idat
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588706_8795207135_R02C02_Red.idat
+      - ext: idat
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588707_8795207119_R06C02_Grn.idat
+      - ext: idat
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/GSM1588707_8795207119_R06C02_Red.idat
+      - ext: txt
+        info: https://zenodo.org/record/1251211#.WwREQ1Mvz-Y
+        src: url
+        url: https://zenodo.org/api/files/07b839be-0fc3-4052-8c12-21d8698efe20/phenotypeTable.txt
+      name: 'DOI: 10.5281/zenodo.1251211#.WwREQ1Mvz-Y'
+    name: EWAS data analysis of 450k data
+  - items:
+    - description: latest
+      items:
+      - ext: bed
+        info: https://doi.org/10.5281/zenodo.1183661
+        src: url
+        url: https://zenodo.org/api/files/a77fcd26-9185-4947-9fed-54d2851c5eed/dm3_genes.bed
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.1183661
+        src: url
+        url: https://zenodo.org/api/files/a77fcd26-9185-4947-9fed-54d2851c5eed/HiC_S2_1p_10min_lowU_R1.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.1183661
+        src: url
+        url: https://zenodo.org/api/files/a77fcd26-9185-4947-9fed-54d2851c5eed/HiC_S2_1p_10min_lowU_R2.fastq.gz
+      name: 'DOI: 10.5281/zenodo.1183661'
+    name: Hi-C analysis of Drosophila melanogaster cells using HiCExplorer
+  - items:
+    - description: latest
+      items:
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT089_CpG.meth.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT089_CpG.meth_ucsc.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT126_CpG.meth.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT126_CpG.meth_ucsc.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT198_CpG.meth.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/BT198_CpG.meth_ucsc.bedGraph
+      - ext: bed
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/CpGIslands.bed
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/MCF7_CpG.meth.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/MCF7_CpG.meth_ucsc.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/NB1_CpG.meth.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/NB1_CpG.meth_ucsc.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/NB2_CpG.meth.bedGraph
+      - ext: bedgraph
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/NB2_CpG.meth_ucsc.bedGraph
+      - ext: fastqsanger
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/subset_1.fastq
+      - ext: fastqsanger
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/subset_2.fastq
+      - ext: bam
+        info: https://zenodo.org/record/557099
+        src: url
+        url: https://zenodo.org/api/files/ab7dc7ee-d1dd-48fe-bfc4-ca67f4683c72/aligned_subset.bam
+      name: 'DOI: 10.5281/zenodo.557099'
+    name: DNA Methylation data analysis
+  name: Epigenetics
+- description: ChIP-sequencing is a method used to analyze protein interactions with
+    DNA.
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.892432
+        src: url
+        url: https://zenodo.org/api/files/520e6670-58f7-4cff-ac59-8d11ae361a78/patient1_ChIP_ER_good_outcome.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.892432
+        src: url
+        url: https://zenodo.org/api/files/520e6670-58f7-4cff-ac59-8d11ae361a78/patient1_input_good_outcome.bam
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.892432
+        src: url
+        url: https://zenodo.org/api/files/520e6670-58f7-4cff-ac59-8d11ae361a78/patient1_input_good_outcome.fastq
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.892432
+        src: url
+        url: https://zenodo.org/api/files/520e6670-58f7-4cff-ac59-8d11ae361a78/patient2_ChIP_ER_good_outcome.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.892432
+        src: url
+        url: https://zenodo.org/api/files/520e6670-58f7-4cff-ac59-8d11ae361a78/patient2_input_good_outcome.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.892432
+        src: url
+        url: https://zenodo.org/api/files/520e6670-58f7-4cff-ac59-8d11ae361a78/patient3_ChIP_ER_poor_outcome.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.892432
+        src: url
+        url: https://zenodo.org/api/files/520e6670-58f7-4cff-ac59-8d11ae361a78/patient3_input_poor_outcome.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.892432
+        src: url
+        url: https://zenodo.org/api/files/520e6670-58f7-4cff-ac59-8d11ae361a78/patient4_ChIP_ER_poor_outcome.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.892432
+        src: url
+        url: https://zenodo.org/api/files/520e6670-58f7-4cff-ac59-8d11ae361a78/patient4_input_poor_outcome.bam
+      name: 'DOI: 10.5281/zenodo.892432'
+    name: Identification of the binding sites of the Estrogen receptor
+  - items:
+    - description: latest
+      items:
+      - ext: bam
+        info: https://zenodo.org/record/1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_CTCF_rep1.bam
+      - ext: bam
+        info: https://zenodo.org/record/1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_CTCF_rep2.bam
+      - ext: bam
+        info: https://zenodo.org/record/1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_H3K27me3_rep1.bam
+      - ext: bam
+        info: https://zenodo.org/record/1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_H3K27me3_rep2.bam
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_H3K4me3_read1.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_H3K4me3_read2.fastq.gz
+      - ext: bam
+        info: https://zenodo.org/record/1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_H3K4me3_rep1.bam
+      - ext: bam
+        info: https://zenodo.org/record/1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_H3K4me3_rep2.bam
+      - ext: bam
+        info: https://zenodo.org/record/1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_input_rep1.bam
+      - ext: bam
+        info: https://zenodo.org/record/1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_input_rep2.bam
+      name: 'DOI: 10.5281/zenodo.1324070'
+    - description: ''
+      items:
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1321974
+        src: url
+        url: https://zenodo.org/api/files/2bdd1be0-3a25-489e-996d-320a7229185e/wt_CTCF_rep1.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1321974
+        src: url
+        url: https://zenodo.org/api/files/2bdd1be0-3a25-489e-996d-320a7229185e/wt_CTCF_rep2.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1321974
+        src: url
+        url: https://zenodo.org/api/files/2bdd1be0-3a25-489e-996d-320a7229185e/wt_H3K27me3_rep1.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1321974
+        src: url
+        url: https://zenodo.org/api/files/2bdd1be0-3a25-489e-996d-320a7229185e/wt_H3K27me3_rep2.bam
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.1321974
+        src: url
+        url: https://zenodo.org/api/files/2bdd1be0-3a25-489e-996d-320a7229185e/wt_H3K4me3_read1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.1321974
+        src: url
+        url: https://zenodo.org/api/files/2bdd1be0-3a25-489e-996d-320a7229185e/wt_H3K4me3_read2.fastq
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1321974
+        src: url
+        url: https://zenodo.org/api/files/2bdd1be0-3a25-489e-996d-320a7229185e/wt_H3K4me3_rep1.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1321974
+        src: url
+        url: https://zenodo.org/api/files/2bdd1be0-3a25-489e-996d-320a7229185e/wt_H3K4me3_rep2.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1321974
+        src: url
+        url: https://zenodo.org/api/files/2bdd1be0-3a25-489e-996d-320a7229185e/wt_input_rep1.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1321974
+        src: url
+        url: https://zenodo.org/api/files/2bdd1be0-3a25-489e-996d-320a7229185e/wt_input_rep2.bam
+      name: 'DOI: 10.5281/zenodo.1321974'
+    name: Formation of the Super-Structures on the Inactive X
+  - items:
+    - description: latest
+      items:
+      - ext: bed
+        info: https://doi.org/10.5281/zenodo.197100
+        src: url
+        url: https://zenodo.org/api/files/20ff737e-c485-45e9-99dc-8bfb6a776478/ChIPseq_regions_of_interest_v4.bed
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.197100
+        src: url
+        url: https://zenodo.org/api/files/20ff737e-c485-45e9-99dc-8bfb6a776478/G1E_input_R1_downsampled_SRR507859.fastqsanger
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.197100
+        src: url
+        url: https://zenodo.org/api/files/20ff737e-c485-45e9-99dc-8bfb6a776478/G1E_input_R2_downsampled_SRR507860.fastqsanger
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.197100
+        src: url
+        url: https://zenodo.org/api/files/20ff737e-c485-45e9-99dc-8bfb6a776478/G1E_Tal1_R1_downsampled_SRR492444.fastqsanger
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.197100
+        src: url
+        url: https://zenodo.org/api/files/20ff737e-c485-45e9-99dc-8bfb6a776478/G1E_Tal1_R2_downsampled_SRR492445.fastqsanger
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.197100
+        src: url
+        url: https://zenodo.org/api/files/20ff737e-c485-45e9-99dc-8bfb6a776478/Megakaryocyte_input_R1_downsampled_SRR492453.fastqsanger
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.197100
+        src: url
+        url: https://zenodo.org/api/files/20ff737e-c485-45e9-99dc-8bfb6a776478/Megakaryocyte_input_R2_downsampled_SRR492454.fastqsanger
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.197100
+        src: url
+        url: https://zenodo.org/api/files/20ff737e-c485-45e9-99dc-8bfb6a776478/Megakaryocytes_Tal1_R2_downsampled_SRR549007.fastqsanger
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.197100
+        src: url
+        url: https://zenodo.org/api/files/20ff737e-c485-45e9-99dc-8bfb6a776478/Megakaryocyte_Tal1_R1_downsampled_SRR549006.fastqsanger
+      - ext: bed
+        info: https://doi.org/10.5281/zenodo.197100
+        src: url
+        url: https://zenodo.org/api/files/20ff737e-c485-45e9-99dc-8bfb6a776478/RefSeq_gene_annotations_mm10.bed
+      name: 'DOI: 10.5281/zenodo.197100'
+    name: Identification of the binding sites of the T-cell acute lymphocytic leukemia
+      protein 1 (TAL1)
+  name: ChIP-Seq data analysis
+- description: A collection of microtutorials explaining various features of the Galaxy
+    user interface
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461176_untreat_single.counts
+      name: 'DOI: 10.5281/zenodo.1185122'
+    name: 'Jupyter: Use Jupyter notebooks in Galaxy'
+  name: User Interface and Features
+- description: Summary
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/GTN_tutorial_mock_metadata.xlsx
+      - ext: gz
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10902284_ONT.fq.gz
+      - ext: gz
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10903401_1.fastq.gz
+      - ext: gz
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10903401_2.fastq.gz
+      - ext: gz
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10903402_1.fastq.gz
+      - ext: gz
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10903402_2.fastq.gz
+      name: 'DOI: 10.5281/zenodo.5163611'
+    name: Submitting raw sequencing reads to ENA
+  - items:
+    - description: latest
+      items:
+      - ext: zip
+        info: http://doi.org/10.5281/zenodo.4567084
+        src: url
+        url: https://zenodo.org/api/files/e5d1bd5c-60a0-42e4-8f0d-a2ebc863c5d9/drosophila_sample.zip
+      name: 'DOI: 10.5281/zenodo.4567084'
+    name: Object tracking using CellProfiler
+  name: The new topic
+- description: Genome annotation is a multi-level process that includes prediction
+    of protein-coding genes, as well as other functional genome units such as structural
+    RNAs, tRNAs, small RNAs, pseudogenes, control regions, direct and inverted repeats,
+    insertion sequences, transposons and other mobile elements.
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: augustus
+        info: https://doi.org/10.5281/zenodo.4406623
+        src: url
+        url: https://zenodo.org/api/files/647ad552-19a8-46d9-aad8-f81f56860582/augustus_training_1.tar.gz
+      - ext: augustus
+        info: https://doi.org/10.5281/zenodo.4406623
+        src: url
+        url: https://zenodo.org/api/files/647ad552-19a8-46d9-aad8-f81f56860582/augustus_training_2.tar.gz
+      - ext: snaphmm
+        info: https://doi.org/10.5281/zenodo.4406623
+        src: url
+        url: https://zenodo.org/api/files/647ad552-19a8-46d9-aad8-f81f56860582/snap_training_1.snaphmm
+      - ext: snaphmm
+        info: https://doi.org/10.5281/zenodo.4406623
+        src: url
+        url: https://zenodo.org/api/files/647ad552-19a8-46d9-aad8-f81f56860582/snap_training_2.snaphmm
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.4406623
+        src: url
+        url: https://zenodo.org/api/files/647ad552-19a8-46d9-aad8-f81f56860582/S_pombe_chrIII.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.4406623
+        src: url
+        url: https://zenodo.org/api/files/647ad552-19a8-46d9-aad8-f81f56860582/S_pombe_genome.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.4406623
+        src: url
+        url: https://zenodo.org/api/files/647ad552-19a8-46d9-aad8-f81f56860582/S_pombe_trinity_assembly.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.4406623
+        src: url
+        url: https://zenodo.org/api/files/647ad552-19a8-46d9-aad8-f81f56860582/Swissprot_no_S_pombe.fasta
+      name: 'DOI: 10.5281/zenodo.4406623'
+    name: Genome annotation with Maker
+  - items:
+    - description: latest
+      items:
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1156405
+        src: url
+        url: https://zenodo.org/api/files/88c62429-b2b4-49c6-a2f7-89d471715e39/contigs.fasta
+      name: 'DOI: 10.5281/zenodo.1156405'
+    name: Genome annotation with Prokka
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.940733
+        src: url
+        url: https://zenodo.org/api/files/0b6b7422-42dc-489e-9567-a9de12c6972e/illumina_f.fq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.940733
+        src: url
+        url: https://zenodo.org/api/files/0b6b7422-42dc-489e-9567-a9de12c6972e/illumina_r.fq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.940733
+        src: url
+        url: https://zenodo.org/api/files/0b6b7422-42dc-489e-9567-a9de12c6972e/minion_2d.fq
+      name: 'DOI: 10.5281/zenodo.940733'
+    name: Essential genes detection with Transposon insertion sequencing
+  name: Genome Annotation
+- description: We look at how to edit Genome Annotations with Apollo
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: gff3
+        info: https://zenodo.org/record/4889110
+        src: url
+        url: https://zenodo.org/api/files/6080d6d6-68ec-4ade-afef-bbd83f9b5e2b/augustus.gff3
+      - ext: blastxml
+        info: https://zenodo.org/record/4889110
+        src: url
+        url: https://zenodo.org/api/files/6080d6d6-68ec-4ade-afef-bbd83f9b5e2b/blastp_vs_swissprot_2018-01-22.blastxml
+      - ext: bigwig
+        info: https://zenodo.org/record/4889110
+        src: url
+        url: https://zenodo.org/api/files/6080d6d6-68ec-4ade-afef-bbd83f9b5e2b/BWA-MEM_K12_Coverage.bigwig
+      - ext: bam
+        info: https://zenodo.org/record/4889110
+        src: url
+        url: https://zenodo.org/api/files/6080d6d6-68ec-4ade-afef-bbd83f9b5e2b/BWA-MEM_K12_Mapping.bam
+      - ext: bigwig
+        info: https://zenodo.org/record/4889110
+        src: url
+        url: https://zenodo.org/api/files/6080d6d6-68ec-4ade-afef-bbd83f9b5e2b/BWA-MEM_O104_Coverage.bigwig
+      - ext: bam
+        info: https://zenodo.org/record/4889110
+        src: url
+        url: https://zenodo.org/api/files/6080d6d6-68ec-4ade-afef-bbd83f9b5e2b/BWA-MEM_O104_Mapping.bam
+      - ext: fasta
+        info: https://zenodo.org/record/4889110
+        src: url
+        url: https://zenodo.org/api/files/6080d6d6-68ec-4ade-afef-bbd83f9b5e2b/E._coli_str_K-12_substr_MG1655_100kb_subset.fasta
+      - ext: vcf
+        info: https://zenodo.org/record/4889110
+        src: url
+        url: https://zenodo.org/api/files/6080d6d6-68ec-4ade-afef-bbd83f9b5e2b/K12_Variants.vcf
+      - ext: gff3
+        info: https://zenodo.org/record/4889110
+        src: url
+        url: https://zenodo.org/api/files/6080d6d6-68ec-4ade-afef-bbd83f9b5e2b/NCBI_AnnotWriter_Genes.gff3
+      - ext: fasta
+        info: https://zenodo.org/record/4889110
+        src: url
+        url: https://zenodo.org/api/files/6080d6d6-68ec-4ade-afef-bbd83f9b5e2b/NCBI_AnnotWriter_Proteins.fasta
+      - ext: bed
+        info: https://zenodo.org/record/4889110
+        src: url
+        url: https://zenodo.org/api/files/6080d6d6-68ec-4ade-afef-bbd83f9b5e2b/O104_H4_LASTZ_Alignment.bed
+      - ext: vcf
+        info: https://zenodo.org/record/4889110
+        src: url
+        url: https://zenodo.org/api/files/6080d6d6-68ec-4ade-afef-bbd83f9b5e2b/O104_Variants.vcf
+      - ext: bam
+        info: https://zenodo.org/record/4889110
+        src: url
+        url: https://zenodo.org/api/files/6080d6d6-68ec-4ade-afef-bbd83f9b5e2b/TopHat_SRR1927169_rep1.bam
+      - ext: bigwig
+        info: https://zenodo.org/record/4889110
+        src: url
+        url: https://zenodo.org/api/files/6080d6d6-68ec-4ade-afef-bbd83f9b5e2b/TopHat_SRR1927169_rep1_Coverage.bigwig
+      - ext: bam
+        info: https://zenodo.org/record/4889110
+        src: url
+        url: https://zenodo.org/api/files/6080d6d6-68ec-4ade-afef-bbd83f9b5e2b/TopHat_SRR1927170_rep2.bam
+      - ext: bigwig
+        info: https://zenodo.org/record/4889110
+        src: url
+        url: https://zenodo.org/api/files/6080d6d6-68ec-4ade-afef-bbd83f9b5e2b/TopHat_SRR1927170_rep2_Coverage.bigwig
+      name: 'DOI: 10.5281/zenodo.4889110'
+    name: Refining Manual Genome Annotations with Apollo
+  name: Refining Manual Genome Annotations with Apollo
+- description: Image analysis using Galaxy tools
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: zip
+        info: https://zenodo.org/record/3362976
+        src: url
+        url: https://zenodo.org/record/3362976/files/B2.zip
+      name: 'DOI: 3362976#B2'
+    - description: latest
+      items:
+      - ext: zip
+        info: https://zenodo.org/record/3362976
+        src: url
+        url: https://zenodo.org/record/3362976/files/B3.zip
+      name: 'DOI: 3362976#B3'
+    name: Image Data siRNA Screen
+  name: Imaging
+- description: 'Galaxy is a scientific workflow, data integration, and data and analysis
+    persistence and publishing platform that aims to make computational biology accessible
+    to research scientists that do not have computer programming experience. '
+  items:
+  - items:
+    - description: iris dataset
+      items:
+      - ext: csv
+        info: https://zenodo.org/record/1319069
+        src: url
+        url: https://zenodo.org/api/files/e6f59ef2-4d13-4033-8727-750665c38af9/iris.csv
+      name: 'DOI: 10.5281/zenodo.1319069'
+    - description: diamonds dataset
+      items:
+      - ext: csv
+        info: https://zenodo.org/record/3540705
+        src: url
+        url: https://zenodo.org/api/files/ee06b4e7-7640-4906-8375-efedd4be77c7/diamonds.csv
+      name: 'DOI: 10.5281/zenodo.3540705'
+    name: Galaxy 101 For Everyone
+  - items:
+    - description: latest
+      items:
+      - ext: txt
+        info: https://doi.org/10.5281/zenodo.1025586
+        src: url
+        url: https://zenodo.org/api/files/5770c688-ac75-4c16-b371-107bcdb68ff2/GSE37268_mof3.out.hpeak.txt
+      - ext: bed
+        info: https://doi.org/10.5281/zenodo.1025586
+        src: url
+        url: https://zenodo.org/api/files/5770c688-ac75-4c16-b371-107bcdb68ff2/mm9.RefSeq_genes_from_UCSC.bed
+      name: 'DOI: 10.5281/zenodo.1025586'
+    name: From peaks to genes
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.582600
+        src: url
+        url: https://zenodo.org/api/files/287966da-5411-4f79-8cfb-0ffa84d0d6cc/mutant_R1.fastq
+      name: 'DOI: 10.5281/zenodo.582600'
+    name: A short introduction to Galaxy
+  - items:
+    - description: iris dataset
+      items:
+      - ext: csv
+        info: https://zenodo.org/record/1319069
+        src: url
+        url: https://zenodo.org/api/files/e6f59ef2-4d13-4033-8727-750665c38af9/iris.csv
+      name: 'DOI: 10.5281/zenodo.1319069'
+    - description: iris workflow
+      items:
+      - ext: ga
+        info: https://zenodo.org/record/5090049
+        src: url
+        url: https://zenodo.org/record/5090049/files/main_workflow.ga
+      name: 10.5281/zenodo.5090049
+    name: How to reproduce published Galaxy analyses
+  name: Introduction to Galaxy Analyses
+- description: 'Training material to analyse Mass spectrometry data in Galaxy: Metabolomics
+    (LCMS, FIAMS, GCMS, NMR) and imaging.'
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: mzml
+        info: https://zenodo.org/record/3244991
+        src: url
+        url: https://zenodo.org/api/files/255b1f9f-8a58-4d9a-8f15-2343a75c9569/HU_neg_048.mzML
+      - ext: mzml
+        info: https://zenodo.org/record/3244991
+        src: url
+        url: https://zenodo.org/api/files/255b1f9f-8a58-4d9a-8f15-2343a75c9569/HU_neg_090.mzML
+      - ext: mzml
+        info: https://zenodo.org/record/3244991
+        src: url
+        url: https://zenodo.org/api/files/255b1f9f-8a58-4d9a-8f15-2343a75c9569/HU_neg_123.mzML
+      - ext: mzml
+        info: https://zenodo.org/record/3244991
+        src: url
+        url: https://zenodo.org/api/files/255b1f9f-8a58-4d9a-8f15-2343a75c9569/HU_neg_157.mzML
+      - ext: mzml
+        info: https://zenodo.org/record/3244991
+        src: url
+        url: https://zenodo.org/api/files/255b1f9f-8a58-4d9a-8f15-2343a75c9569/HU_neg_173.mzML
+      - ext: mzml
+        info: https://zenodo.org/record/3244991
+        src: url
+        url: https://zenodo.org/api/files/255b1f9f-8a58-4d9a-8f15-2343a75c9569/HU_neg_192.mzML
+      - ext: mzml
+        info: https://zenodo.org/record/3244991
+        src: url
+        url: https://zenodo.org/api/files/255b1f9f-8a58-4d9a-8f15-2343a75c9569/QC1_002.mzML
+      - ext: mzml
+        info: https://zenodo.org/record/3244991
+        src: url
+        url: https://zenodo.org/api/files/255b1f9f-8a58-4d9a-8f15-2343a75c9569/QC1_008.mzML
+      - ext: mzml
+        info: https://zenodo.org/record/3244991
+        src: url
+        url: https://zenodo.org/api/files/255b1f9f-8a58-4d9a-8f15-2343a75c9569/QC1_014.mzML
+      - ext: tsv
+        info: https://zenodo.org/record/3244991
+        src: url
+        url: https://zenodo.org/api/files/255b1f9f-8a58-4d9a-8f15-2343a75c9569/sampleMetadata_completed.tsv
+      name: 'DOI: 10.5281/zenodo.3244991'
+    name: 'Mass spectrometry: LC-MS analysis'
+  - items:
+    - description: latest
+      items:
+      - ext: imzml
+        info: https://zenodo.org/record/484496
+        src: url
+        url: https://zenodo.org/api/files/853abf60-5799-4ab5-bed6-f9d6acde9bda/ltpmsi-chilli.imzML
+      name: 'DOI: 10.5281/zenodo.484496'
+    name: Msi analyte distribution
+  name: Metabolomics
+- description: Metagenomics is a discipline that enables the genomic study of uncultured
+    microorganisms
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://doi.org/10.5281/zenodo.815875
+        src: url
+        url: https://zenodo.org/api/files/0e062e89-e6ce-463b-a8cb-0151e5aabc69/humann2_gene_families_abundance.tsv
+      - ext: tsv
+        info: https://doi.org/10.5281/zenodo.815875
+        src: url
+        url: https://zenodo.org/api/files/0e062e89-e6ce-463b-a8cb-0151e5aabc69/humann2_pathways_abundance.tsv
+      - ext: tsv
+        info: https://doi.org/10.5281/zenodo.815875
+        src: url
+        url: https://zenodo.org/api/files/0e062e89-e6ce-463b-a8cb-0151e5aabc69/humann2_pathways_coverage.tsv
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.815875
+        src: url
+        url: https://zenodo.org/api/files/0e062e89-e6ce-463b-a8cb-0151e5aabc69/silva.v4.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.815875
+        src: url
+        url: https://zenodo.org/api/files/0e062e89-e6ce-463b-a8cb-0151e5aabc69/SRR531818_pampa.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.815875
+        src: url
+        url: https://zenodo.org/api/files/0e062e89-e6ce-463b-a8cb-0151e5aabc69/SRR606451_pampa.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.815875
+        src: url
+        url: https://zenodo.org/api/files/0e062e89-e6ce-463b-a8cb-0151e5aabc69/SRR651839_anguil.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.815875
+        src: url
+        url: https://zenodo.org/api/files/0e062e89-e6ce-463b-a8cb-0151e5aabc69/trainset16_022016.pds.fasta
+      - ext: mothur.seq.taxonomy
+        info: https://doi.org/10.5281/zenodo.815875
+        src: url
+        url: https://zenodo.org/api/files/0e062e89-e6ce-463b-a8cb-0151e5aabc69/trainset16_022016.pds.tax
+      name: 'DOI: 10.5281/zenodo.815875'
+    name: Analyses of metagenomics data - The global picture
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger
+        info: https://zenodo.org/record/4776250
+        src: url
+        url: https://zenodo.org/api/files/dcc2ac23-49ec-4802-9004-825a8556d2fd/T1A_forward.fastqsanger
+      - ext: tabular
+        info: https://zenodo.org/record/4776250
+        src: url
+        url: https://zenodo.org/api/files/dcc2ac23-49ec-4802-9004-825a8556d2fd/T1A_HUMAnN_Gene_families_and_their_abundance.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/4776250
+        src: url
+        url: https://zenodo.org/api/files/dcc2ac23-49ec-4802-9004-825a8556d2fd/T1A_HUMAnN_Pathways_and_their_abundance.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/4776250
+        src: url
+        url: https://zenodo.org/api/files/dcc2ac23-49ec-4802-9004-825a8556d2fd/T1A_MetaPhlAn_Predicted_taxon_relative_abundances.tabular
+      - ext: fastqsanger
+        info: https://zenodo.org/record/4776250
+        src: url
+        url: https://zenodo.org/api/files/dcc2ac23-49ec-4802-9004-825a8556d2fd/T1A_reverse.fastqsanger
+      name: 'DOI: 10.5281/zenodo.4776250'
+    - items:
+      - ext: fastqsanger
+        info: https://zenodo.org/record/3362849
+        src: url
+        url: https://zenodo.org/api/files/9659a01c-495d-4f41-ae8a-f6e4a9ed7b6c/T1A_forward.fastqsanger
+      - ext: tsv
+        info: https://zenodo.org/record/3362849
+        src: url
+        url: https://zenodo.org/api/files/9659a01c-495d-4f41-ae8a-f6e4a9ed7b6c/T1A_humann2_gene_family_abundances.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3362849
+        src: url
+        url: https://zenodo.org/api/files/9659a01c-495d-4f41-ae8a-f6e4a9ed7b6c/T1A_humann2_pathway_abundances.tsv
+      - ext: tabular
+        info: https://zenodo.org/record/3362849
+        src: url
+        url: https://zenodo.org/api/files/9659a01c-495d-4f41-ae8a-f6e4a9ed7b6c/T1A_metaphlan2_community_profile.tabular
+      - ext: fastqsanger
+        info: https://zenodo.org/record/3362849
+        src: url
+        url: https://zenodo.org/api/files/9659a01c-495d-4f41-ae8a-f6e4a9ed7b6c/T1A_reverse.fastqsanger
+      name: 'DOI: 10.5281/zenodo.3362849'
+    - items:
+      - ext: fastqsanger
+        info: https://zenodo.org/record/3269404
+        src: url
+        url: https://zenodo.org/api/files/84d7d6c9-2b7b-4569-87f6-dabc5ee42bc2/FORWARD_T4A_F.fastqsanger
+      - ext: fastqsanger
+        info: https://zenodo.org/record/3269404
+        src: url
+        url: https://zenodo.org/api/files/84d7d6c9-2b7b-4569-87f6-dabc5ee42bc2/REVERSE_T4A_R.fastqsanger
+      name: 'DOI: 10.5281/zenodo.3269404'
+    name: Metatranscriptomics analysis using microbiome RNA-seq data
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D0_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D0_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D141_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D141_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D142_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D142_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D143_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D143_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D144_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D144_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D145_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D145_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D146_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D146_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D147_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D147_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D148_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D148_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D149_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D149_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D150_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D150_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D1_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D1_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D2_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D2_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D3_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D3_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D5_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D5_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D6_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D6_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D7_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D7_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D8_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D8_R2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D9_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/F3D9_R2.fastq
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/HMP_MOCK.v35.fasta
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/Mock_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/Mock_R2.fastq
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/mouse.dpw.metadata
+      - ext: mothur.design
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/mouse.time.design
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/silva.v4.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/trainset9_032012.pds.fasta
+      - ext: mothur.seq.taxonomy
+        info: https://doi.org/10.5281/zenodo.800651
+        src: url
+        url: https://zenodo.org/api/files/111d2e4e-285b-49a7-b6e8-1a6ededc588f/trainset9_032012.pds.tax
+      name: 'DOI: 10.5281/zenodo.800651'
+    - description: ''
+      items:
+      - ext: zip
+        info: https://doi.org/10.5281/zenodo.165147
+        src: url
+        url: https://zenodo.org/api/files/83683845-ba4a-4b0f-bd44-39cd749b604f/input_data.zip
+      - ext: zip
+        info: https://doi.org/10.5281/zenodo.165147
+        src: url
+        url: https://zenodo.org/api/files/83683845-ba4a-4b0f-bd44-39cd749b604f/reference_data.zip
+      name: 'DOI: 10.5281/zenodo.165147'
+    name: 16S Microbial Analysis with Mothur
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4274812
+        src: url
+        url: https://zenodo.org/api/files/e1ebd35f-16df-4340-8a40-d57a7681a1dd/bulk_bottom.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4274812
+        src: url
+        url: https://zenodo.org/api/files/e1ebd35f-16df-4340-8a40-d57a7681a1dd/bulk_top.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4274812
+        src: url
+        url: https://zenodo.org/api/files/e1ebd35f-16df-4340-8a40-d57a7681a1dd/rhizosphere_bottom.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4274812
+        src: url
+        url: https://zenodo.org/api/files/e1ebd35f-16df-4340-8a40-d57a7681a1dd/rhizosphere_top.fastq.gz
+      name: 'DOI: 10.5281/zenodo.4274812'
+    name: 16s microbial analysis with nanopore data
+  - items:
+    - description: latest
+      items:
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.3247504
+        src: url
+        url: https://zenodo.org/record/3247504/files/RB01.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.3247504
+        src: url
+        url: https://zenodo.org/record/3247504/files/RB02.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.3247504
+        src: url
+        url: https://zenodo.org/record/3247504/files/RB03.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.3247504
+        src: url
+        url: https://zenodo.org/record/3247504/files/RB04.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.3247504
+        src: url
+        url: https://zenodo.org/record/3247504/files/RB05.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.3247504
+        src: url
+        url: https://zenodo.org/record/3247504/files/RB06.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.3247504
+        src: url
+        url: https://zenodo.org/record/3247504/files/RB07.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.3247504
+        src: url
+        url: https://zenodo.org/record/3247504/files/RB08.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.3247504
+        src: url
+        url: https://zenodo.org/record/3247504/files/RB09.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.3247504
+        src: url
+        url: https://zenodo.org/record/3247504/files/RB10.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.3247504
+        src: url
+        url: https://zenodo.org/record/3247504/files/RB11.fasta
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.3247504
+        src: url
+        url: https://zenodo.org/record/3247504/files/RB12.fasta
+      name: 'DOI: 10.5281/zenodo.3247504'
+    name: Antibiotic resistance detection
+  name: Metagenomics
+- description: Training material for proteomics workflows in Galaxy
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: tabular
+        info: https://zenodo.org/record/4307758
+        src: url
+        url: https://zenodo.org/record/4307758/files/PyProphet_export.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/4307758
+        src: url
+        url: https://zenodo.org/record/4307758/files/Sample_annot_MSstats.txt
+      - ext: tabular
+        info: https://zenodo.org/record/4307758
+        src: url
+        url: https://zenodo.org/record/4307758/files/Comp_matrix_HEK_Ecoli.txt
+      - ext: tabular
+        info: https://zenodo.org/record/4307758
+        src: url
+        url: https://zenodo.org/record/4307758/files/PyProphet_msstats_input.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/4307758
+        src: url
+        url: https://zenodo.org/record/4307758/files/MSstats_ComparisonResult_export_tabular.tsv
+      - ext: tabular
+        info: https://zenodo.org/record/4307758
+        src: url
+        url: https://zenodo.org/record/4307758/files/MSstats_ComparisonResult_msstats_input.tsv
+      name: 10.5281/zenodo.4307758
+    name: Statistical analysis of DIA data
+  - items:
+    - description: latest
+      items:
+      - ext: thermo.raw
+        info: https://zenodo.org/record/4301690
+        src: url
+        url: https://zenodo.org/record/4301690/files/Sample1.raw
+      - ext: thermo.raw
+        info: https://zenodo.org/record/4301690
+        src: url
+        url: https://zenodo.org/record/4301690/files/Sample2.raw
+      - ext: thermo.raw
+        info: https://zenodo.org/record/4301690
+        src: url
+        url: https://zenodo.org/record/4301690/files/Sample3.raw
+      - ext: thermo.raw
+        info: https://zenodo.org/record/4301690
+        src: url
+        url: https://zenodo.org/record/4301690/files/Sample4.raw
+      - ext: thermo.raw
+        info: https://zenodo.org/record/4301690
+        src: url
+        url: https://zenodo.org/record/4301690/files/Sample5.raw
+      - ext: thermo.raw
+        info: https://zenodo.org/record/4301690
+        src: url
+        url: https://zenodo.org/record/4301690/files/Sample6.raw
+      - ext: thermo.raw
+        info: https://zenodo.org/record/4301690
+        src: url
+        url: https://zenodo.org/record/4301690/files/Sample7.raw
+      - ext: thermo.raw
+        info: https://zenodo.org/record/4301690
+        src: url
+        url: https://zenodo.org/record/4301690/files/Sample8.raw
+      - ext: pqp
+        info: https://zenodo.org/record/4301690
+        src: url
+        url: https://zenodo.org/record/4301690/files/HEK_Ecoli_lib.pqp
+      - ext: tabular
+        info: https://zenodo.org/record/4301690
+        src: url
+        url: https://zenodo.org/record/4301690/files/Sample_annotation.txt
+      - ext: tabular
+        info: https://zenodo.org/record/4301690
+        src: url
+        url: https://zenodo.org/record/4301690/files/iRTassays.tsv
+      - ext: pdf
+        info: https://zenodo.org/record/4301690
+        src: url
+        url: https://zenodo.org/record/4301690/files/PyProphet_score_report.pdf
+      - ext: osw
+        info: https://zenodo.org/record/4301690
+        src: url
+        url: https://zenodo.org/record/4301690/files/PyProphet_score.osw
+      name: 10.5281/zenodo.4301690
+    name: DIA Analysis using OpenSwathWorkflow
+  - items:
+    - description: latest
+      items:
+      - ext: thermo.raw
+        info: https://zenodo.org/record/4293493
+        src: url
+        url: https://zenodo.org/record/4293493/files/Sample1.raw
+      - ext: thermo.raw
+        info: https://zenodo.org/record/4293493
+        src: url
+        url: https://zenodo.org/record/4293493/files/Sample2.raw
+      - ext: thermo.raw
+        info: https://zenodo.org/record/4293493
+        src: url
+        url: https://zenodo.org/record/4293493/files/Sample3.raw
+      - ext: thermo.raw
+        info: https://zenodo.org/record/4293493
+        src: url
+        url: https://zenodo.org/record/4293493/files/Sample4.raw
+      - ext: thermo.raw
+        info: https://zenodo.org/record/4293493
+        src: url
+        url: https://zenodo.org/record/4293493/files/Sample5.raw
+      - ext: fasta
+        info: https://zenodo.org/record/4293493
+        src: url
+        url: https://zenodo.org/record/4293493/files/Ecoli_database.fasta
+      - ext: fasta
+        info: https://zenodo.org/record/4293493
+        src: url
+        url: https://zenodo.org/record/4293493/files/Human_database_plus_iRT.fasta
+      - ext: tabular
+        info: https://zenodo.org/record/4293493
+        src: url
+        url: https://zenodo.org/record/4293493/files/iRTassays.tsv
+      - ext: tabular
+        info: https://zenodo.org/record/4293493
+        src: url
+        url: https://zenodo.org/record/4293493/files/HEK_Ecoli_exp_design.txt
+      - ext: pdf
+        info: https://zenodo.org/record/4293493
+        src: url
+        url: https://zenodo.org/record/4293493/files/MaxQuant_PTXQC_report.pdf
+      - ext: tabular
+        info: https://zenodo.org/record/4293493
+        src: url
+        url: https://zenodo.org/record/4293493/files/MaxQuant_Protein_Groups.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/4293493
+        src: url
+        url: https://zenodo.org/record/4293493/files/MaxQuant_Peptides.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/4293493
+        src: url
+        url: https://zenodo.org/record/4293493/files/MaxQuant_Evidence.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/4293493
+        src: url
+        url: https://zenodo.org/record/4293493/files/MaxQuant_MSMS.tabular
+      - ext: xml
+        info: https://zenodo.org/record/4293493
+        src: url
+        url: https://zenodo.org/record/4293493/files/MaxQuant_mqpar.xml
+      name: 10.5281/zenodo.4293493
+    name: Library Generation for DIA Analysis
+  - items:
+    - description: latest
+      items:
+      - ext: imzml
+        info: https://doi.org/10.5281/zenodo.1560645
+        src: url
+        url: https://zenodo.org/api/files/463f6b73-0c42-4be4-8b52-181a8e093abd/mouse_kidney_cut.imzML
+      name: 'DOI: 10.5281/zenodo.1560645'
+    name: 'Mass spectrometry imaging 1: Loading and exploring MSI data'
+  - items:
+    - description: latest
+      items:
+      - ext: thermo.raw
+        info: https://zenodo.org/record/3774452
+        src: url
+        url: https://zenodo.org/record/3774452/files/Sample1.raw
+      - ext: thermo.raw
+        info: https://zenodo.org/record/3774452
+        src: url
+        url: https://zenodo.org/record/3774452/files/Sample2.raw
+      - ext: fasta
+        info: https://zenodo.org/record/3774452
+        src: url
+        url: https://zenodo.org/record/3774452/files/Protein_database.fasta
+      - ext: pdf
+        info: https://zenodo.org/record/3774452
+        src: url
+        url: https://zenodo.org/record/3774452/files/PTXQC_report.pdf
+      - ext: tabular
+        info: https://zenodo.org/record/3774452
+        src: url
+        url: https://zenodo.org/record/3774452/files/MaxQuant_Protein_Groups.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/3774452
+        src: url
+        url: https://zenodo.org/record/3774452/files/MaxQuant_Peptides.tabular
+      - ext: xml
+        info: https://zenodo.org/record/3774452
+        src: url
+        url: https://zenodo.org/record/3774452/files/MaxQuant_mqpar.xml
+      name: 10.5281/zenodo.3774452
+    name: Label-free data analysis using MaxQuant
+  - items:
+    - description: latest
+      items:
+      - ext: fasta
+        info: https://zenodo.org/record/4544529
+        src: url
+        url: https://zenodo.org/record/4544529/files/input_protein_database.fasta
+      - ext: tabular
+        info: https://zenodo.org/record/4544529
+        src: url
+        url: https://zenodo.org/record/4544529/files/input_annotation_file.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/4544529
+        src: url
+        url: https://zenodo.org/record/4544529/files/input_comparison_matrix.tabular
+      - ext: pdf
+        info: https://zenodo.org/record/4544529
+        src: url
+        url: https://zenodo.org/record/4544529/files/PTXQC_report.pdf
+      - ext: tabular
+        info: https://zenodo.org/record/4544529
+        src: url
+        url: https://zenodo.org/record/4544529/files/protein_groups.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/4544529
+        src: url
+        url: https://zenodo.org/record/4544529/files/Evidence.tabular
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment105_metast_cSCC1.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment106_metast_cSCC2.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment107_metast_cSCC3.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment109_metast_cSCC4.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment116_metast_cSCC5.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment117_metast_cSCC6.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment118_metast_cSCC7.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment119_metast_cSCC8.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment120_metast_cSCC9.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment121_metast_cSCC10.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment122_metast_cSCC11.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment123_metast_cSCC12.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment124_metast_cSCC13.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment110_RDEB_cSCC1.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment111_RDEB_cSCC2.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment112_RDEB_cSCC3.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment113_RDEB_cSCC4.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment114_RDEB_cSCC5.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD006914
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2017/11/PXD006914/Experiment115_RDEB_cSCC6.raw
+      name: 10.5281/zenodo.4544529
+    name: MaxQuant and MSstats for the analysis of label-free data
+  - items:
+    - description: latest
+      items:
+      - ext: fasta
+        info: https://zenodo.org/record/5195800
+        src: url
+        url: https://zenodo.org/record/5195800/files/protein_database.fasta
+      - ext: tabular
+        info: https://zenodo.org/record/5195800
+        src: url
+        url: https://zenodo.org/record/5195800/files/MaxQuant%20experimental%20design%20template.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/5195800
+        src: url
+        url: https://zenodo.org/record/5195800/files/MSstatsTMT%20annotation%20file.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/5195800
+        src: url
+        url: https://zenodo.org/record/5195800/files/MaxQuant%20Result%20protein%20groups.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/5195800
+        src: url
+        url: https://zenodo.org/record/5195800/files/MaxQuant%20Result%20evidence.tabular
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD014145
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA380.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD014145
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA381.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD014145
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA382.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD014145
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA383.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD014145
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA384.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD014145
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA385.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD014145
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA386.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD014145
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA387.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD014145
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA388.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD014145
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA389.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD014145
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA390.raw
+      - ext: thermo.raw
+        info: https://www.ebi.ac.uk/pride/archive/projects/PXD014145
+        src: url
+        url: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA391.raw
+      name: 10.5281/zenodo.5195800
+    name: MaxQuant and MSstats for the analysis of TMT data
+  - items:
+    - description: latest
+      items:
+      - ext: mgf
+        info: https://doi.org/10.5281/zenodo.839701
+        src: url
+        url: https://zenodo.org/api/files/ce8c2daa-fbf6-485f-beea-5b53ce1019b1/2016_Jan_12_QE2_45.mgf
+      - ext: mgf
+        info: https://doi.org/10.5281/zenodo.839701
+        src: url
+        url: https://zenodo.org/api/files/ce8c2daa-fbf6-485f-beea-5b53ce1019b1/2016_Jan_12_QE2_46.mgf
+      - ext: mgf
+        info: https://doi.org/10.5281/zenodo.839701
+        src: url
+        url: https://zenodo.org/api/files/ce8c2daa-fbf6-485f-beea-5b53ce1019b1/2016_Jan_12_QE2_47.mgf
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.839701
+        src: url
+        url: https://zenodo.org/api/files/ce8c2daa-fbf6-485f-beea-5b53ce1019b1/FASTA_Bering_Strait_Trimmed_metapeptides_cRAP.fasta
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.839701
+        src: url
+        url: https://zenodo.org/api/files/ce8c2daa-fbf6-485f-beea-5b53ce1019b1/Gene_Ontology_Terms_full_07.08.2017.tabular
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.839701
+        src: url
+        url: https://zenodo.org/api/files/ce8c2daa-fbf6-485f-beea-5b53ce1019b1/Gene_Ontology_Terms.tabular
+      name: 'DOI: 10.5281/zenodo.839701'
+    name: Metaproteomics tutorial
+  - items:
+    - description: latest
+      items:
+      - ext: fasta
+        info: https://zenodo.org/record/546301
+        src: url
+        url: https://zenodo.org/api/files/bbfa3626-aa14-479b-bd62-234cc63520f3/Human_database_%28cRAP_added%29.fasta
+      - ext: fasta
+        info: https://zenodo.org/record/546301
+        src: url
+        url: https://zenodo.org/api/files/bbfa3626-aa14-479b-bd62-234cc63520f3/Human_database_%28cRAP_and_Mycoplasma_added%29.fasta
+      - ext: mgf
+        info: https://zenodo.org/record/546301
+        src: url
+        url: https://zenodo.org/api/files/bbfa3626-aa14-479b-bd62-234cc63520f3/qExactive01819.mgf
+      - ext: mzml
+        info: https://zenodo.org/record/546301
+        src: url
+        url: https://zenodo.org/api/files/bbfa3626-aa14-479b-bd62-234cc63520f3/qExactive01819_profile.mzml
+      - ext: thermo.raw
+        info: https://zenodo.org/record/546301
+        src: url
+        url: https://zenodo.org/api/files/bbfa3626-aa14-479b-bd62-234cc63520f3/qExactive01819.raw
+      - ext: mzml
+        info: https://zenodo.org/record/546301
+        src: url
+        url: https://zenodo.org/api/files/bbfa3626-aa14-479b-bd62-234cc63520f3/qExactive01819_vendor-peakPicking.mzml
+      name: 'DOI: 10.5281/zenodo.546301'
+    name: Peptide and Protein ID using OpenMS tools
+  - items:
+    - description: latest
+      items:
+      - ext: fasta
+        info: https://zenodo.org/record/546301
+        src: url
+        url: https://zenodo.org/api/files/bbfa3626-aa14-479b-bd62-234cc63520f3/Human_database_%28cRAP_added%29.fasta
+      - ext: fasta
+        info: https://zenodo.org/record/546301
+        src: url
+        url: https://zenodo.org/api/files/bbfa3626-aa14-479b-bd62-234cc63520f3/Human_database_%28cRAP_and_Mycoplasma_added%29.fasta
+      - ext: mgf
+        info: https://zenodo.org/record/546301
+        src: url
+        url: https://zenodo.org/api/files/bbfa3626-aa14-479b-bd62-234cc63520f3/qExactive01819.mgf
+      - ext: mzml
+        info: https://zenodo.org/record/546301
+        src: url
+        url: https://zenodo.org/api/files/bbfa3626-aa14-479b-bd62-234cc63520f3/qExactive01819_profile.mzml
+      - ext: thermo.raw
+        info: https://zenodo.org/record/546301
+        src: url
+        url: https://zenodo.org/api/files/bbfa3626-aa14-479b-bd62-234cc63520f3/qExactive01819.raw
+      - ext: mzml
+        info: https://zenodo.org/record/546301
+        src: url
+        url: https://zenodo.org/api/files/bbfa3626-aa14-479b-bd62-234cc63520f3/qExactive01819_vendor-peakPicking.mzml
+      name: 'DOI: 10.5281/zenodo.546301'
+    name: Peptide and Protein ID using SearchGUI and PeptideShaker
+  - items:
+    - description: latest
+      items:
+      - ext: mzml
+        info: https://zenodo.org/record/1051552
+        src: url
+        url: https://zenodo.org/api/files/3951bef4-9bb9-4828-9c7f-36d7b74ec349/HEK_SILAC-K6R6_ST905_part.mzml
+      name: 'DOI: 10.5281/zenodo.1051552'
+    name: Peptide and Protein Quantification via Stable Isotope Labelling (SIL)
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/FASTQ_ProB_22LIST.fastqsanger
+      - ext: sqlite
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/genomic_mapping_sqlite.sqlite
+      - ext: mgf
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Mo_Tai_Trimmed_mgfs__Mo_Tai_iTRAQ_f4.mgf
+      - ext: mgf
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Mo_Tai_Trimmed_mgfs__Mo_Tai_iTRAQ_f5.mgf
+      - ext: mgf
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Mo_Tai_Trimmed_mgfs__Mo_Tai_iTRAQ_f8.mgf
+      - ext: mgf
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Mo_Tai_Trimmed_mgfs__Mo_Tai_iTRAQ_f9.mgf
+      - ext: gtf
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Mus_musculus.GRCm38.86.gtf
+      - ext: sqlite
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/mz_to_sqlite.mz.sqlite
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Peptides_for_Blast-P_analysis.tabular
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/PeptideShaker_PSM.tabular
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Trimmed_ref_5000_uniprot_cRAP.fasta
+      name: 'DOI: 10.5281/zenodo.1489208'
+    name: 'Proteogenomics 1: Database Creation'
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/FASTQ_ProB_22LIST.fastqsanger
+      - ext: sqlite
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/genomic_mapping_sqlite.sqlite
+      - ext: mgf
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Mo_Tai_Trimmed_mgfs__Mo_Tai_iTRAQ_f4.mgf
+      - ext: mgf
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Mo_Tai_Trimmed_mgfs__Mo_Tai_iTRAQ_f5.mgf
+      - ext: mgf
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Mo_Tai_Trimmed_mgfs__Mo_Tai_iTRAQ_f8.mgf
+      - ext: mgf
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Mo_Tai_Trimmed_mgfs__Mo_Tai_iTRAQ_f9.mgf
+      - ext: gtf
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Mus_musculus.GRCm38.86.gtf
+      - ext: sqlite
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/mz_to_sqlite.mz.sqlite
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Peptides_for_Blast-P_analysis.tabular
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/PeptideShaker_PSM.tabular
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Trimmed_ref_5000_uniprot_cRAP.fasta
+      name: 'DOI: 10.5281/zenodo.1489208'
+    name: 'Proteogenomics 2: Database Search'
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/FASTQ_ProB_22LIST.fastqsanger
+      - ext: sqlite
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/genomic_mapping_sqlite.sqlite
+      - ext: mgf
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Mo_Tai_Trimmed_mgfs__Mo_Tai_iTRAQ_f4.mgf
+      - ext: mgf
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Mo_Tai_Trimmed_mgfs__Mo_Tai_iTRAQ_f5.mgf
+      - ext: mgf
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Mo_Tai_Trimmed_mgfs__Mo_Tai_iTRAQ_f8.mgf
+      - ext: mgf
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Mo_Tai_Trimmed_mgfs__Mo_Tai_iTRAQ_f9.mgf
+      - ext: gtf
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Mus_musculus.GRCm38.86.gtf
+      - ext: sqlite
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/mz_to_sqlite.mz.sqlite
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Peptides_for_Blast-P_analysis.tabular
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/PeptideShaker_PSM.tabular
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.1489208
+        src: url
+        url: https://zenodo.org/api/files/bf8c34bc-ed55-4b1c-9b69-edfe0926ea84/Trimmed_ref_5000_uniprot_cRAP.fasta
+      name: 'DOI: 10.5281/zenodo.1489208'
+    name: 'Proteogenomics 3: Novel peptide analysis'
+  - items:
+    - description: latest
+      items:
+      - ext: tabular
+        info: https://zenodo.org/record/519260
+        src: url
+        url: https://zenodo.org/api/files/381dd5e0-1b6c-4206-aea2-081dcc6e6225/test_data.tabular
+      name: 'DOI: 10.5281/zenodo.519260'
+    name: Secretome Prediction
+  name: Proteomics
+- description: Analyses of sequences
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.3732358
+        src: url
+        url: https://zenodo.org/api/files/28b4a623-35a4-428d-a3dd-77d26f9eb4b6/SRR10903401_r1.fq.gz
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.3732358
+        src: url
+        url: https://zenodo.org/api/files/28b4a623-35a4-428d-a3dd-77d26f9eb4b6/SRR10903401_r2.fq.gz
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.3732358
+        src: url
+        url: https://zenodo.org/api/files/28b4a623-35a4-428d-a3dd-77d26f9eb4b6/SRR10903402_r1.fq.gz
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.3732358
+        src: url
+        url: https://zenodo.org/api/files/28b4a623-35a4-428d-a3dd-77d26f9eb4b6/SRR10903402_r2.fq.gz
+      name: 'DOI: 10.5281/zenodo.3732358'
+    name: Removal of human reads from SARS-CoV-2 sequencing data
+  - items:
+    - description: latest
+      items:
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_CTCF_rep1.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_CTCF_rep2.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_H3K27me3_rep1.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_H3K27me3_rep2.bam
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_H3K4me3_read1.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_H3K4me3_read2.fastq.gz
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_H3K4me3_rep1.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_H3K4me3_rep2.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_input_rep1.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1324070
+        src: url
+        url: https://zenodo.org/api/files/67d95c38-5a06-4184-b3a0-a6d3c9f25268/wt_input_rep2.bam
+      name: 'DOI: 10.5281/zenodo.1324070'
+    name: Mapping
+  - items:
+    - description: latest
+      items:
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461180_treat_paired.counts
+      - ext: bed
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461177_untreat_paired_junctions_chr4.bed
+      - ext: gtf
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/Drosophila_melanogaster.BDGP5.78.gtf
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461176_untreat_single_subset.fastq
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461181_treat_paired.counts
+      - ext: bed
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461177_untreat_paired_insertions_chr4.bed
+      - ext: txt
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/treated3_paired.txt
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461180_treat_paired_subset_2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461177_untreat_paired_subset_1.fastq
+      - ext: txt
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/untreated1_single.txt
+      - ext: bed
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461177_untreat_paired_deletions_chr4.bed
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461176_untreat_single.counts
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461177_untreat_paired_chr4.bam
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461180_treat_paired_subset_1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461181_treat_paired_subset_2.fastq
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461178_untreat_paired.counts
+      - ext: txt
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/untreated2_single.txt
+      - ext: txt
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/untreated3_paired.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461182_untreat_single.counts
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461179_treat_single.counts
+      - ext: gtf
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/dexseq.gtf
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461179_treat_single_subset.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461178_untreat_paired_subset_2.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461177_untreat_paired_subset_2.fastq
+      - ext: txt
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/untreated4_paired.txt
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461182_untreat_single_subset.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461178_untreat_paired_subset_1.fastq
+      - ext: txt
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/treated1_single.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461177_untreat_paired.counts
+      - ext: txt
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/treated2_paired.txt
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461178_untreat_paired_chr4.bam
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.61771
+        src: url
+        url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461181_treat_paired_subset_1.fastq
+      name: 'DOI: 10.5281/zenodo.61771'
+    name: Quality Control
+  name: Sequence analysis
+- description: Statistical Analyses for omics data and machine learning using Galaxy
+    tools
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/4697906
+        src: url
+        url: https://zenodo.org/record/4697906/files/X_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/4697906
+        src: url
+        url: https://zenodo.org/record/4697906/files/X_train.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/4697906
+        src: url
+        url: https://zenodo.org/record/4697906/files/y_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/4697906
+        src: url
+        url: https://zenodo.org/record/4697906/files/y_train.tsv
+      name: 'DOI: 10.5281/zenodo.4697906'
+    name: Introduction to convolutional neural networks (CNN)
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/4660497
+        src: url
+        url: https://zenodo.org/record/4660497/files/X_test.tsv?download=1
+      - ext: tsv
+        info: https://zenodo.org/record/4660497
+        src: url
+        url: https://zenodo.org/record/4660497/files/X_train.tsv?download=1
+      - ext: tsv
+        info: https://zenodo.org/record/4660497
+        src: url
+        url: https://zenodo.org/record/4660497/files/y_test.tsv?download=1
+      - ext: tsv
+        info: https://zenodo.org/record/4660497
+        src: url
+        url: https://zenodo.org/record/4660497/files/y_train.tsv?download=1
+      name: 'DOI: 10.5281/zenodo.4660497'
+    name: Introduction to feedforward neural networks (RNN)
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/4477881
+        src: url
+        url: https://zenodo.org/api/files/47b8692d-2671-4082-ac8f-746a0783cfa1/X_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/4477881
+        src: url
+        url: https://zenodo.org/api/files/47b8692d-2671-4082-ac8f-746a0783cfa1/X_train.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/4477881
+        src: url
+        url: https://zenodo.org/api/files/47b8692d-2671-4082-ac8f-746a0783cfa1/y_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/4477881
+        src: url
+        url: https://zenodo.org/api/files/47b8692d-2671-4082-ac8f-746a0783cfa1/y_train.tsv
+      name: 'DOI: 10.5281/zenodo.4477881'
+    name: Introduction to recurrent neural networks (RNN)
+  - items:
+    - description: latest
+      items:
+      - ext: csv
+        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
+        src: url
+        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/test_rows.csv
+      - ext: csv
+        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
+        src: url
+        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/test_rows_labels.csv
+      - ext: tsv
+        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
+        src: url
+        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/training_data_normal.tsv
+      - ext: csv
+        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
+        src: url
+        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/train_rows.csv
+      name: 'DOI: 10.5281/zenodo.2545213#.XEWTJ9-YVa0'
+    name: Age prediction using machine learning
+  - items:
+    - description: latest
+      items:
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.3738729
+        src: url
+        url: https://zenodo.org/record/3738729/files/train_rows.csv
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.3738729
+        src: url
+        url: https://zenodo.org/record/3738729/files/test_rows_labels.csv
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.3738729
+        src: url
+        url: https://zenodo.org/record/3738729/files/test_rows.csv
+      name: DOI:10.5281/zenodo.3738729
+    name: Classification in Machine Learning
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/3248907
+        src: url
+        url: https://zenodo.org/record/3248907/files/breast-w_targets.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3248907
+        src: url
+        url: https://zenodo.org/record/3248907/files/breast-w_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3248907
+        src: url
+        url: https://zenodo.org/record/3248907/files/breast-w_train.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3248907
+        src: url
+        url: https://zenodo.org/record/3248907/files/body_fat_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3248907
+        src: url
+        url: https://zenodo.org/record/3248907/files/body_fat_test_labels.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3248907
+        src: url
+        url: https://zenodo.org/record/3248907/files/body_fat_train.tsv
+      name: 'DOI: https://zenodo.org/record/3248907'
+    name: 'Machine learning: classification and regression'
+  - items:
+    - description: latest
+      items:
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.3813447
+        src: url
+        url: https://zenodo.org/api/files/4cc718d4-8a36-4d05-a211-b954fbc015f7/iris.csv
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.3813447
+        src: url
+        url: https://zenodo.org/api/files/4cc718d4-8a36-4d05-a211-b954fbc015f7/circles.csv
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.3813447
+        src: url
+        url: https://zenodo.org/api/files/4cc718d4-8a36-4d05-a211-b954fbc015f7/moon.csv
+      name: 'DOI: 10.5281/zenodo.3813447'
+    name: Clustering in Machine Learning
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/3706539#.XmjDYHVKg5k
+        src: url
+        url: https://zenodo.org/record/3706539/files/X_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3706539#.XmjDYHVKg5k
+        src: url
+        url: https://zenodo.org/record/3706539/files/X_train.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3706539#.XmjDYHVKg5k
+        src: url
+        url: https://zenodo.org/record/3706539/files/y_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3706539#.XmjDYHVKg5k
+        src: url
+        url: https://zenodo.org/record/3706539/files/y_train.tsv
+      name: 'DOI: 10.5281/zenodo.3706539'
+    name: Introduction to deep learning
+  - items:
+    - description: latest
+      items:
+      - ext: bed
+        info: https://zenodo.org/record/1288429
+        src: url
+        url: https://zenodo.org/api/files/04cbd251-fe0b-4408-9f90-e2aecd61ef09/Control.bed
+      - ext: txt
+        info: https://zenodo.org/record/1288429
+        src: url
+        url: https://zenodo.org/api/files/04cbd251-fe0b-4408-9f90-e2aecd61ef09/DESCRIPTION.txt
+      - ext: bed
+        info: https://zenodo.org/record/1288429
+        src: url
+        url: https://zenodo.org/api/files/04cbd251-fe0b-4408-9f90-e2aecd61ef09/ETn_fixed.bed
+      - ext: tabular
+        info: https://zenodo.org/record/1288429
+        src: url
+        url: https://zenodo.org/api/files/04cbd251-fe0b-4408-9f90-e2aecd61ef09/features_header.tabular
+      - ext: zip
+        info: https://zenodo.org/record/1288429
+        src: url
+        url: https://zenodo.org/api/files/04cbd251-fe0b-4408-9f90-e2aecd61ef09/IWTomics_ETn_dataset_example.zip
+      - ext: txt
+        info: https://zenodo.org/record/1288429
+        src: url
+        url: https://zenodo.org/api/files/04cbd251-fe0b-4408-9f90-e2aecd61ef09/Recombination_hotspots.txt
+      - ext: tabular
+        info: https://zenodo.org/record/1288429
+        src: url
+        url: https://zenodo.org/api/files/04cbd251-fe0b-4408-9f90-e2aecd61ef09/regions_header.tabular
+      name: 'DOI: 10.5281/zenodo.1288429'
+    name: Interval-Wise Testing for omics data
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/1468039#.W8zyxBRoSAo
+        src: url
+        url: https://zenodo.org/api/files/0d468136-5025-4c0f-bf8b-a8277a513a93/breast-w_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/1468039#.W8zyxBRoSAo
+        src: url
+        url: https://zenodo.org/api/files/0d468136-5025-4c0f-bf8b-a8277a513a93/breast-w_train.tsv
+      name: 'DOI: 10.5281/zenodo.1468039#.W8zyxBRoSAo'
+    name: Basics of machine learning
+  - items:
+    - description: latest
+      items:
+      - ext: csv
+        info: http://doi.org/10.5281/zenodo.2545213
+        src: url
+        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/test_rows.csv
+      - ext: csv
+        info: http://doi.org/10.5281/zenodo.2545213
+        src: url
+        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/test_rows_labels.csv
+      - ext: csv
+        info: http://doi.org/10.5281/zenodo.2545213
+        src: url
+        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/train_rows.csv
+      name: 'DOI: 10.5281/zenodo.2545213'
+    name: Regression in Machine Learning
+  - items:
+    - description: latest
+      items:
+      - ext: tabular
+        info: http://doi.org/10.5281/zenodo.4638516
+        src: url
+        url: https://zenodo.org/api/files/b7b2b1d8-bb18-423d-9fe4-3bce858265ac/clingen_data
+      name: 'DOI: 10.5281/zenodo.4638516'
+    name: Text-mining with the SimText toolset
+  name: Statistics and machine learning
+- description: Summary
+  items:
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/CCLE_DepMap_18Q1_maf_20180207.txt.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/CCLE_MUT_CNA_AMP_DEL_binary_Revealer.tsv.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/ccle_rnaseq_genes_rpkm_20180929_mod.tsv.gz
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/compounds_of_interest.txt
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/copy_number_gain_status.tsv.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/copy_number_loss_status.tsv.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/cosmic_cancer_classification.tsv
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/EBPlusPlusAdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.tsv
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/gdsc1_ccle_pharm_fitted_dose_data.txt.gz
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/gdsc2_ccle_pharm_fitted_dose_data.txt.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GDSC_CCLE_common_mut_cnv_binary.tsv.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GDSC_EXP_CCLE_converted_name.tsv.gz
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GSE69822_pi3k_sign.txt
+  - ext: csv
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GSE69822_pi3k_trans.csv
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GSE94937_kras_sign.txt
+  - ext: csv
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GSE94937_rpkm_kras.csv
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/mc3.v0.2.8.PUBLIC.maf.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/mutation_burden_freeze.tsv
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/pancan_GISTIC_threshold.tsv.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/pancan_mutation_freeze.tsv.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/pancan_rnaseq_freeze.tsv.gz
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/path_cell_cycle_genes.txt
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/path_myc_genes.txt
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/path_ras_genes.txt
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/path_rtk_ras_pi3k_genes.txt
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/path_wnt_genes.txt
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/sample_freeze.tsv
+  - ext: csv
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/sampleset_freeze_version4_modify.csv
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/seg_based_scores.tsv
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/tcga_dictionary.tsv
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/vogelstein_cancergenes.tsv
+  name: PAPAA PI3K_OG:Pancancer Aberrant Pathway Activity Analysis
+- description: Training material for all kinds of transcriptomics analysis.
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: txt
+        info: https://zenodo.org/record/2579279
+        src: url
+        url: https://zenodo.org/record/2579279/files/hg38_chr_sizes.txt
+      - ext: gtf
+        info: https://zenodo.org/record/2579279
+        src: url
+        url: https://zenodo.org/record/2579279/files/Homo_sapiens.GRCh38.87.gtf
+      - ext: fastqsanger
+        info: https://zenodo.org/record/2579279
+        src: url
+        url: https://zenodo.org/record/2579279/files/RBFOX2-204-CLIP_S1_R1_RBFOX2.fastq
+      - ext: fastqsanger
+        info: https://zenodo.org/record/2579279
+        src: url
+        url: https://zenodo.org/record/2579279/files/RBFOX2-204-CLIP_S1_R2_RBFOX2.fastq
+      - ext: fastqsanger
+        info: https://zenodo.org/record/2579279
+        src: url
+        url: https://zenodo.org/record/2579279/files/RBFOX2-204-INPUT_S2_R1.fastq
+      - ext: fastqsanger
+        info: https://zenodo.org/record/2579279
+        src: url
+        url: https://zenodo.org/record/2579279/files/RBFOX2-204-INPUT_S2_R2.fastq
+      name: 'DOI: 10.5281/zenodo.2579279'
+    name: CLIP-Seq data analysis of RBFOX2
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/254485#.WKODmRIrKRu
+        src: url
+        url: https://zenodo.org/api/files/47580600-dce0-44cf-b4d9-62713ab9fa63/G1E_R1_forward_downsampled_SRR549355.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/254485#.WKODmRIrKRu
+        src: url
+        url: https://zenodo.org/api/files/47580600-dce0-44cf-b4d9-62713ab9fa63/G1E_R1_reverse_downsampled_SRR549355.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/254485#.WKODmRIrKRu
+        src: url
+        url: https://zenodo.org/api/files/47580600-dce0-44cf-b4d9-62713ab9fa63/G1E_R2_forward_downsampled_SRR549356.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/254485#.WKODmRIrKRu
+        src: url
+        url: https://zenodo.org/api/files/47580600-dce0-44cf-b4d9-62713ab9fa63/G1E_R2_reverse_downsampled_SRR549356.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/254485#.WKODmRIrKRu
+        src: url
+        url: https://zenodo.org/api/files/47580600-dce0-44cf-b4d9-62713ab9fa63/Megakaryocyte_R1_forward_downsampled_SRR549357.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/254485#.WKODmRIrKRu
+        src: url
+        url: https://zenodo.org/api/files/47580600-dce0-44cf-b4d9-62713ab9fa63/Megakaryocyte_R1_reverse_downsampled_SRR549357.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/254485#.WKODmRIrKRu
+        src: url
+        url: https://zenodo.org/api/files/47580600-dce0-44cf-b4d9-62713ab9fa63/Megakaryocyte_R2_forward_downsampled_SRR549358.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/254485#.WKODmRIrKRu
+        src: url
+        url: https://zenodo.org/api/files/47580600-dce0-44cf-b4d9-62713ab9fa63/Megakaryocyte_R2_reverse_downsampled_SRR549358.fastqsanger.gz
+      - ext: gtf
+        info: https://zenodo.org/record/254485#.WKODmRIrKRu
+        src: url
+        url: https://zenodo.org/api/files/47580600-dce0-44cf-b4d9-62713ab9fa63/RefSeq_gene_annotations_mm10.bed.gtf.gz
+      - ext: bed
+        info: https://zenodo.org/record/254485#.WKODmRIrKRu
+        src: url
+        url: https://zenodo.org/api/files/47580600-dce0-44cf-b4d9-62713ab9fa63/RNAseq_regions_of_interest.bed.gz
+      name: 'DOI: 10.5281/zenodo.254485#.WKODmRIrKRu'
+    name: De novo transcriptome reconstruction with RNA-Seq
+  - items:
+    - description: latest
+      items:
+      - ext: tabular
+        info: https://zenodo.org/record/2565417
+        src: url
+        url: https://zenodo.org/api/files/a4583abd-0a85-457e-a5c0-1fc323535db7/drosophila_gene_association.fb
+      - ext: obo
+        info: https://zenodo.org/record/2565417
+        src: url
+        url: https://zenodo.org/api/files/a4583abd-0a85-457e-a5c0-1fc323535db7/go.obo
+      - ext: obo
+        info: https://zenodo.org/record/2565417
+        src: url
+        url: https://zenodo.org/api/files/a4583abd-0a85-457e-a5c0-1fc323535db7/goslim_generic.obo
+      - ext: txt
+        info: https://zenodo.org/record/2565417
+        src: url
+        url: https://zenodo.org/api/files/a4583abd-0a85-457e-a5c0-1fc323535db7/mouse_brain_vs_heart.difgenes.txt
+      - ext: tabular
+        info: https://zenodo.org/record/2565417
+        src: url
+        url: https://zenodo.org/api/files/a4583abd-0a85-457e-a5c0-1fc323535db7/mouse_brain_vs_heart.txt
+      - ext: txt
+        info: https://zenodo.org/record/2565417
+        src: url
+        url: https://zenodo.org/api/files/a4583abd-0a85-457e-a5c0-1fc323535db7/mouseOverexpressed.txt
+      - ext: txt
+        info: https://zenodo.org/record/2565417
+        src: url
+        url: https://zenodo.org/api/files/a4583abd-0a85-457e-a5c0-1fc323535db7/mouseUnderexpressed.txt
+      - ext: tabular
+        info: https://zenodo.org/record/2565417
+        src: url
+        url: https://zenodo.org/api/files/a4583abd-0a85-457e-a5c0-1fc323535db7/Mus_musculus_annotations_biomart_e92.tab
+      - ext: tabular
+        info: https://zenodo.org/record/2565417
+        src: url
+        url: https://zenodo.org/api/files/a4583abd-0a85-457e-a5c0-1fc323535db7/trapnellPopulation.tab
+      - ext: tabular
+        info: https://zenodo.org/record/2565417
+        src: url
+        url: https://zenodo.org/api/files/a4583abd-0a85-457e-a5c0-1fc323535db7/trapnellStudy.txt
+      name: 'DOI: 10.5281/zenodo.2565417'
+    name: GO Enrichment Analysis
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4710649
+        src: url
+        url: https://zenodo.org/record/4710649/files/SRR7779222_BRL3_mRNA_drought.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4710649
+        src: url
+        url: https://zenodo.org/record/4710649/files/SRR7779223_BRL3_mRNA_drought.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4710649
+        src: url
+        url: https://zenodo.org/record/4710649/files/SRR7779224_BRL3_mRNA_drought.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4710649
+        src: url
+        url: https://zenodo.org/record/4710649/files/SRR7779228_BRL3_mRNA_watered.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/4710649
+        src: url
+        url: https://zenodo.org/record/4710649/files/SRR7779229_BRL3_mRNA_watered.fastqsanger.gz
+      name: 'DOI: 10.5281/zenodo.4710649'
+    name: Whole transcriptome analysis of Arabidopsis thaliana
+  - items:
+    - description: Caries Postive (Disease)
+      items:
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2241_CP_DZ_PairTo_2242.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2126_CP_MZ_PairTo_2125.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2991_CP_DZ_PairTo_2992.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2931_CP_DZ_PairTo_2930.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2284_CP_DZ_PairTo_2283.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2125_CP_MZ_PairTo_2126.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/4131_CP_DZ_PairTo_4132.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2954_CP_DZ_PairTo_2955.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2170_CP_MZ_PairTo_2169.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2955_CP_DZ_PairTo_2954.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2011_CP_DZ_PairTo_2012.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2012_CP_DZ_PairTo_2011.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2269_CP_DZ_PairTo_2270.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/3215_CP_MZ_PairTo_3214.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2354_CP_DZ_PairTo_2355.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/3306_CP_DZ_PairTo_3307.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2061_CP_DZ_PairTo_2062.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2355_CP_DZ_PairTo_2354.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2242_CP_DZ_PairTo_2241.txt
+      name: 'DOI: 10.5281/zenodo.1344105 CP'
+    - description: Caries Negative (Health)
+      items:
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2310_CN_DZ_PairTo_2309.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2062_CN_DZ_PairTo_2061.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2191_CN_MZ_PairTo_2192.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2052_CN_MZ_PairTo_2051.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2051_CN_MZ_PairTo_2052.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2192_CN_MZ_PairTo_2191.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2234_CN_DZ_PairTo_2233.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2233_CN_DZ_PairTo_2234.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2270_CN_DZ_PairTo_2269.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2225_CN_MZ_PairTo_2226.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/4132_CN_DZ_PairTo_4131.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2309_CN_DZ_PairTo_2310.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2992_CN_DZ_PairTo_2991.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/3214_CN_MZ_PairTo_3215.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2169_CN_MZ_PairTo_2170.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/2930_CN_DZ_PairTo_2931.txt
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.1344105
+        src: url
+        url: https://zenodo.org/record/1344105/files/3307_CN_DZ_PairTo_3306.txt
+      name: 'DOI: 10.5281/zenodo.1344105 CN'
+    name: Network analysis with Heinz
+  - items:
+    - description: latest
+      items:
+      - ext: gtf
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/Drosophila_melanogaster.BDGP6.87.dexseq.gtf
+      - ext: tabular
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/Drosophila_melanogaster.BDGP6.87.gene_lengths
+      - ext: gtf
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/Drosophila_melanogaster.BDGP6.87.gtf
+      - ext: fastqsanger
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461176.fastqsanger
+      - ext: tabular
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461176_untreat_single.counts
+      - ext: tabular
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461176_untreat_single.exon.counts
+      - ext: fastqsanger
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461177_1.fastqsanger
+      - ext: fastqsanger
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461177_2.fastqsanger
+      - ext: tabular
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461177_untreat_paired.counts
+      - ext: tabular
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461177_untreat_paired.exon.counts
+      - ext: fastqsanger
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461178_1.fastqsanger
+      - ext: fastqsanger
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461178_2.fastqsanger
+      - ext: tabular
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461178_untreat_paired.counts
+      - ext: tabular
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461178_untreat_paired.exon.counts
+      - ext: fastqsanger
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461179.fastqsanger
+      - ext: tabular
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461179_treat_single.counts
+      - ext: tabular
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461179_treat_single.exon.counts
+      - ext: fastqsanger
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461180_1.fastqsanger
+      - ext: fastqsanger
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461180_2.fastqsanger
+      - ext: tabular
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461180_treat_paired.counts
+      - ext: tabular
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461180_treat_paired.exon.counts
+      - ext: fastqsanger
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461181_1.fastqsanger
+      - ext: fastqsanger
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461181_2.fastqsanger
+      - ext: tabular
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461181_treat_paired.counts
+      - ext: tabular
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461181_treat_paired.exon.counts
+      - ext: fastqsanger
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461182.fastqsanger
+      - ext: tabular
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461182_untreat_single.counts
+      - ext: tabular
+        info: https://zenodo.org/record/1185122
+        src: url
+        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461182_untreat_single.exon.counts
+      name: 'DOI: 10.5281/zenodo.1185122'
+    name: Reference-based RNA-Seq data analysis
+  - items:
+    - description: latest
+      items:
+      - ext: fasta.gz
+        info: https://zenodo.org/record/3709188
+        src: url
+        url: https://zenodo.org/api/files/624162d9-d626-4b60-8301-1f4355232912/miRNA_mature.fa.gz
+      - ext: fasta.gz
+        info: https://zenodo.org/record/3709188
+        src: url
+        url: https://zenodo.org/api/files/624162d9-d626-4b60-8301-1f4355232912/Mus_musculus.GRCm38.dna.fa.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3709188
+        src: url
+        url: https://zenodo.org/api/files/624162d9-d626-4b60-8301-1f4355232912/SRR2413302.fastq.gz
+      - ext: fasta.gz
+        info: https://zenodo.org/record/3709188
+        src: url
+        url: https://zenodo.org/api/files/624162d9-d626-4b60-8301-1f4355232912/transcriptome.fa.gz
+      - ext: gtf
+        info: https://zenodo.org/record/3709188
+        src: url
+        url: https://zenodo.org/api/files/624162d9-d626-4b60-8301-1f4355232912/whole_transcriptome.gff.gz
+      name: 'DOI: 10.5281/zenodo.3709188'
+    name: RNA-RNA interactome data analysis
+  - items:
+    - ext: tabular
+      info: ''
+      src: url
+      url: https://ndownloader.figshare.com/files/5057929?private_link=1d788fd384d33e913a2a
+    - ext: tabular
+      info: ''
+      src: url
+      url: https://ndownloader.figshare.com/files/5999829?private_link=1d788fd384d33e913a2a
+    - ext: tabular
+      info: ''
+      src: url
+      url: https://ndownloader.figshare.com/files/5999832?private_link=1d788fd384d33e913a2a
+    name: RNA-seq counts to genes
+  - items:
+    - description: latest
+      items:
+      - ext: tabular
+        info: https://zenodo.org/record/2596382
+        src: url
+        url: https://zenodo.org/api/files/20797b4c-f42b-4afd-b83a-11f2ba993f24/factordata
+      - ext: tabular
+        info: https://zenodo.org/record/2596382
+        src: url
+        url: https://zenodo.org/api/files/20797b4c-f42b-4afd-b83a-11f2ba993f24/limma-voom_basalpregnant-basallactate
+      - ext: tabular
+        info: https://zenodo.org/record/2596382
+        src: url
+        url: https://zenodo.org/api/files/20797b4c-f42b-4afd-b83a-11f2ba993f24/limma-voom_filtered_counts
+      - ext: tabular
+        info: https://zenodo.org/record/2596382
+        src: url
+        url: https://zenodo.org/api/files/20797b4c-f42b-4afd-b83a-11f2ba993f24/limma-voom_luminalpregnant-luminallactate
+      - ext: rdata
+        info: https://zenodo.org/record/2596382
+        src: url
+        url: https://zenodo.org/api/files/20797b4c-f42b-4afd-b83a-11f2ba993f24/mouse_hallmark_sets
+      - ext: tabular
+        info: https://zenodo.org/record/2596382
+        src: url
+        url: https://zenodo.org/api/files/20797b4c-f42b-4afd-b83a-11f2ba993f24/seqdata
+      name: 'DOI: 10.5281/zenodo.2596382'
+    - description: ''
+      items:
+      - ext: tabular
+        info: https://zenodo.org/record/2491305
+        src: url
+        url: https://zenodo.org/api/files/fd880772-78f5-48c7-8960-838ae2f7c496/factordata
+      - ext: tabular
+        info: https://zenodo.org/record/2491305
+        src: url
+        url: https://zenodo.org/api/files/fd880772-78f5-48c7-8960-838ae2f7c496/limma-voom_basalpregnant-basallactate
+      - ext: tabular
+        info: https://zenodo.org/record/2491305
+        src: url
+        url: https://zenodo.org/api/files/fd880772-78f5-48c7-8960-838ae2f7c496/limma-voom_filtered_counts
+      - ext: tabular
+        info: https://zenodo.org/record/2491305
+        src: url
+        url: https://zenodo.org/api/files/fd880772-78f5-48c7-8960-838ae2f7c496/limma-voom_luminalpregnant-luminallactate
+      - ext: rdata
+        info: https://zenodo.org/record/2491305
+        src: url
+        url: https://zenodo.org/api/files/fd880772-78f5-48c7-8960-838ae2f7c496/mouse_hallmark_sets
+      - ext: tabular
+        info: https://zenodo.org/record/2491305
+        src: url
+        url: https://zenodo.org/api/files/fd880772-78f5-48c7-8960-838ae2f7c496/seqdata
+      name: 'DOI: 10.5281/zenodo.2491305'
+    name: RNA-seq genes to pathways
+  - items:
+    - ext: tabular
+      info: ''
+      src: url
+      url: https://ndownloader.figshare.com/files/5053573?private_link=f5d63d8c265a05618137
+    - ext: tabular
+      info: ''
+      src: url
+      url: https://ndownloader.figshare.com/files/5053570?private_link=f5d63d8c265a05618137
+    - ext: tabular
+      info: ''
+      src: url
+      url: https://ndownloader.figshare.com/files/5053567?private_link=f5d63d8c265a05618137
+    - ext: tabular
+      info: ''
+      src: url
+      url: https://ndownloader.figshare.com/files/5053564?private_link=f5d63d8c265a05618137
+    - ext: tabular
+      info: ''
+      src: url
+      url: https://ndownloader.figshare.com/files/5053561?private_link=f5d63d8c265a05618137
+    - ext: tabular
+      info: ''
+      src: url
+      url: https://ndownloader.figshare.com/files/5053558?private_link=f5d63d8c265a05618137
+    - ext: tabular
+      info: ''
+      src: url
+      url: https://ndownloader.figshare.com/files/5053555?private_link=f5d63d8c265a05618137
+    - ext: tabular
+      info: ''
+      src: url
+      url: https://ndownloader.figshare.com/files/5053588?private_link=f5d63d8c265a05618137
+    - ext: tabular
+      info: ''
+      src: url
+      url: https://ndownloader.figshare.com/files/5053579?private_link=f5d63d8c265a05618137
+    - ext: tabular
+      info: ''
+      src: url
+      url: https://ndownloader.figshare.com/files/5053582?private_link=f5d63d8c265a05618137
+    - ext: tabular
+      info: ''
+      src: url
+      url: https://ndownloader.figshare.com/files/5053585?private_link=f5d63d8c265a05618137
+    - ext: tabular
+      info: ''
+      src: url
+      url: https://ndownloader.figshare.com/files/5053552?private_link=f5d63d8c265a05618137
+    - ext: bed
+      info: ''
+      src: url
+      url: https://sourceforge.net/projects/rseqc/files/BED/Mouse_Mus_musculus/mm10_RefSeq.bed.gz/download
+    name: RNA-Seq reads to counts
+  - items:
+    - description: latest
+      items:
+      - ext: sqlite
+        info: https://zenodo.org/record/1001880
+        src: url
+        url: https://zenodo.org/api/files/f2dd5d28-4948-47f9-87c0-9075e256606d/CuffDiff_SQLite_database.sqlite
+      name: 'DOI: 10.5281/zenodo.1001880'
+    name: Visualization of RNA-Seq results with CummeRbund
+  - items:
+    - description: latest
+      items:
+      - ext: tabular
+        info: https://zenodo.org/record/2529926
+        src: url
+        url: https://zenodo.org/api/files/4ff2c107-d04b-4e76-b661-1059a84004ba/heatmap_genes
+      - ext: tabular
+        info: https://zenodo.org/record/2529926
+        src: url
+        url: https://zenodo.org/api/files/4ff2c107-d04b-4e76-b661-1059a84004ba/limma-voom_luminalpregnant-luminallactate
+      - ext: tabular
+        info: https://zenodo.org/record/2529926
+        src: url
+        url: https://zenodo.org/api/files/4ff2c107-d04b-4e76-b661-1059a84004ba/limma-voom_normalised_counts
+      name: 'DOI: 10.5281/zenodo.2529926'
+    name: Visualization of RNA-Seq results with heatmap2
+  - items:
+    - description: latest
+      items:
+      - ext: tabular
+        info: https://zenodo.org/record/2529117
+        src: url
+        url: https://zenodo.org/api/files/98f46936-5237-43f2-943c-448680e1d07a/limma-voom_luminalpregnant-luminallactate
+      name: 'DOI: 10.5281/zenodo.2529117'
+    name: Visualization of RNA-Seq results with Volcano Plot
+  - items:
+    - description: latest
+      items:
+      - ext: txt
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/3M-february-2018.txt.gz
+      - ext: txt
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/737K-august-2016.txt
+      - ext: txt
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/cellranger_mit_license.txt
+      - ext: gtf
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/Homo_sapiens.GRCh37.75.gtf
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L001_I1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L001_R1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L001_R2_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L002_I1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L002_R1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L002_R2_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subset_pbmc_1k_v3_S1_L001_R1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subset_pbmc_1k_v3_S1_L001_R2_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subset_pbmc_1k_v3_S1_L002_R1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subset_pbmc_1k_v3_S1_L002_R2_001.fastq.gz
+      - ext: txt
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subsetting_data.txt
+      name: 'DOI: 10.5281/zenodo.3457880'
+    name: Pre-processing of 10X Single-Cell RNA Datasets
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/3581213
+        src: url
+        url: https://zenodo.org/api/files/78a8ec7e-3357-44b8-854d-4a9d772b4589/barcodes.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3581213
+        src: url
+        url: https://zenodo.org/api/files/78a8ec7e-3357-44b8-854d-4a9d772b4589/genes.tsv
+      - ext: mtx
+        info: https://zenodo.org/record/3581213
+        src: url
+        url: https://zenodo.org/api/files/78a8ec7e-3357-44b8-854d-4a9d772b4589/matrix.mtx
+      name: 'DOI: 10.5281/zenodo.3581213'
+    name: Clustering 3K PBMCs with Scanpy
+  - items:
+    - description: latest
+      items:
+      - ext: bam
+        info: https://zenodo.org/record/1491876
+        src: url
+        url: https://zenodo.org/api/files/e9a5b9b1-7e5e-40ae-9ce4-2797709c0689/blockclust.bam
+      name: 'DOI: 10.5281/zenodo.1491876'
+    name: Small Non-coding RNA Clustering using BlockClust
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/826906
+        src: url
+        url: https://zenodo.org/api/files/91891445-b940-4880-a087-751075b0f8f9/Blank_RNAi_sRNA-seq_rep1_downsampled.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/826906
+        src: url
+        url: https://zenodo.org/api/files/91891445-b940-4880-a087-751075b0f8f9/Blank_RNAi_sRNA-seq_rep2_downsampled.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/826906
+        src: url
+        url: https://zenodo.org/api/files/91891445-b940-4880-a087-751075b0f8f9/Blank_RNAi_sRNA-seq_rep3_downsampled.fastqsanger.gz
+      - ext: fasta
+        info: https://zenodo.org/record/826906
+        src: url
+        url: https://zenodo.org/api/files/91891445-b940-4880-a087-751075b0f8f9/dm3_miRNA_hairpin_sequences.fa.gz
+      - ext: fasta
+        info: https://zenodo.org/record/826906
+        src: url
+        url: https://zenodo.org/api/files/91891445-b940-4880-a087-751075b0f8f9/dm3_rRNA_sequences.fa.gz
+      - ext: fasta
+        info: https://zenodo.org/record/826906
+        src: url
+        url: https://zenodo.org/api/files/91891445-b940-4880-a087-751075b0f8f9/dm3_transcriptome_sequences_downsampled.fa.gz
+      - ext: tabular
+        info: https://zenodo.org/record/826906
+        src: url
+        url: https://zenodo.org/api/files/91891445-b940-4880-a087-751075b0f8f9/dm3_transcriptome_Tx2Gene_downsampled.tab.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/826906
+        src: url
+        url: https://zenodo.org/api/files/91891445-b940-4880-a087-751075b0f8f9/Symp_RNAi_sRNA-seq_rep1_downsampled.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/826906
+        src: url
+        url: https://zenodo.org/api/files/91891445-b940-4880-a087-751075b0f8f9/Symp_RNAi_sRNA-seq_rep2_downsampled.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/826906
+        src: url
+        url: https://zenodo.org/api/files/91891445-b940-4880-a087-751075b0f8f9/Symp_RNAi_sRNA-seq_rep3_downsampled.fastqsanger.gz
+      name: 'DOI: 10.5281/zenodo.826906'
+    name: Differential abundance testing of small RNAs
+  name: Transcriptomics
+- description: Exome sequencing means that all protein-coding genes in a genome are
+    sequenced
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.60520
+        src: url
+        url: https://zenodo.org/api/files/fc05c2ad-eff6-430c-8138-3b6f5934f87c/father.bam
+      - ext: vcf
+        info: https://doi.org/10.5281/zenodo.60520
+        src: url
+        url: https://zenodo.org/api/files/fc05c2ad-eff6-430c-8138-3b6f5934f87c/dbSNP_138.hg19.vcf
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.60520
+        src: url
+        url: https://zenodo.org/api/files/fc05c2ad-eff6-430c-8138-3b6f5934f87c/patient.bam
+      - ext: txt
+        info: https://doi.org/10.5281/zenodo.60520
+        src: url
+        url: https://zenodo.org/api/files/fc05c2ad-eff6-430c-8138-3b6f5934f87c/GIAB-Ashkenazim-Trio.txt
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.60520
+        src: url
+        url: https://zenodo.org/api/files/fc05c2ad-eff6-430c-8138-3b6f5934f87c/GIAB-Ashkenazim-Trio-hg19.gz
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.60520
+        src: url
+        url: https://zenodo.org/api/files/fc05c2ad-eff6-430c-8138-3b6f5934f87c/mother.bam
+      name: 'DOI: 10.5281/zenodo.60520'
+    name: Calling variants in diploid systems
+  - items:
+    - description: latest
+      items:
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.3054169
+        src: url
+        url: https://zenodo.org/api/files/dd4bcd95-4412-4ac0-a7d2-23cf1c69e0bc/mapped_reads_father.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.3054169
+        src: url
+        url: https://zenodo.org/api/files/dd4bcd95-4412-4ac0-a7d2-23cf1c69e0bc/mapped_reads_proband.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.3054169
+        src: url
+        url: https://zenodo.org/api/files/dd4bcd95-4412-4ac0-a7d2-23cf1c69e0bc/mapped_reads_mother.bam
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.3054169
+        src: url
+        url: https://zenodo.org/api/files/dd4bcd95-4412-4ac0-a7d2-23cf1c69e0bc/Pedigree.txt
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.3054169
+        src: url
+        url: https://zenodo.org/api/files/dd4bcd95-4412-4ac0-a7d2-23cf1c69e0bc/hg19_chr8.fa.gz
+      name: 'DOI: 10.5281/zenodo.3054169'
+    name: Exome sequencing data analysis for diagnosing a genetic disease
+  - items:
+    - description: latest
+      items:
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1098033
+        src: url
+        url: https://zenodo.org/api/files/46fdf82f-b16a-4c96-801f-02a105c2b0e8/Ler_mapping_strain.bam
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.1098033
+        src: url
+        url: https://zenodo.org/api/files/46fdf82f-b16a-4c96-801f-02a105c2b0e8/outcrossed_F2.bam
+      name: 'DOI: 10.5281/zenodo.1098033'
+    - description: latest
+      items:
+      - ext: fasta
+        info: ''
+        src: url
+        url: https://www.arabidopsis.org/download_files/Genes/TAIR10_genome_release/TAIR10_chromosome_files/TAIR10_chr_all.fas
+      name: Arabidopsis TAIR10 genome
+    name: Mapping and molecular identification of phenotype-causing mutations
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.582600
+        src: url
+        url: https://zenodo.org/api/files/287966da-5411-4f79-8cfb-0ffa84d0d6cc/mutant_R1.fastq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.582600
+        src: url
+        url: https://zenodo.org/api/files/287966da-5411-4f79-8cfb-0ffa84d0d6cc/mutant_R2.fastq
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.582600
+        src: url
+        url: https://zenodo.org/api/files/287966da-5411-4f79-8cfb-0ffa84d0d6cc/wildtype.fna
+      - ext: genbank
+        info: https://doi.org/10.5281/zenodo.582600
+        src: url
+        url: https://zenodo.org/api/files/287966da-5411-4f79-8cfb-0ffa84d0d6cc/wildtype.gbk
+      - ext: gff
+        info: https://doi.org/10.5281/zenodo.582600
+        src: url
+        url: https://zenodo.org/api/files/287966da-5411-4f79-8cfb-0ffa84d0d6cc/wildtype.gff
+      name: 'DOI: 10.5281/zenodo.582600'
+    name: Microbial Variant Calling
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.1251112
+        src: url
+        url: https://zenodo.org/api/files/c7f28da4-3925-41c6-8bd1-81d6e6441dc2/raw_child-ds-1.fq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.1251112
+        src: url
+        url: https://zenodo.org/api/files/c7f28da4-3925-41c6-8bd1-81d6e6441dc2/raw_child-ds-2.fq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.1251112
+        src: url
+        url: https://zenodo.org/api/files/c7f28da4-3925-41c6-8bd1-81d6e6441dc2/raw_mother-ds-1.fq
+      - ext: fastqsanger
+        info: https://doi.org/10.5281/zenodo.1251112
+        src: url
+        url: https://zenodo.org/api/files/c7f28da4-3925-41c6-8bd1-81d6e6441dc2/raw_mother-ds-2.fq
+      name: 'DOI: 10.5281/zenodo.1251112'
+    name: Calling variants in non-diploid systems
+  - items:
+    - description: latest
+      items:
+      - ext: tabular
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ARTIC_amplicon_info_v3.tabular
+      - ext: bed6
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ARTIC_nCoV-2019_v3.bed6
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5931005_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5931005_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5931006_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5931006_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5931007_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5931007_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5931008_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5931008_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949456_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949456_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949457_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949457_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949458_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949458_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949459_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949459_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949460_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949460_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949461_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949461_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949462_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949462_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949463_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949463_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949464_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949464_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949465_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949465_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949466_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949466_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949467_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949467_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949468_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949468_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949469_1.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/ERR5949469_2.fastqsanger.gz
+      - ext: tabular
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/NC_045512.2_feature_mapping.tabular
+      - ext: fasta
+        info: https://zenodo.org/record/5036687
+        src: url
+        url: https://zenodo.org/api/files/e3380e5c-6916-4490-b9df-59b88a2223c9/NC_045512.2_reference_sequence.fasta
+      name: 'DOI: 10.5281/zenodo.5036687'
+    name: Mutation calling, viral genome reconstruction and lineage/clade assignment
+      from SARS-CoV-2 sequencing data
+  - items:
+    - description: latest
+      items:
+      - ext: vcf
+        info: https://doi.org/10.5281/zenodo.2582555
+        src: url
+        url: https://zenodo.org/api/files/a8dae68d-74a9-4283-9d3a-942668270643/dbsnp.b147.chr5_12_17.vcf.gz
+      - ext: fasta.gz
+        info: https://doi.org/10.5281/zenodo.2582555
+        src: url
+        url: https://zenodo.org/api/files/a8dae68d-74a9-4283-9d3a-942668270643/hg19.chr5_12_17.fa.gz
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.2582555
+        src: url
+        url: https://zenodo.org/api/files/a8dae68d-74a9-4283-9d3a-942668270643/SLGFSK-N_231335_r1_chr5_12_17.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.2582555
+        src: url
+        url: https://zenodo.org/api/files/a8dae68d-74a9-4283-9d3a-942668270643/SLGFSK-N_231335_r2_chr5_12_17.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.2582555
+        src: url
+        url: https://zenodo.org/api/files/a8dae68d-74a9-4283-9d3a-942668270643/SLGFSK-T_231336_r1_chr5_12_17.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.2582555
+        src: url
+        url: https://zenodo.org/api/files/a8dae68d-74a9-4283-9d3a-942668270643/SLGFSK-T_231336_r2_chr5_12_17.fastq.gz
+      name: 'DOI: 10.5281/zenodo.2582555'
+    name: Identification of somatic and germline variants from tumor and normal sample
+      pairs
+  - description: latest
+    items:
+    - ext: fastqsanger.gz
+      info: https://doi.org/10.5281/zenodo.3960260
+      src: url
+      url: https://zenodo.org/record/3960260/files/004-2_1.fastq.gz
+    - ext: fastqsanger.gz
+      info: https://doi.org/10.5281/zenodo.3960260
+      src: url
+      url: https://zenodo.org/record/3960260/files/004-2_2.fastq.gz
+    - ext: genbank
+      info: https://doi.org/10.5281/zenodo.3960260
+      src: url
+      url: https://zenodo.org/record/https://zenodo.org/record/3960260/files/Mycobacterium_tuberculosis_ancestral_reference.gbk/files/Mycobacterium_tuberculosis_ancestral_reference.gbk
+    - ext: fasta
+      info: https://doi.org/10.5281/zenodo.3960260
+      src: url
+      url: https://zenodo.org/record/3960260/files/MTB_ancestor_reference.fasta
+    - ext: fasta
+      info: https://doi.org/10.5281/zenodo.3960260
+      src: url
+      url: https://zenodo.org/record/3960260/files/Mycobacterium_tuberculosis_h37rv.ASM19595v2.45.chromosome.Chromosome.gff3
+    - ext: fastqsanger.gz
+      info: https://doi.org/10.5281/zenodo.3960260
+      src: url
+      url: https://zenodo.org/record/3960260/files/018-1_1.fastq.gz
+    - ext: fastqsanger.gz
+      info: https://doi.org/10.5281/zenodo.3960260
+      src: url
+      url: https://zenodo.org/record/3960260/files/018-1_2.fastq.gz
+    name: 'DOI: 10.5281/zenodo.3960260'
+  name: Variant Analysis
+- description: Training material for data visualisation in Galaxy
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/chrom.tab
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/debate_axis.tab
+      - ext: txt
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/debate_karyotype.txt
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/debate_links.tab
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/debate_slices.tab
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/hg18_karyotype_bands.tsv
+      - ext: txt
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/hg18_karyotype.txt
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/highlights.tab
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/VCaP_B-allele-Frequency.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/VCaP_Copy-Number.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3603221
+        src: url
+        url: https://zenodo.org/api/files/0142d9ad-df0a-416c-b8f8-d8f4b8443c80/VCaP-highConfidenceJunctions.tsv
+      name: 'DOI: 10.5281/zenodo.3603221'
+    name: Visualisation with Circos
+  - items:
+    - description: latest
+      items:
+      - ext: gff3
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/blastp%20genes.gff3
+      - ext: blastxml
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/blastp%20vs%20swissprot.xml
+      - ext: bam
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/dna%20sequencing.bam
+      - ext: bigwig
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/dna%20sequencing%20coverage.bw
+      - ext: gff3
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/genes%20%28de%20novo%29.gff3
+      - ext: gff3
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/genes%20%28NCBI%29.gff3
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/genome.fa
+      - ext: bigwig
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/RNA-Seq%20coverage%201.bw
+      - ext: bigwig
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/RNA-Seq%20coverage%202.bw
+      - ext: vcf
+        info: https://doi.org/10.5281/zenodo.3591856
+        src: url
+        url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/variants.vcf
+      name: 'DOI: 10.5281/zenodo.3591856'
+    name: Genomic Data Visualisation with JBrowse
+  name: Visualisation
+
