@@ -616,6 +616,31 @@ items:
   - items:
     - description: latest
       items:
+      - ext: tsv
+        info: https://zenodo.org/record/5570011
+        src: url
+        url: https://zenodo.org/api/files/efc64b27-6db2-4931-ba8c-f05393f520e3/brunello.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/5570011
+        src: url
+        url: https://zenodo.org/api/files/efc64b27-6db2-4931-ba8c-f05393f520e3/mageck_counts_full.tsv
+      - ext: gz
+        info: https://zenodo.org/record/5570011
+        src: url
+        url: https://zenodo.org/api/files/efc64b27-6db2-4931-ba8c-f05393f520e3/T0-Control.fastq.gz
+      - ext: gz
+        info: https://zenodo.org/record/5570011
+        src: url
+        url: https://zenodo.org/api/files/efc64b27-6db2-4931-ba8c-f05393f520e3/T8-APR-246.fastq.gz
+      - ext: gz
+        info: https://zenodo.org/record/5570011
+        src: url
+        url: https://zenodo.org/api/files/efc64b27-6db2-4931-ba8c-f05393f520e3/T8-Vehicle.fastq.gz
+      name: 'DOI: 10.5281/zenodo.5570011'
+    name: CRISPR screen analysis
+  - items:
+    - description: latest
+      items:
       - ext: zip
         info: http://doi.org/10.5281/zenodo.4567084
         src: url
@@ -2279,34 +2304,34 @@ items:
     - description: latest
       items:
       - ext: bed
-        info: https://zenodo.org/record/1288429
+        info: https://zenodo.org/record/5589610
         src: url
-        url: https://zenodo.org/api/files/04cbd251-fe0b-4408-9f90-e2aecd61ef09/Control.bed
+        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/Control.bed
       - ext: txt
-        info: https://zenodo.org/record/1288429
+        info: https://zenodo.org/record/5589610
         src: url
-        url: https://zenodo.org/api/files/04cbd251-fe0b-4408-9f90-e2aecd61ef09/DESCRIPTION.txt
+        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/DESCRIPTION.txt
       - ext: bed
-        info: https://zenodo.org/record/1288429
+        info: https://zenodo.org/record/5589610
         src: url
-        url: https://zenodo.org/api/files/04cbd251-fe0b-4408-9f90-e2aecd61ef09/ETn_fixed.bed
+        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/ETn_fixed.bed
       - ext: tabular
-        info: https://zenodo.org/record/1288429
+        info: https://zenodo.org/record/5589610
         src: url
-        url: https://zenodo.org/api/files/04cbd251-fe0b-4408-9f90-e2aecd61ef09/features_header.tabular
+        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/features_header.tabular
       - ext: zip
-        info: https://zenodo.org/record/1288429
+        info: https://zenodo.org/record/5589610
         src: url
-        url: https://zenodo.org/api/files/04cbd251-fe0b-4408-9f90-e2aecd61ef09/IWTomics_ETn_dataset_example.zip
+        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/IWTomics_ETn_dataset_example.zip
       - ext: txt
-        info: https://zenodo.org/record/1288429
+        info: https://zenodo.org/record/5589610
         src: url
-        url: https://zenodo.org/api/files/04cbd251-fe0b-4408-9f90-e2aecd61ef09/Recombination_hotspots.txt
+        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/Recombination_hotspots.txt
       - ext: tabular
-        info: https://zenodo.org/record/1288429
+        info: https://zenodo.org/record/5589610
         src: url
-        url: https://zenodo.org/api/files/04cbd251-fe0b-4408-9f90-e2aecd61ef09/regions_header.tabular
-      name: 'DOI: 10.5281/zenodo.1288429'
+        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/regions_header.tabular
+      name: 'DOI: 10.5281/zenodo.5589610'
     name: Interval-Wise Testing for omics data
   - items:
     - description: latest
