@@ -617,26 +617,30 @@ items:
     - description: latest
       items:
       - ext: tsv
-        info: https://zenodo.org/record/5570011
+        info: https://zenodo.org/record/5658600
         src: url
-        url: https://zenodo.org/api/files/efc64b27-6db2-4931-ba8c-f05393f520e3/brunello.tsv
+        url: https://zenodo.org/api/files/646f76fa-dc6b-404a-9a74-c371a43aacd5/brunello.tsv
       - ext: tsv
-        info: https://zenodo.org/record/5570011
+        info: https://zenodo.org/record/5658600
         src: url
-        url: https://zenodo.org/api/files/efc64b27-6db2-4931-ba8c-f05393f520e3/mageck_counts_full.tsv
+        url: https://zenodo.org/api/files/646f76fa-dc6b-404a-9a74-c371a43aacd5/kenji_mageck_count_summary.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/5658600
+        src: url
+        url: https://zenodo.org/api/files/646f76fa-dc6b-404a-9a74-c371a43aacd5/kenji_mageck_counts.tsv
       - ext: gz
-        info: https://zenodo.org/record/5570011
+        info: https://zenodo.org/record/5658600
         src: url
-        url: https://zenodo.org/api/files/efc64b27-6db2-4931-ba8c-f05393f520e3/T0-Control.fastq.gz
+        url: https://zenodo.org/api/files/646f76fa-dc6b-404a-9a74-c371a43aacd5/T0-Control.fastq.gz
       - ext: gz
-        info: https://zenodo.org/record/5570011
+        info: https://zenodo.org/record/5658600
         src: url
-        url: https://zenodo.org/api/files/efc64b27-6db2-4931-ba8c-f05393f520e3/T8-APR-246.fastq.gz
+        url: https://zenodo.org/api/files/646f76fa-dc6b-404a-9a74-c371a43aacd5/T8-APR-246.fastq.gz
       - ext: gz
-        info: https://zenodo.org/record/5570011
+        info: https://zenodo.org/record/5658600
         src: url
-        url: https://zenodo.org/api/files/efc64b27-6db2-4931-ba8c-f05393f520e3/T8-Vehicle.fastq.gz
-      name: 'DOI: 10.5281/zenodo.5570011'
+        url: https://zenodo.org/api/files/646f76fa-dc6b-404a-9a74-c371a43aacd5/T8-Vehicle.fastq.gz
+      name: 'DOI: 10.5281/zenodo.5658600'
     name: CRISPR screen analysis
   - items:
     - description: latest
