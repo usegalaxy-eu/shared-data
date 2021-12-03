@@ -62,6 +62,23 @@ items:
   - items:
     - description: latest
       items:
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.5702408
+        src: url
+        url: https://zenodo.org/api/files/d010d8f1-a1fd-4366-991f-916c2f0c55db/SRR8534473_subreads.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.5702408
+        src: url
+        url: https://zenodo.org/api/files/d010d8f1-a1fd-4366-991f-916c2f0c55db/SRR8534474_subreads.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.5702408
+        src: url
+        url: https://zenodo.org/api/files/d010d8f1-a1fd-4366-991f-916c2f0c55db/SRR8534475_subreads.fastq.gz
+      name: 'DOI: 10.5281/zenodo.5702408'
+    name: Genome assembly using PacBio data
+  - items:
+    - description: latest
+      items:
       - ext: fastqsanger
         info: https://doi.org/10.5281/zenodo.582600
         src: url
@@ -613,6 +630,44 @@ items:
         url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10903402_2.fastq.gz
       name: 'DOI: 10.5281/zenodo.5163611'
     name: Submitting raw sequencing reads to ENA
+  - items:
+    - description: latest
+      items:
+      - ext: genbank
+        info: https://zenodo.org/record/5729114
+        src: url
+        url: https://zenodo.org/api/files/baa26ebe-665a-4f9f-aaa4-61902fa51377/alternate_annotation.gbk
+      - ext: gff3
+        info: https://zenodo.org/record/5729114
+        src: url
+        url: https://zenodo.org/api/files/baa26ebe-665a-4f9f-aaa4-61902fa51377/alternate_annotation.gff3
+      - ext: fasta
+        info: https://zenodo.org/record/5729114
+        src: url
+        url: https://zenodo.org/api/files/baa26ebe-665a-4f9f-aaa4-61902fa51377/genome_masked.fasta
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5729114
+        src: url
+        url: https://zenodo.org/api/files/baa26ebe-665a-4f9f-aaa4-61902fa51377/rnaseq_R1.fq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/5729114
+        src: url
+        url: https://zenodo.org/api/files/baa26ebe-665a-4f9f-aaa4-61902fa51377/rnaseq_R2.fq.gz
+      - ext: fasta
+        info: https://zenodo.org/record/5729114
+        src: url
+        url: https://zenodo.org/api/files/baa26ebe-665a-4f9f-aaa4-61902fa51377/SwissProt_subset.fasta
+      name: 'DOI: 10.5281/zenodo.5729114'
+    name: Structural and functional genome annotation with Funannotate
+  - items:
+    - description: latest
+      items:
+      - ext: fasta
+        info: https://zenodo.org/record/5726723
+        src: url
+        url: https://zenodo.org/api/files/71333591-99bd-4d99-bbdf-664cc18fd422/genome_raw.fasta
+      name: 'DOI: 10.5281/zenodo.5726723'
+    name: Repeat masking with RepeatMasker
   - items:
     - description: latest
       items:
@@ -2130,6 +2185,18 @@ items:
         info: https://doi.org/10.5281/zenodo.61771
         src: url
         url: https://zenodo.org/api/files/8277b9f8-3c39-412a-8a1f-76bc810630e3/GSM461181_treat_paired_subset_1.fastq
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.5730295
+        src: url
+        url: https://zenodo.org/api/files/ff9aa6e3-3d69-451f-9798-7ea69b475989/m64011_190830_220126.Q20.subsample.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.5730295
+        src: url
+        url: https://zenodo.org/api/files/ff9aa6e3-3d69-451f-9798-7ea69b475989/nanopore_basecalled-guppy.fastq.gz
+      - ext: txt
+        info: https://doi.org/10.5281/zenodo.5730295
+        src: url
+        url: https://zenodo.org/api/files/ff9aa6e3-3d69-451f-9798-7ea69b475989/sequencing_summary.txt
       name: 'DOI: 10.5281/zenodo.61771'
     name: Quality Control
   name: Sequence analysis
@@ -2283,6 +2350,27 @@ items:
         url: https://zenodo.org/api/files/4cc718d4-8a36-4d05-a211-b954fbc015f7/moon.csv
       name: 'DOI: 10.5281/zenodo.3813447'
     name: Clustering in Machine Learning
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/5702887
+        src: url
+        url: https://zenodo.org/record/5702887/files/train_X_10.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/5702887
+        src: url
+        url: https://zenodo.org/record/5702887/files/train_y_10.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/5702887
+        src: url
+        url: https://zenodo.org/record/5702887/files/test_X_10.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/5702887
+        src: url
+        url: https://zenodo.org/record/5702887/files/test_y_10.tsv
+      name: 'DOI: 10.5281/zenodo.5702887'
+    name: Image classification of fruit 360 dataset using convolutional neural networks
   - items:
     - description: latest
       items:
