@@ -672,30 +672,46 @@ items:
     - description: latest
       items:
       - ext: tsv
-        info: https://zenodo.org/record/5658600
+        info: https://zenodo.org/record/5750854
         src: url
-        url: https://zenodo.org/api/files/646f76fa-dc6b-404a-9a74-c371a43aacd5/brunello.tsv
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/adapters_list.tsv
       - ext: tsv
-        info: https://zenodo.org/record/5658600
+        info: https://zenodo.org/record/5750854
         src: url
-        url: https://zenodo.org/api/files/646f76fa-dc6b-404a-9a74-c371a43aacd5/kenji_mageck_count_summary.tsv
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/brunello.tsv
       - ext: tsv
-        info: https://zenodo.org/record/5658600
+        info: https://zenodo.org/record/5750854
         src: url
-        url: https://zenodo.org/api/files/646f76fa-dc6b-404a-9a74-c371a43aacd5/kenji_mageck_counts.tsv
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/h.all.v7.4.symbols.gmt
+      - ext: tsv
+        info: https://zenodo.org/record/5750854
+        src: url
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/kenji_mageck_count_summary.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/5750854
+        src: url
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/kenji_mageck_count_report.pdf
+      - ext: tsv
+        info: https://zenodo.org/record/5750854
+        src: url
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/kenji_mageck_sgrna_counts.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/5750854
+        src: url
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/kenji_mageck_mle_design_matrix.tsv
       - ext: gz
-        info: https://zenodo.org/record/5658600
+        info: https://zenodo.org/record/5750854
         src: url
-        url: https://zenodo.org/api/files/646f76fa-dc6b-404a-9a74-c371a43aacd5/T0-Control.fastq.gz
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/T0-Control.fastq.gz
       - ext: gz
-        info: https://zenodo.org/record/5658600
+        info: https://zenodo.org/record/5750854
         src: url
-        url: https://zenodo.org/api/files/646f76fa-dc6b-404a-9a74-c371a43aacd5/T8-APR-246.fastq.gz
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/T8-APR-246.fastq.gz
       - ext: gz
-        info: https://zenodo.org/record/5658600
+        info: https://zenodo.org/record/5750854
         src: url
-        url: https://zenodo.org/api/files/646f76fa-dc6b-404a-9a74-c371a43aacd5/T8-Vehicle.fastq.gz
-      name: 'DOI: 10.5281/zenodo.5658600'
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/T8-Vehicle.fastq.gz
+      name: 'DOI: 10.5281/zenodo.5750854'
     name: CRISPR screen analysis
   - items:
     - description: latest
