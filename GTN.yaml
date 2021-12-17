@@ -993,6 +993,23 @@ items:
   - items:
     - description: latest
       items:
+      - ext: txt
+        info: https://zenodo.org/record/5179809
+        src: url
+        url: https://zenodo.org/api/files/f827f610-1fc9-44a2-9954-a73301f21568/Dataprocessing_dataMatrix.txt
+      - ext: txt
+        info: https://zenodo.org/record/5179809
+        src: url
+        url: https://zenodo.org/api/files/f827f610-1fc9-44a2-9954-a73301f21568/Dataprocessing_sampleMetadata.txt
+      - ext: txt
+        info: https://zenodo.org/record/5179809
+        src: url
+        url: https://zenodo.org/api/files/f827f610-1fc9-44a2-9954-a73301f21568/Dataprocessing_variableMetadata.txt
+      name: 'DOI: 10.5281/zenodo.5179809'
+    name: 'Mass spectrometry: LC-MS data processing'
+  - items:
+    - description: latest
+      items:
       - ext: imzml
         info: https://zenodo.org/record/484496
         src: url
