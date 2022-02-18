@@ -111,6 +111,11 @@ items:
       name: 'DOI: 10.5281/zenodo.940733'
     name: Unicycler Assembly
   name: Assembly
+- description: Topic summary
+  items:
+  - items: []
+    name: Protein target prediction of a bioactive ligand with Align-it and ePharmaLib
+  name: New topic
 - description: Learn to analyse Ecological data through Galaxy.
   items:
   - items:
@@ -634,30 +639,30 @@ items:
     - description: latest
       items:
       - ext: genbank
-        info: https://zenodo.org/record/5729114
+        info: https://zenodo.org/record/5906635
         src: url
-        url: https://zenodo.org/api/files/baa26ebe-665a-4f9f-aaa4-61902fa51377/alternate_annotation.gbk
+        url: https://zenodo.org/api/files/8c2cc766-2b68-45bd-a2d3-391acf9bdb1b/alternate_annotation.gbk
       - ext: gff3
-        info: https://zenodo.org/record/5729114
+        info: https://zenodo.org/record/5906635
         src: url
-        url: https://zenodo.org/api/files/baa26ebe-665a-4f9f-aaa4-61902fa51377/alternate_annotation.gff3
+        url: https://zenodo.org/api/files/8c2cc766-2b68-45bd-a2d3-391acf9bdb1b/alternate_annotation.gff3
       - ext: fasta
-        info: https://zenodo.org/record/5729114
+        info: https://zenodo.org/record/5906635
         src: url
-        url: https://zenodo.org/api/files/baa26ebe-665a-4f9f-aaa4-61902fa51377/genome_masked.fasta
+        url: https://zenodo.org/api/files/8c2cc766-2b68-45bd-a2d3-391acf9bdb1b/genome_masked.fasta
       - ext: fastqsanger.gz
-        info: https://zenodo.org/record/5729114
+        info: https://zenodo.org/record/5906635
         src: url
-        url: https://zenodo.org/api/files/baa26ebe-665a-4f9f-aaa4-61902fa51377/rnaseq_R1.fq.gz
+        url: https://zenodo.org/api/files/8c2cc766-2b68-45bd-a2d3-391acf9bdb1b/rnaseq_R1.fq.gz
       - ext: fastqsanger.gz
-        info: https://zenodo.org/record/5729114
+        info: https://zenodo.org/record/5906635
         src: url
-        url: https://zenodo.org/api/files/baa26ebe-665a-4f9f-aaa4-61902fa51377/rnaseq_R2.fq.gz
+        url: https://zenodo.org/api/files/8c2cc766-2b68-45bd-a2d3-391acf9bdb1b/rnaseq_R2.fq.gz
       - ext: fasta
-        info: https://zenodo.org/record/5729114
+        info: https://zenodo.org/record/5906635
         src: url
-        url: https://zenodo.org/api/files/baa26ebe-665a-4f9f-aaa4-61902fa51377/SwissProt_subset.fasta
-      name: 'DOI: 10.5281/zenodo.5729114'
+        url: https://zenodo.org/api/files/8c2cc766-2b68-45bd-a2d3-391acf9bdb1b/SwissProt_subset.fasta
+      name: 'DOI: 10.5281/zenodo.5906635'
     name: Structural and functional genome annotation with Funannotate
   - items:
     - description: latest
