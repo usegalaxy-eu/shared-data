@@ -828,6 +828,26 @@ items:
       name: 'DOI: 10.5281/zenodo.940733'
     name: Essential genes detection with Transposon insertion sequencing
   name: Genome Annotation
+- description: We look at how to edit eukaryotic Genome Annotations with Apollo
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: fasta
+        info: https://zenodo.org/record/6920962
+        src: url
+        url: https://zenodo.org/api/files/042ff43f-cd53-45ec-90cf-781fe53e3771/genome.fasta
+      - ext: gff3
+        info: https://zenodo.org/record/6920962
+        src: url
+        url: https://zenodo.org/api/files/042ff43f-cd53-45ec-90cf-781fe53e3771/annotation.gff3
+      - ext: bam
+        info: https://zenodo.org/record/6920962
+        src: url
+        url: https://zenodo.org/api/files/042ff43f-cd53-45ec-90cf-781fe53e3771/rnaseq.bam
+      name: 'DOI: 10.5281/zenodo.6920962'
+    name: Refining Manual Genome Annotations with Apollo (eukaryotes)
+  name: Refining Manual Genome Annotations with Apollo (eukaryotes)
 - description: We look at how to edit Genome Annotations with Apollo
   items:
   - items:
