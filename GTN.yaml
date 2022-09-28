@@ -706,10 +706,18 @@ items:
     - description: latest
       items:
       - ext: fasta
-        info: https://zenodo.org/record/5726723
+        info: https://zenodo.org/record/7085837
         src: url
-        url: https://zenodo.org/api/files/71333591-99bd-4d99-bbdf-664cc18fd422/genome_raw.fasta
-      name: 'DOI: 10.5281/zenodo.5726723'
+        url: https://zenodo.org/api/files/debdbbfd-4739-4f2d-bb79-814ac032c8b5/genome_raw.fasta
+      - ext: fasta
+        info: https://zenodo.org/record/7085837
+        src: url
+        url: https://zenodo.org/api/files/debdbbfd-4739-4f2d-bb79-814ac032c8b5/Muco_library_EDTA.fasta
+      - ext: fasta
+        info: https://zenodo.org/record/7085837
+        src: url
+        url: https://zenodo.org/api/files/debdbbfd-4739-4f2d-bb79-814ac032c8b5/Muco_library_RM2.fasta
+      name: 'DOI: 10.5281/zenodo.7085837'
     name: Repeat masking with RepeatMasker
   - items:
     - description: latest
@@ -720,6 +728,51 @@ items:
         url: https://zenodo.org/api/files/e5d1bd5c-60a0-42e4-8f0d-a2ebc863c5d9/drosophila_sample.zip
       name: 'DOI: 10.5281/zenodo.4567084'
     name: Object tracking using CellProfiler
+  - items:
+    - description: latest
+      items:
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_001_0001.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_001_0006.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_001_0011.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_002_0001.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_002_0006.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_002_0011.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_003_0001.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_003_0116.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_003_0231.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/SBML_Model_iML1515.xml
+      name: 'DOI: 10.5281/zenodo.6628296'
+    name: Evaluating and ranking a set of pathways based on multiple metrics
   name: The new topic
 - description: Genome annotation is a multi-level process that includes prediction
     of protein-coding genes, as well as other functional genome units such as structural
@@ -920,6 +973,26 @@ items:
       name: 'DOI: 10.5281/zenodo.4889110'
     name: Refining Manual Genome Annotations with Apollo
   name: Refining Manual Genome Annotations with Apollo
+- description: We look at how to annotate lncRNAs with FEELnc
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: fasta
+        info: https://zenodo.org/record/7107050
+        src: url
+        url: https://zenodo.org/api/files/0f8d27c5-8c8d-4379-90c4-c3cd950de391/genome_assembly.fasta
+      - ext: gff3
+        info: https://zenodo.org/record/7107050
+        src: url
+        url: hhttps://zenodo.org/api/files/0f8d27c5-8c8d-4379-90c4-c3cd950de391/genome_annotation.gff3
+      - ext: bam
+        info: https://zenodo.org/record/7107050
+        src: url
+        url: https://zenodo.org/api/files/0f8d27c5-8c8d-4379-90c4-c3cd950de391/all_RNA_mapped.bam
+      name: 'DOI: 10.5281/zenodo.7107050'
+    name: Long non-coding RNAs (lncRNAs) annotation with FEELnc
+  name: Long non-coding RNAs (lncRNAs) annotation with FEELnc
 - description: Image analysis using Galaxy tools
   items:
   - items:
