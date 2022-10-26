@@ -285,6 +285,191 @@ items:
       name: 'DOI: 10.5281/zenodo.1134547'
     name: RAD-Seq Reference-based data analysis
   name: Ecology
+- description: Summary
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
+        info: https://zenodo.org/record/6610704#.YqcpmDlBw5k
+        src: url
+        url: https://zenodo.org/api/files/35424faf-a9eb-4014-95df-455c9e890726/BK006939.2.genbank
+      - ext: fasta
+        info: https://zenodo.org/record/6610704#.YqcpmDlBw5k
+        src: url
+        url: https://zenodo.org/api/files/35424faf-a9eb-4014-95df-455c9e890726/BK006939.2.genome.fasta
+      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
+        info: https://zenodo.org/record/6610704#.YqcpmDlBw5k
+        src: url
+        url: https://zenodo.org/api/files/35424faf-a9eb-4014-95df-455c9e890726/CM000925.1.genbank
+      - ext: fasta
+        info: https://zenodo.org/record/6610704#.YqcpmDlBw5k
+        src: url
+        url: https://zenodo.org/api/files/35424faf-a9eb-4014-95df-455c9e890726/CM000925.1.genome.fasta
+      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
+        info: https://zenodo.org/record/6610704#.YqcpmDlBw5k
+        src: url
+        url: https://zenodo.org/api/files/35424faf-a9eb-4014-95df-455c9e890726/CM005043.2.genbank
+      - ext: fasta
+        info: https://zenodo.org/record/6610704#.YqcpmDlBw5k
+        src: url
+        url: https://zenodo.org/api/files/35424faf-a9eb-4014-95df-455c9e890726/CM005043.2.genome.fasta
+      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
+        info: https://zenodo.org/record/6610704#.YqcpmDlBw5k
+        src: url
+        url: https://zenodo.org/api/files/35424faf-a9eb-4014-95df-455c9e890726/CM005299.1.genbank
+      - ext: fasta
+        info: https://zenodo.org/record/6610704#.YqcpmDlBw5k
+        src: url
+        url: https://zenodo.org/api/files/35424faf-a9eb-4014-95df-455c9e890726/CM005299.1.genome.fasta
+      name: 'DOI: 10.5281/zenodo.6610704#.YqcpmDlBw5k'
+    name: Preparing genomic data for phylogeny reconstruction
+  - items:
+    - description: latest
+      items:
+      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/GTN_tutorial_mock_metadata.xlsx
+      - ext: gz
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10902284_ONT.fq.gz
+      - ext: gz
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10903401_1.fastq.gz
+      - ext: gz
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10903401_2.fastq.gz
+      - ext: gz
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10903402_1.fastq.gz
+      - ext: gz
+        info: https://doi.org/10.5281/zenodo.5163611
+        src: url
+        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10903402_2.fastq.gz
+      name: 'DOI: 10.5281/zenodo.5163611'
+    name: Submitting raw sequencing reads to ENA
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/5750854
+        src: url
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/adapters_list.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/5750854
+        src: url
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/brunello.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/5750854
+        src: url
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/h.all.v7.4.symbols.gmt
+      - ext: tsv
+        info: https://zenodo.org/record/5750854
+        src: url
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/kenji_mageck_count_summary.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/5750854
+        src: url
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/kenji_mageck_count_report.pdf
+      - ext: tsv
+        info: https://zenodo.org/record/5750854
+        src: url
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/kenji_mageck_sgrna_counts.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/5750854
+        src: url
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/kenji_mageck_mle_design_matrix.tsv
+      - ext: gz
+        info: https://zenodo.org/record/5750854
+        src: url
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/T0-Control.fastq.gz
+      - ext: gz
+        info: https://zenodo.org/record/5750854
+        src: url
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/T8-APR-246.fastq.gz
+      - ext: gz
+        info: https://zenodo.org/record/5750854
+        src: url
+        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/T8-Vehicle.fastq.gz
+      name: 'DOI: 10.5281/zenodo.5750854'
+    name: CRISPR screen analysis
+  - items:
+    - description: latest
+      items:
+      - ext: fasta
+        info: https://zenodo.org/record/7085837
+        src: url
+        url: https://zenodo.org/api/files/debdbbfd-4739-4f2d-bb79-814ac032c8b5/genome_raw.fasta
+      - ext: fasta
+        info: https://zenodo.org/record/7085837
+        src: url
+        url: https://zenodo.org/api/files/debdbbfd-4739-4f2d-bb79-814ac032c8b5/Muco_library_EDTA.fasta
+      - ext: fasta
+        info: https://zenodo.org/record/7085837
+        src: url
+        url: https://zenodo.org/api/files/debdbbfd-4739-4f2d-bb79-814ac032c8b5/Muco_library_RM2.fasta
+      name: 'DOI: 10.5281/zenodo.7085837'
+    name: Repeat masking with RepeatMasker
+  - items:
+    - description: latest
+      items:
+      - ext: zip
+        info: http://doi.org/10.5281/zenodo.4567084
+        src: url
+        url: https://zenodo.org/api/files/e5d1bd5c-60a0-42e4-8f0d-a2ebc863c5d9/drosophila_sample.zip
+      name: 'DOI: 10.5281/zenodo.4567084'
+    name: Object tracking using CellProfiler
+  - items:
+    - description: latest
+      items:
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_001_0001.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_001_0006.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_001_0011.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_002_0001.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_002_0006.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_002_0011.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_003_0001.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_003_0116.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_003_0231.xml
+      - ext: xml
+        info: https://zenodo.org/record/6628296
+        src: url
+        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/SBML_Model_iML1515.xml
+      name: 'DOI: 10.5281/zenodo.6628296'
+    name: Evaluating and ranking a set of pathways based on multiple metrics
+  name: The new topic
 - description: DNA methylation is an epigenetic mechanism used by higher eukaryotes
     and involved in e.g. gene expression, X-Chromosome inactivating, imprinting, and
     gene silencing of germline specific gene and repetitive elements.
@@ -626,154 +811,6 @@ items:
       name: 'DOI: 10.5281/zenodo.1185122'
     name: 'Jupyter: Use Jupyter notebooks in Galaxy'
   name: User Interface and Features
-- description: Summary
-  items:
-  - items:
-    - description: latest
-      items:
-      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
-        info: https://doi.org/10.5281/zenodo.5163611
-        src: url
-        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/GTN_tutorial_mock_metadata.xlsx
-      - ext: gz
-        info: https://doi.org/10.5281/zenodo.5163611
-        src: url
-        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10902284_ONT.fq.gz
-      - ext: gz
-        info: https://doi.org/10.5281/zenodo.5163611
-        src: url
-        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10903401_1.fastq.gz
-      - ext: gz
-        info: https://doi.org/10.5281/zenodo.5163611
-        src: url
-        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10903401_2.fastq.gz
-      - ext: gz
-        info: https://doi.org/10.5281/zenodo.5163611
-        src: url
-        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10903402_1.fastq.gz
-      - ext: gz
-        info: https://doi.org/10.5281/zenodo.5163611
-        src: url
-        url: https://zenodo.org/api/files/feff876b-15b5-4664-82e7-8bc454d5f7c3/SRR10903402_2.fastq.gz
-      name: 'DOI: 10.5281/zenodo.5163611'
-    name: Submitting raw sequencing reads to ENA
-  - items:
-    - description: latest
-      items:
-      - ext: tsv
-        info: https://zenodo.org/record/5750854
-        src: url
-        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/adapters_list.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/5750854
-        src: url
-        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/brunello.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/5750854
-        src: url
-        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/h.all.v7.4.symbols.gmt
-      - ext: tsv
-        info: https://zenodo.org/record/5750854
-        src: url
-        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/kenji_mageck_count_summary.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/5750854
-        src: url
-        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/kenji_mageck_count_report.pdf
-      - ext: tsv
-        info: https://zenodo.org/record/5750854
-        src: url
-        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/kenji_mageck_sgrna_counts.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/5750854
-        src: url
-        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/kenji_mageck_mle_design_matrix.tsv
-      - ext: gz
-        info: https://zenodo.org/record/5750854
-        src: url
-        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/T0-Control.fastq.gz
-      - ext: gz
-        info: https://zenodo.org/record/5750854
-        src: url
-        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/T8-APR-246.fastq.gz
-      - ext: gz
-        info: https://zenodo.org/record/5750854
-        src: url
-        url: https://zenodo.org/api/files/6599878c-f569-41bf-a37a-2c6f3d2e67f9/T8-Vehicle.fastq.gz
-      name: 'DOI: 10.5281/zenodo.5750854'
-    name: CRISPR screen analysis
-  - items:
-    - description: latest
-      items:
-      - ext: fasta
-        info: https://zenodo.org/record/7085837
-        src: url
-        url: https://zenodo.org/api/files/debdbbfd-4739-4f2d-bb79-814ac032c8b5/genome_raw.fasta
-      - ext: fasta
-        info: https://zenodo.org/record/7085837
-        src: url
-        url: https://zenodo.org/api/files/debdbbfd-4739-4f2d-bb79-814ac032c8b5/Muco_library_EDTA.fasta
-      - ext: fasta
-        info: https://zenodo.org/record/7085837
-        src: url
-        url: https://zenodo.org/api/files/debdbbfd-4739-4f2d-bb79-814ac032c8b5/Muco_library_RM2.fasta
-      name: 'DOI: 10.5281/zenodo.7085837'
-    name: Repeat masking with RepeatMasker
-  - items:
-    - description: latest
-      items:
-      - ext: zip
-        info: http://doi.org/10.5281/zenodo.4567084
-        src: url
-        url: https://zenodo.org/api/files/e5d1bd5c-60a0-42e4-8f0d-a2ebc863c5d9/drosophila_sample.zip
-      name: 'DOI: 10.5281/zenodo.4567084'
-    name: Object tracking using CellProfiler
-  - items:
-    - description: latest
-      items:
-      - ext: xml
-        info: https://zenodo.org/record/6628296
-        src: url
-        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_001_0001.xml
-      - ext: xml
-        info: https://zenodo.org/record/6628296
-        src: url
-        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_001_0006.xml
-      - ext: xml
-        info: https://zenodo.org/record/6628296
-        src: url
-        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_001_0011.xml
-      - ext: xml
-        info: https://zenodo.org/record/6628296
-        src: url
-        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_002_0001.xml
-      - ext: xml
-        info: https://zenodo.org/record/6628296
-        src: url
-        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_002_0006.xml
-      - ext: xml
-        info: https://zenodo.org/record/6628296
-        src: url
-        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_002_0011.xml
-      - ext: xml
-        info: https://zenodo.org/record/6628296
-        src: url
-        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_003_0001.xml
-      - ext: xml
-        info: https://zenodo.org/record/6628296
-        src: url
-        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_003_0116.xml
-      - ext: xml
-        info: https://zenodo.org/record/6628296
-        src: url
-        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/rp_003_0231.xml
-      - ext: xml
-        info: https://zenodo.org/record/6628296
-        src: url
-        url: https://zenodo.org/api/files/5db78fa1-b8cb-4046-b57c-8a9d00806f42/SBML_Model_iML1515.xml
-      name: 'DOI: 10.5281/zenodo.6628296'
-    name: Evaluating and ranking a set of pathways based on multiple metrics
-  name: The new topic
 - description: Genome annotation is a multi-level process that includes prediction
     of protein-coding genes, as well as other functional genome units such as structural
     RNAs, tRNAs, small RNAs, pseudogenes, control regions, direct and inverted repeats,
