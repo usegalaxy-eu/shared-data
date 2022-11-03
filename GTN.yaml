@@ -270,6 +270,15 @@ items:
   - items:
     - description: latest
       items:
+      - ext: netcdf
+        info: https://doi.org/10.1101/2020.04.14.031716
+        src: url
+        url: https://portal.geobon.org/data/upload/1/public/martins_comcom_id1_20220208_v1.nc
+      name: 'DOI: 10.1101/2020.04.14.031716'
+    name: Visualize EBV cube data with Panoply netCDF viewer
+  - items:
+    - description: latest
+      items:
       - ext: txt
         info: https://doi.org/10.5281/zenodo.1134547
         src: url
