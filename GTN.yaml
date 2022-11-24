@@ -2408,425 +2408,90 @@ items:
       name: 'DOI: 10.5281/zenodo.61771'
     name: Quality Control
   name: Sequence analysis
-- description: Statistical Analyses for omics data and machine learning using Galaxy
-    tools
-  items:
-  - items:
-    - description: latest
-      items:
-      - ext: tsv
-        info: https://zenodo.org/record/4697906
-        src: url
-        url: https://zenodo.org/record/4697906/files/X_test.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/4697906
-        src: url
-        url: https://zenodo.org/record/4697906/files/X_train.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/4697906
-        src: url
-        url: https://zenodo.org/record/4697906/files/y_test.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/4697906
-        src: url
-        url: https://zenodo.org/record/4697906/files/y_train.tsv
-      name: 'DOI: 10.5281/zenodo.4697906'
-    name: Introduction to convolutional neural networks (CNN)
-  - items:
-    - description: latest
-      items:
-      - ext: tsv
-        info: https://zenodo.org/record/4660497
-        src: url
-        url: https://zenodo.org/record/4660497/files/X_test.tsv?download=1
-      - ext: tsv
-        info: https://zenodo.org/record/4660497
-        src: url
-        url: https://zenodo.org/record/4660497/files/X_train.tsv?download=1
-      - ext: tsv
-        info: https://zenodo.org/record/4660497
-        src: url
-        url: https://zenodo.org/record/4660497/files/y_test.tsv?download=1
-      - ext: tsv
-        info: https://zenodo.org/record/4660497
-        src: url
-        url: https://zenodo.org/record/4660497/files/y_train.tsv?download=1
-      name: 'DOI: 10.5281/zenodo.4660497'
-    name: Introduction to feedforward neural networks (RNN)
-  - items:
-    - description: latest
-      items:
-      - ext: tsv
-        info: https://zenodo.org/record/4477881
-        src: url
-        url: https://zenodo.org/api/files/47b8692d-2671-4082-ac8f-746a0783cfa1/X_test.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/4477881
-        src: url
-        url: https://zenodo.org/api/files/47b8692d-2671-4082-ac8f-746a0783cfa1/X_train.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/4477881
-        src: url
-        url: https://zenodo.org/api/files/47b8692d-2671-4082-ac8f-746a0783cfa1/y_test.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/4477881
-        src: url
-        url: https://zenodo.org/api/files/47b8692d-2671-4082-ac8f-746a0783cfa1/y_train.tsv
-      name: 'DOI: 10.5281/zenodo.4477881'
-    name: Introduction to recurrent neural networks (RNN)
-  - items:
-    - description: latest
-      items:
-      - ext: csv
-        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
-        src: url
-        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/test_rows.csv
-      - ext: csv
-        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
-        src: url
-        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/test_rows_labels.csv
-      - ext: tsv
-        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
-        src: url
-        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/training_data_normal.tsv
-      - ext: csv
-        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
-        src: url
-        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/train_rows.csv
-      name: 'DOI: 10.5281/zenodo.2545213#.XEWTJ9-YVa0'
-    name: Age prediction using machine learning
-  - items:
-    - description: latest
-      items:
-      - ext: csv
-        info: https://doi.org/10.5281/zenodo.3738729
-        src: url
-        url: https://zenodo.org/record/3738729/files/train_rows.csv
-      - ext: csv
-        info: https://doi.org/10.5281/zenodo.3738729
-        src: url
-        url: https://zenodo.org/record/3738729/files/test_rows_labels.csv
-      - ext: csv
-        info: https://doi.org/10.5281/zenodo.3738729
-        src: url
-        url: https://zenodo.org/record/3738729/files/test_rows.csv
-      name: DOI:10.5281/zenodo.3738729
-    name: Classification in Machine Learning
-  - items:
-    - description: latest
-      items:
-      - ext: tsv
-        info: https://zenodo.org/record/3248907
-        src: url
-        url: https://zenodo.org/record/3248907/files/breast-w_targets.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/3248907
-        src: url
-        url: https://zenodo.org/record/3248907/files/breast-w_test.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/3248907
-        src: url
-        url: https://zenodo.org/record/3248907/files/breast-w_train.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/3248907
-        src: url
-        url: https://zenodo.org/record/3248907/files/body_fat_test.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/3248907
-        src: url
-        url: https://zenodo.org/record/3248907/files/body_fat_test_labels.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/3248907
-        src: url
-        url: https://zenodo.org/record/3248907/files/body_fat_train.tsv
-      name: 'DOI: https://zenodo.org/record/3248907'
-    name: 'Machine learning: classification and regression'
-  - items:
-    - description: latest
-      items:
-      - ext: csv
-        info: https://doi.org/10.5281/zenodo.3813447
-        src: url
-        url: https://zenodo.org/api/files/4cc718d4-8a36-4d05-a211-b954fbc015f7/iris.csv
-      - ext: csv
-        info: https://doi.org/10.5281/zenodo.3813447
-        src: url
-        url: https://zenodo.org/api/files/4cc718d4-8a36-4d05-a211-b954fbc015f7/circles.csv
-      - ext: csv
-        info: https://doi.org/10.5281/zenodo.3813447
-        src: url
-        url: https://zenodo.org/api/files/4cc718d4-8a36-4d05-a211-b954fbc015f7/moon.csv
-      name: 'DOI: 10.5281/zenodo.3813447'
-    name: Clustering in Machine Learning
-  - items:
-    - description: latest
-      items:
-      - ext: tsv
-        info: https://zenodo.org/record/5702887
-        src: url
-        url: https://zenodo.org/record/5702887/files/train_X_10.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/5702887
-        src: url
-        url: https://zenodo.org/record/5702887/files/train_y_10.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/5702887
-        src: url
-        url: https://zenodo.org/record/5702887/files/test_X_10.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/5702887
-        src: url
-        url: https://zenodo.org/record/5702887/files/test_y_10.tsv
-      name: 'DOI: 10.5281/zenodo.5702887'
-    name: Image classification of fruit 360 dataset using convolutional neural networks
-  - items:
-    - description: latest
-      items:
-      - ext: tsv
-        info: https://zenodo.org/record/3706539#.XmjDYHVKg5k
-        src: url
-        url: https://zenodo.org/record/3706539/files/X_test.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/3706539#.XmjDYHVKg5k
-        src: url
-        url: https://zenodo.org/record/3706539/files/X_train.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/3706539#.XmjDYHVKg5k
-        src: url
-        url: https://zenodo.org/record/3706539/files/y_test.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/3706539#.XmjDYHVKg5k
-        src: url
-        url: https://zenodo.org/record/3706539/files/y_train.tsv
-      name: 'DOI: 10.5281/zenodo.3706539'
-    name: Introduction to deep learning
-  - items:
-    - description: latest
-      items:
-      - ext: bed
-        info: https://zenodo.org/record/5589610
-        src: url
-        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/Control.bed
-      - ext: txt
-        info: https://zenodo.org/record/5589610
-        src: url
-        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/DESCRIPTION.txt
-      - ext: bed
-        info: https://zenodo.org/record/5589610
-        src: url
-        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/ETn_fixed.bed
-      - ext: tabular
-        info: https://zenodo.org/record/5589610
-        src: url
-        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/features_header.tabular
-      - ext: zip
-        info: https://zenodo.org/record/5589610
-        src: url
-        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/IWTomics_ETn_dataset_example.zip
-      - ext: txt
-        info: https://zenodo.org/record/5589610
-        src: url
-        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/Recombination_hotspots.txt
-      - ext: tabular
-        info: https://zenodo.org/record/5589610
-        src: url
-        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/regions_header.tabular
-      name: 'DOI: 10.5281/zenodo.5589610'
-    name: Interval-Wise Testing for omics data
-  - items:
-    - description: latest
-      items:
-      - ext: tsv
-        info: https://zenodo.org/record/1468039#.W8zyxBRoSAo
-        src: url
-        url: https://zenodo.org/api/files/0d468136-5025-4c0f-bf8b-a8277a513a93/breast-w_test.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/1468039#.W8zyxBRoSAo
-        src: url
-        url: https://zenodo.org/api/files/0d468136-5025-4c0f-bf8b-a8277a513a93/breast-w_train.tsv
-      name: 'DOI: 10.5281/zenodo.1468039#.W8zyxBRoSAo'
-    name: Basics of machine learning
-  - items:
-    - description: latest
-      items:
-      - ext: csv
-        info: http://doi.org/10.5281/zenodo.2545213
-        src: url
-        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/test_rows.csv
-      - ext: csv
-        info: http://doi.org/10.5281/zenodo.2545213
-        src: url
-        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/test_rows_labels.csv
-      - ext: csv
-        info: http://doi.org/10.5281/zenodo.2545213
-        src: url
-        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/train_rows.csv
-      name: 'DOI: 10.5281/zenodo.2545213'
-    name: Regression in Machine Learning
-  - items:
-    - description: latest
-      items:
-      - ext: tabular
-        info: http://doi.org/10.5281/zenodo.4638516
-        src: url
-        url: https://zenodo.org/api/files/b7b2b1d8-bb18-423d-9fe4-3bce858265ac/clingen_data
-      name: 'DOI: 10.5281/zenodo.4638516'
-    name: Text-mining with the SimText toolset
-  name: Statistics and machine learning
-- description: Summary
-  items:
-  - ext: txt
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/CCLE_DepMap_18Q1_maf_20180207.txt.gz
-  - ext: tabular
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/CCLE_MUT_CNA_AMP_DEL_binary_Revealer.tsv.gz
-  - ext: tabular
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/ccle_rnaseq_genes_rpkm_20180929_mod.tsv.gz
-  - ext: txt
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/compounds_of_interest.txt
-  - ext: tabular
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/copy_number_gain_status.tsv.gz
-  - ext: tabular
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/copy_number_loss_status.tsv.gz
-  - ext: tabular
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/cosmic_cancer_classification.tsv
-  - ext: tabular
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/EBPlusPlusAdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.tsv
-  - ext: txt
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/gdsc1_ccle_pharm_fitted_dose_data.txt.gz
-  - ext: txt
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/gdsc2_ccle_pharm_fitted_dose_data.txt.gz
-  - ext: tabular
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GDSC_CCLE_common_mut_cnv_binary.tsv.gz
-  - ext: tabular
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GDSC_EXP_CCLE_converted_name.tsv.gz
-  - ext: txt
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GSE69822_pi3k_sign.txt
-  - ext: csv
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GSE69822_pi3k_trans.csv
-  - ext: txt
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GSE94937_kras_sign.txt
-  - ext: csv
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GSE94937_rpkm_kras.csv
-  - ext: tabular
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/mc3.v0.2.8.PUBLIC.maf.gz
-  - ext: tabular
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/mutation_burden_freeze.tsv
-  - ext: tabular
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/pancan_GISTIC_threshold.tsv.gz
-  - ext: tabular
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/pancan_mutation_freeze.tsv.gz
-  - ext: tabular
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/pancan_rnaseq_freeze.tsv.gz
-  - ext: txt
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/path_cell_cycle_genes.txt
-  - ext: txt
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/path_myc_genes.txt
-  - ext: txt
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/path_ras_genes.txt
-  - ext: txt
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/path_rtk_ras_pi3k_genes.txt
-  - ext: txt
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/path_wnt_genes.txt
-  - ext: tabular
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/sample_freeze.tsv
-  - ext: csv
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/sampleset_freeze_version4_modify.csv
-  - ext: tabular
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/seg_based_scores.tsv
-  - ext: tabular
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/tcga_dictionary.tsv
-  - ext: tabular
-    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
-    src: url
-    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/vogelstein_cancergenes.tsv
-  name: PAPAA PI3K_OG:Pancancer Aberrant Pathway Activity Analysis
-- description: Summary of the topic
-  items:
-  - items:
-    - description: latest
-      items:
-      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
-        info: https://zenodo.org/record/6123887#.YhTCPhvjJH4
-        src: url
-        url: https://zenodo.org/api/files/f58fe126-0ca2-4ca5-bc4b-0063f3a8951c/dnabot_london_settings.yaml
-      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
-        info: https://zenodo.org/record/6123887#.YhTCPhvjJH4
-        src: url
-        url: https://zenodo.org/api/files/f58fe126-0ca2-4ca5-bc4b-0063f3a8951c/dnabot_paris_settings.yaml
-      - ext: csv
-        info: https://zenodo.org/record/6123887#.YhTCPhvjJH4
-        src: url
-        url: https://zenodo.org/api/files/f58fe126-0ca2-4ca5-bc4b-0063f3a8951c/parts_for_lycopene.csv
-      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
-        info: https://zenodo.org/record/6123887#.YhTCPhvjJH4
-        src: url
-        url: https://zenodo.org/api/files/f58fe126-0ca2-4ca5-bc4b-0063f3a8951c/rp_002_0011.xml
-      name: 'DOI: 10.5281/zenodo.6123887#.YhTCPhvjJH4'
-    name: Designing plasmids encoding predicted pathways by using the BASIC assembly
-      method
-  name: Title of the topic
 - description: Training material for all kinds of transcriptomics analysis.
   items:
+  - items:
+    - description: latest
+      items:
+      - ext: txt
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/3M-february-2018.txt.gz
+      - ext: txt
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/737K-august-2016.txt
+      - ext: txt
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/cellranger_mit_license.txt
+      - ext: gtf
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/Homo_sapiens.GRCh37.75.gtf
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L001_I1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L001_R1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L001_R2_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L002_I1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L002_R1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L002_R2_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subset_pbmc_1k_v3_S1_L001_R1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subset_pbmc_1k_v3_S1_L001_R2_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subset_pbmc_1k_v3_S1_L002_R1_001.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subset_pbmc_1k_v3_S1_L002_R2_001.fastq.gz
+      - ext: txt
+        info: https://zenodo.org/record/3457880
+        src: url
+        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subsetting_data.txt
+      name: 'DOI: 10.5281/zenodo.3457880'
+    name: Pre-processing of 10X Single-Cell RNA Datasets
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/3581213
+        src: url
+        url: https://zenodo.org/api/files/78a8ec7e-3357-44b8-854d-4a9d772b4589/barcodes.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3581213
+        src: url
+        url: https://zenodo.org/api/files/78a8ec7e-3357-44b8-854d-4a9d772b4589/genes.tsv
+      - ext: mtx
+        info: https://zenodo.org/record/3581213
+        src: url
+        url: https://zenodo.org/api/files/78a8ec7e-3357-44b8-854d-4a9d772b4589/matrix.mtx
+      name: 'DOI: 10.5281/zenodo.3581213'
+    name: Clustering 3K PBMCs with Scanpy
   - items:
     - description: latest
       items:
@@ -3427,88 +3092,6 @@ items:
   - items:
     - description: latest
       items:
-      - ext: txt
-        info: https://zenodo.org/record/3457880
-        src: url
-        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/3M-february-2018.txt.gz
-      - ext: txt
-        info: https://zenodo.org/record/3457880
-        src: url
-        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/737K-august-2016.txt
-      - ext: txt
-        info: https://zenodo.org/record/3457880
-        src: url
-        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/cellranger_mit_license.txt
-      - ext: gtf
-        info: https://zenodo.org/record/3457880
-        src: url
-        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/Homo_sapiens.GRCh37.75.gtf
-      - ext: fastqsanger.gz
-        info: https://zenodo.org/record/3457880
-        src: url
-        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L001_I1_001.fastq.gz
-      - ext: fastqsanger.gz
-        info: https://zenodo.org/record/3457880
-        src: url
-        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L001_R1_001.fastq.gz
-      - ext: fastqsanger.gz
-        info: https://zenodo.org/record/3457880
-        src: url
-        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L001_R2_001.fastq.gz
-      - ext: fastqsanger.gz
-        info: https://zenodo.org/record/3457880
-        src: url
-        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L002_I1_001.fastq.gz
-      - ext: fastqsanger.gz
-        info: https://zenodo.org/record/3457880
-        src: url
-        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L002_R1_001.fastq.gz
-      - ext: fastqsanger.gz
-        info: https://zenodo.org/record/3457880
-        src: url
-        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/pbmc_1k_v3_S1_L002_R2_001.fastq.gz
-      - ext: fastqsanger.gz
-        info: https://zenodo.org/record/3457880
-        src: url
-        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subset_pbmc_1k_v3_S1_L001_R1_001.fastq.gz
-      - ext: fastqsanger.gz
-        info: https://zenodo.org/record/3457880
-        src: url
-        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subset_pbmc_1k_v3_S1_L001_R2_001.fastq.gz
-      - ext: fastqsanger.gz
-        info: https://zenodo.org/record/3457880
-        src: url
-        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subset_pbmc_1k_v3_S1_L002_R1_001.fastq.gz
-      - ext: fastqsanger.gz
-        info: https://zenodo.org/record/3457880
-        src: url
-        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subset_pbmc_1k_v3_S1_L002_R2_001.fastq.gz
-      - ext: txt
-        info: https://zenodo.org/record/3457880
-        src: url
-        url: https://zenodo.org/api/files/ef2cd156-eff7-43b1-91cd-e86f91d5b315/subsetting_data.txt
-      name: 'DOI: 10.5281/zenodo.3457880'
-    name: Pre-processing of 10X Single-Cell RNA Datasets
-  - items:
-    - description: latest
-      items:
-      - ext: tsv
-        info: https://zenodo.org/record/3581213
-        src: url
-        url: https://zenodo.org/api/files/78a8ec7e-3357-44b8-854d-4a9d772b4589/barcodes.tsv
-      - ext: tsv
-        info: https://zenodo.org/record/3581213
-        src: url
-        url: https://zenodo.org/api/files/78a8ec7e-3357-44b8-854d-4a9d772b4589/genes.tsv
-      - ext: mtx
-        info: https://zenodo.org/record/3581213
-        src: url
-        url: https://zenodo.org/api/files/78a8ec7e-3357-44b8-854d-4a9d772b4589/matrix.mtx
-      name: 'DOI: 10.5281/zenodo.3581213'
-    name: Clustering 3K PBMCs with Scanpy
-  - items:
-    - description: latest
-      items:
       - ext: bam
         info: https://zenodo.org/record/1491876
         src: url
@@ -3561,6 +3144,423 @@ items:
       name: 'DOI: 10.5281/zenodo.826906'
     name: Differential abundance testing of small RNAs
   name: Transcriptomics
+- description: Statistical Analyses for omics data and machine learning using Galaxy
+    tools
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/4697906
+        src: url
+        url: https://zenodo.org/record/4697906/files/X_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/4697906
+        src: url
+        url: https://zenodo.org/record/4697906/files/X_train.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/4697906
+        src: url
+        url: https://zenodo.org/record/4697906/files/y_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/4697906
+        src: url
+        url: https://zenodo.org/record/4697906/files/y_train.tsv
+      name: 'DOI: 10.5281/zenodo.4697906'
+    name: Introduction to convolutional neural networks (CNN)
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/4660497
+        src: url
+        url: https://zenodo.org/record/4660497/files/X_test.tsv?download=1
+      - ext: tsv
+        info: https://zenodo.org/record/4660497
+        src: url
+        url: https://zenodo.org/record/4660497/files/X_train.tsv?download=1
+      - ext: tsv
+        info: https://zenodo.org/record/4660497
+        src: url
+        url: https://zenodo.org/record/4660497/files/y_test.tsv?download=1
+      - ext: tsv
+        info: https://zenodo.org/record/4660497
+        src: url
+        url: https://zenodo.org/record/4660497/files/y_train.tsv?download=1
+      name: 'DOI: 10.5281/zenodo.4660497'
+    name: Introduction to feedforward neural networks (RNN)
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/4477881
+        src: url
+        url: https://zenodo.org/api/files/47b8692d-2671-4082-ac8f-746a0783cfa1/X_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/4477881
+        src: url
+        url: https://zenodo.org/api/files/47b8692d-2671-4082-ac8f-746a0783cfa1/X_train.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/4477881
+        src: url
+        url: https://zenodo.org/api/files/47b8692d-2671-4082-ac8f-746a0783cfa1/y_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/4477881
+        src: url
+        url: https://zenodo.org/api/files/47b8692d-2671-4082-ac8f-746a0783cfa1/y_train.tsv
+      name: 'DOI: 10.5281/zenodo.4477881'
+    name: Introduction to recurrent neural networks (RNN)
+  - items:
+    - description: latest
+      items:
+      - ext: csv
+        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
+        src: url
+        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/test_rows.csv
+      - ext: csv
+        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
+        src: url
+        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/test_rows_labels.csv
+      - ext: tsv
+        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
+        src: url
+        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/training_data_normal.tsv
+      - ext: csv
+        info: https://zenodo.org/record/2545213#.XEWTJ9-YVa0
+        src: url
+        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/train_rows.csv
+      name: 'DOI: 10.5281/zenodo.2545213#.XEWTJ9-YVa0'
+    name: Age prediction using machine learning
+  - items:
+    - description: latest
+      items:
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.3738729
+        src: url
+        url: https://zenodo.org/record/3738729/files/train_rows.csv
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.3738729
+        src: url
+        url: https://zenodo.org/record/3738729/files/test_rows_labels.csv
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.3738729
+        src: url
+        url: https://zenodo.org/record/3738729/files/test_rows.csv
+      name: DOI:10.5281/zenodo.3738729
+    name: Classification in Machine Learning
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/3248907
+        src: url
+        url: https://zenodo.org/record/3248907/files/breast-w_targets.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3248907
+        src: url
+        url: https://zenodo.org/record/3248907/files/breast-w_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3248907
+        src: url
+        url: https://zenodo.org/record/3248907/files/breast-w_train.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3248907
+        src: url
+        url: https://zenodo.org/record/3248907/files/body_fat_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3248907
+        src: url
+        url: https://zenodo.org/record/3248907/files/body_fat_test_labels.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3248907
+        src: url
+        url: https://zenodo.org/record/3248907/files/body_fat_train.tsv
+      name: 'DOI: https://zenodo.org/record/3248907'
+    name: 'Machine learning: classification and regression'
+  - items:
+    - description: latest
+      items:
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.3813447
+        src: url
+        url: https://zenodo.org/api/files/4cc718d4-8a36-4d05-a211-b954fbc015f7/iris.csv
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.3813447
+        src: url
+        url: https://zenodo.org/api/files/4cc718d4-8a36-4d05-a211-b954fbc015f7/circles.csv
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.3813447
+        src: url
+        url: https://zenodo.org/api/files/4cc718d4-8a36-4d05-a211-b954fbc015f7/moon.csv
+      name: 'DOI: 10.5281/zenodo.3813447'
+    name: Clustering in Machine Learning
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/5702887
+        src: url
+        url: https://zenodo.org/record/5702887/files/train_X_10.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/5702887
+        src: url
+        url: https://zenodo.org/record/5702887/files/train_y_10.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/5702887
+        src: url
+        url: https://zenodo.org/record/5702887/files/test_X_10.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/5702887
+        src: url
+        url: https://zenodo.org/record/5702887/files/test_y_10.tsv
+      name: 'DOI: 10.5281/zenodo.5702887'
+    name: Image classification of fruit 360 dataset using convolutional neural networks
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/3706539#.XmjDYHVKg5k
+        src: url
+        url: https://zenodo.org/record/3706539/files/X_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3706539#.XmjDYHVKg5k
+        src: url
+        url: https://zenodo.org/record/3706539/files/X_train.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3706539#.XmjDYHVKg5k
+        src: url
+        url: https://zenodo.org/record/3706539/files/y_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/3706539#.XmjDYHVKg5k
+        src: url
+        url: https://zenodo.org/record/3706539/files/y_train.tsv
+      name: 'DOI: 10.5281/zenodo.3706539'
+    name: Introduction to deep learning
+  - items:
+    - description: latest
+      items:
+      - ext: bed
+        info: https://zenodo.org/record/5589610
+        src: url
+        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/Control.bed
+      - ext: txt
+        info: https://zenodo.org/record/5589610
+        src: url
+        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/DESCRIPTION.txt
+      - ext: bed
+        info: https://zenodo.org/record/5589610
+        src: url
+        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/ETn_fixed.bed
+      - ext: tabular
+        info: https://zenodo.org/record/5589610
+        src: url
+        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/features_header.tabular
+      - ext: zip
+        info: https://zenodo.org/record/5589610
+        src: url
+        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/IWTomics_ETn_dataset_example.zip
+      - ext: txt
+        info: https://zenodo.org/record/5589610
+        src: url
+        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/Recombination_hotspots.txt
+      - ext: tabular
+        info: https://zenodo.org/record/5589610
+        src: url
+        url: https://zenodo.org/api/files/1a11420c-337d-462a-b0bc-e2cb767ce2fa/regions_header.tabular
+      name: 'DOI: 10.5281/zenodo.5589610'
+    name: Interval-Wise Testing for omics data
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/record/1468039#.W8zyxBRoSAo
+        src: url
+        url: https://zenodo.org/api/files/0d468136-5025-4c0f-bf8b-a8277a513a93/breast-w_test.tsv
+      - ext: tsv
+        info: https://zenodo.org/record/1468039#.W8zyxBRoSAo
+        src: url
+        url: https://zenodo.org/api/files/0d468136-5025-4c0f-bf8b-a8277a513a93/breast-w_train.tsv
+      name: 'DOI: 10.5281/zenodo.1468039#.W8zyxBRoSAo'
+    name: Basics of machine learning
+  - items:
+    - description: latest
+      items:
+      - ext: csv
+        info: http://doi.org/10.5281/zenodo.2545213
+        src: url
+        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/test_rows.csv
+      - ext: csv
+        info: http://doi.org/10.5281/zenodo.2545213
+        src: url
+        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/test_rows_labels.csv
+      - ext: csv
+        info: http://doi.org/10.5281/zenodo.2545213
+        src: url
+        url: https://zenodo.org/api/files/f1431fd7-a9dc-426d-ac78-3eaaa61a8d29/train_rows.csv
+      name: 'DOI: 10.5281/zenodo.2545213'
+    name: Regression in Machine Learning
+  - items:
+    - description: latest
+      items:
+      - ext: tabular
+        info: http://doi.org/10.5281/zenodo.4638516
+        src: url
+        url: https://zenodo.org/api/files/b7b2b1d8-bb18-423d-9fe4-3bce858265ac/clingen_data
+      name: 'DOI: 10.5281/zenodo.4638516'
+    name: Text-mining with the SimText toolset
+  name: Statistics and machine learning
+- description: Summary
+  items:
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/CCLE_DepMap_18Q1_maf_20180207.txt.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/CCLE_MUT_CNA_AMP_DEL_binary_Revealer.tsv.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/ccle_rnaseq_genes_rpkm_20180929_mod.tsv.gz
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/compounds_of_interest.txt
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/copy_number_gain_status.tsv.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/copy_number_loss_status.tsv.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/cosmic_cancer_classification.tsv
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/EBPlusPlusAdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.tsv
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/gdsc1_ccle_pharm_fitted_dose_data.txt.gz
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/gdsc2_ccle_pharm_fitted_dose_data.txt.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GDSC_CCLE_common_mut_cnv_binary.tsv.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GDSC_EXP_CCLE_converted_name.tsv.gz
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GSE69822_pi3k_sign.txt
+  - ext: csv
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GSE69822_pi3k_trans.csv
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GSE94937_kras_sign.txt
+  - ext: csv
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/GSE94937_rpkm_kras.csv
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/mc3.v0.2.8.PUBLIC.maf.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/mutation_burden_freeze.tsv
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/pancan_GISTIC_threshold.tsv.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/pancan_mutation_freeze.tsv.gz
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/pancan_rnaseq_freeze.tsv.gz
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/path_cell_cycle_genes.txt
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/path_myc_genes.txt
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/path_ras_genes.txt
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/path_rtk_ras_pi3k_genes.txt
+  - ext: txt
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/path_wnt_genes.txt
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/sample_freeze.tsv
+  - ext: csv
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/sampleset_freeze_version4_modify.csv
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/seg_based_scores.tsv
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/tcga_dictionary.tsv
+  - ext: tabular
+    info: https://zenodo.org/record/4306639#.X9FJF-lKgZE
+    src: url
+    url: https://zenodo.org/api/files/9c1a32d0-dba1-4481-ad9f-1aac03c83e61/vogelstein_cancergenes.tsv
+  name: PAPAA PI3K_OG:Pancancer Aberrant Pathway Activity Analysis
+- description: Summary of the topic
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
+        info: https://zenodo.org/record/6123887#.YhTCPhvjJH4
+        src: url
+        url: https://zenodo.org/api/files/f58fe126-0ca2-4ca5-bc4b-0063f3a8951c/dnabot_london_settings.yaml
+      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
+        info: https://zenodo.org/record/6123887#.YhTCPhvjJH4
+        src: url
+        url: https://zenodo.org/api/files/f58fe126-0ca2-4ca5-bc4b-0063f3a8951c/dnabot_paris_settings.yaml
+      - ext: csv
+        info: https://zenodo.org/record/6123887#.YhTCPhvjJH4
+        src: url
+        url: https://zenodo.org/api/files/f58fe126-0ca2-4ca5-bc4b-0063f3a8951c/parts_for_lycopene.csv
+      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
+        info: https://zenodo.org/record/6123887#.YhTCPhvjJH4
+        src: url
+        url: https://zenodo.org/api/files/f58fe126-0ca2-4ca5-bc4b-0063f3a8951c/rp_002_0011.xml
+      name: 'DOI: 10.5281/zenodo.6123887#.YhTCPhvjJH4'
+    name: Designing plasmids encoding predicted pathways by using the BASIC assembly
+      method
+  name: Title of the topic
 - description: Exome sequencing means that all protein-coding genes in a genome are
     sequenced
   items:
