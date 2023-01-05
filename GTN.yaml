@@ -137,6 +137,8 @@ items:
     name: Metabarcoding/eDNA through Obitools
   - items: []
     name: Biodiversity data exploration
+  - items: []
+    name: Champs blocs indicators
   name: New topic
 - description: Learn to analyse Ecological data through Galaxy.
   items:
