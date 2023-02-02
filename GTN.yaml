@@ -1519,6 +1519,72 @@ items:
   - items:
     - description: latest
       items:
+      - ext: fastq.gz
+        info: https://zenodo.org/record/7593928
+        src: url
+        url: https://zenodo.org/record/7593928/files/Barcode10_Spike2.fastq.gz
+      - ext: fastq.gz
+        info: https://zenodo.org/record/7593928
+        src: url
+        url: https://zenodo.org/record/7593928/files/Barcode11_Spike2b.fastq.gz
+      - ext: tabular
+        info: https://zenodo.org/record/7593928
+        src: url
+        url: https://zenodo.org/record/7593928/files/MLST_Report_Header.tabular
+      - ext: fna.gz
+        info: https://zenodo.org/record/7593928
+        src: url
+        url: https://zenodo.org/record/7593928/files/Salmonella_Ref_genome.fna.gz
+      - ext: png
+        info: https://zenodo.org/record/7593928
+        src: url
+        url: https://zenodo.org/record/7593928/files/Heatmap.png
+      - ext: fastqsanger
+        info: https://zenodo.org/record/7593928
+        src: url
+        url: https://zenodo.org/record/7593928/files/Nanopore_processed_sequenced_reads_Barcode10_Spike2.fastqsanger
+      - ext: fastqsanger
+        info: https://zenodo.org/record/7593928
+        src: url
+        url: https://zenodo.org/record/7593928/files/Nanopore_processed_sequenced_reads_Barcode11_Spike2b.fastqsanger
+      - ext: fasta
+        info: https://zenodo.org/record/7593928
+        src: url
+        url: https://zenodo.org/record/7593928/files/Contigs_Barcode10.fasta
+      - ext: fasta
+        info: https://zenodo.org/record/7593928
+        src: url
+        url: https://zenodo.org/record/7593928/files/Contigs_Barcode11.fasta
+      - ext: tabular
+        info: https://zenodo.org/record/7593928
+        src: url
+        url: https://zenodo.org/record/7593928/files/VFs_accessions_Barcode10.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/7593928
+        src: url
+        url: https://zenodo.org/record/7593928/files/VFs_accessions_Barcode11.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/7593928
+        src: url
+        url: https://zenodo.org/record/7593928/files/VFs_accessions_with_SampleID_Barcode10.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/7593928
+        src: url
+        url: https://zenodo.org/record/7593928/files/VFs_accessions_with_SampleID_Barcode11.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/7593928
+        src: url
+        url: https://zenodo.org/record/7593928/files/VFs_Barcode10.tabular
+      - ext: tabular
+        info: https://zenodo.org/record/7593928
+        src: url
+        url: https://zenodo.org/record/7593928/files/VFs_Barcode11.tabular
+      name: 'DOI: 10.5281/zenodo.7593928'
+    name: Pathogen detection from (direct Nanopore) sequencing data using Galaxy -
+      Foodborne Edition
+  - items:
+    - description: latest
+      items:
       - ext: fasta
         info: https://doi.org/10.5281/zenodo.3247504
         src: url
