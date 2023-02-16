@@ -111,8 +111,169 @@ items:
       name: 'DOI: 10.5281/zenodo.940733'
     name: Unicycler Assembly
   name: Assembly
+- description: Training material for VGP GTN tutorials, focused on genome assembly
+    with HiFi long reads and scaffolding with Bionano and Hi-C data.
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/6098306/
+        src: url
+        url: https://zenodo.org/record/6098306/files/SRR7126301_1.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/record/6098306/
+        src: url
+        url: https://zenodo.org/record/6098306/files/SRR7126301_2.fastq.gz
+      - ext: cmap
+        info: https://zenodo.org/record/6098306/
+        src: url
+        url: https://zenodo.org/record/6098306/files/bionano.cmap
+      - ext: fasta
+        info: https://zenodo.org/record/6098306/
+        src: url
+        url: https://zenodo.org/record/6098306//files/HiFi_synthetic_50x_01.fasta
+      - ext: fasta
+        info: https://zenodo.org/record/6098306/
+        src: url
+        url: https://zenodo.org/record/6098306//files/HiFi_synthetic_50x_02.fasta
+      - ext: fasta
+        info: https://zenodo.org/record/6098306/
+        src: url
+        url: https://zenodo.org/record/6098306//files/HiFi_synthetic_50x_03.fasta
+      name: 'DOI: 10.5281/zenodo.6098306'
+    name: Saccharomyces cerevisiae S288C whole genome assembly and scaffolding data
+  name: VGP assembly yeast
+- description: Hifi long reads of zebra finch (Taeniopygia guttata, bTaeGut2) for
+    whole genome assembly, and scaffolding with Bionano and Hi-C data.
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/m54306U_210519_154448.hifi_reads.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/m54306U_210521_004211.hifi_reads.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/m54306Ue_210629_211205.hifi_reads.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/m54306Ue_210719_083927.hifi_reads.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/m64055e_210624_223222.hifi_reads.fastq.gz
+      name: HiFi
+    - description: latest
+      items:
+      - ext: cmap
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/bionano/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/bionano/bTaeGut2_Saphyr_DLE1_3172351.cmap
+      name: Bionano
+    - description: latest'
+      items:
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMFCCXY_L1_R1.fq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMFCCXY_L1_R2.fq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMFCCXY_L2_R1.fq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMFCCXY_L2_R2.fq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMFCCXY_L3_R1.fq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMFCCXY_L3_R2.fq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMFCCXY_L4_R1.fq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMFCCXY_L4_R2.fq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMFCCXY_L5_R1.fq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMFCCXY_L5_R2.fq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMFCCXY_L6_R1.fq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMFCCXY_L6_R2.fq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMFCCXY_L7_R1.fq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMFCCXY_L7_R1.fq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMFCCXY_L8_R1.fq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMFCCXY_L8_R2.fq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMMCCXY_L6_R1.fq.gz
+      - ext: fastqsanger.gz
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/bTaeGut2_ARI8_001_USPD16084394-AK5146_HJFMMCCXY_L6_R2.fq.gz
+      - ext: text
+        info: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+        src: url
+        url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/re_bases.txt
+      name: HiC
+    name: Zebra finch (bTaeGut2) whole genome assembly and scaffolding data
+  name: VGP assembly zebra finch
 - description: Modelling, simulation and analysis of biomolecular systems
   items:
+  - items:
+    - description: latest
+      items:
+      - ext: dcd
+        info: https://zenodo.org/record/2537734
+        src: url
+        url: https://zenodo.org/record/2537734/files/cbh1test.dcd
+      - ext: pdb
+        info: https://zenodo.org/record/2537734
+        src: url
+        url: https://zenodo.org/record/2537734/files/cbh1test.pdb
+      name: 'DOI: 10.5281/zenodo.2537734'
+    name: Analysis of molecular dynamics simulations
   - items:
     - ext: pdb
       info: ''
@@ -129,6 +290,19 @@ items:
       name: 10.5281/zenodo.2600690
     name: Setting up molecular systems
   name: Computational Chemistry
+- description: a introductory guide to using GROMACS in Galaxy to prepare and perform
+    molecular dynamics on a small protein (lysozyme).
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: pdb
+        info: https://zenodo.org/record/2598415
+        src: url
+        url: https://zenodo.org/api/files/5ea22a57-0cb0-4bc8-b79c-545647b67f5f/1AKI_clean.pdb
+      name: 'DOI: 10.5281/zenodo.2598415'
+    name: GROMACS MD simulation
+  name: Running molecular dynamics simulations using GROMACS
 - description: Topic summary
   items:
   - items: []
@@ -426,6 +600,139 @@ items:
         url: https://zenodo.org/api/files/debdbbfd-4739-4f2d-bb79-814ac032c8b5/Muco_library_RM2.fasta
       name: 'DOI: 10.5281/zenodo.7085837'
     name: Repeat masking with RepeatMasker
+  - items:
+    - description: latest
+      items:
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-01-dfp.tif
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-01-ffp.tif
+      - ext: ome.tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-01.ome.tiff
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-02-dfp.tif
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-02-ffp.tif
+      - ext: ome.tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-02.ome.tiff
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-03-dfp.tif
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-03-ffp.tif
+      - ext: ome.tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-03.ome.tiff
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-04-dfp.tif
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-04-ffp.tif
+      - ext: ome.tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-04.ome.tiff
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-05-dfp.tif
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-05-ffp.tif
+      - ext: ome.tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-05.ome.tiff
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-06-dfp.tif
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-06-ffp.tif
+      - ext: ome.tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-06.ome.tiff
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-07-dfp.tif
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-07-ffp.tif
+      - ext: ome.tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-07.ome.tiff
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-08-dfp.tif
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-08-ffp.tif
+      - ext: ome.tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-08.ome.tiff
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-09-dfp.tif
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-09-ffp.tif
+      - ext: ome.tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-09.ome.tiff
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-10-dfp.tif
+      - ext: tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-10-ffp.tif
+      - ext: ome.tiff
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar-002-cycle-10.ome.tiff
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/exemplar_002_phenotypes.csv
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.7622545
+        src: url
+        url: https://zenodo.org/api/files/766022ca-da46-4ea3-a302-865568c74c45/markers.csv
+      name: 'DOI: 10.5281/zenodo.7622545'
+    name: End-to-End Tissue Microarray Image Analysis with Galaxy-ME
   - items:
     - description: latest
       items:
@@ -2262,6 +2569,19 @@ items:
       name: 'DOI: 10.5281/zenodo.519260'
     name: Secretome Prediction
   name: Proteomics
+- items:
+  - description: latest
+    items:
+    - ext: fasta
+      info: https://zenodo.org/record/4111092#.YACWlpNKhhF
+      src: url
+      url: https://zenodo.org/record/4111092/files/ACPs.fasta
+    - ext: fasta
+      info: https://zenodo.org/record/4111092#.YACWlpNKhhF
+      src: url
+      url: https://zenodo.org/record/4111092/files/non_ACPs.fasta
+    name: 'DOI: https://doi.org/10.5281/zenodo.4111092'
+  name: Machine Learning Modeling of Anticancer Peptides
 - description: Analyses of sequences
   items:
   - items:
