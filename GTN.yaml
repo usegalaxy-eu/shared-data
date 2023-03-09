@@ -96,6 +96,27 @@ items:
   - items:
     - description: latest
       items:
+      - ext: fastq.gz
+        info: https://doi.org/10.5281/zenodo.7055935
+        src: url
+        url: https://zenodo.org/record/7055935/files/Eucalyptus_subsample_ten_pc_nano_SRR7153076.fastq.gz
+      - ext: fastq.gz
+        info: https://doi.org/10.5281/zenodo.7055935
+        src: url
+        url: https://zenodo.org/record/7055935/files/Eucalyptus_subsample_ten_pc_SRR7153045_R1.fastq.gz
+      - ext: fastq.gz
+        info: https://doi.org/10.5281/zenodo.7055935
+        src: url
+        url: https://zenodo.org/record/7055935/files/Eucalyptus_subsample_ten_pc_SRR7153045_R2.fastq.gz
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.7055935
+        src: url
+        url: https://zenodo.org/record/7055935/files/Ref_genome_Arabidopsis.fasta
+      name: 'DOI: 10.5281/zenodo.7055935'
+    name: Large genome assembly and polishing
+  - items:
+    - description: latest
+      items:
       - ext: fastqsanger
         info: https://doi.org/10.5281/zenodo.940733
         src: url
