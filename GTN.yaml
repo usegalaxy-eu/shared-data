@@ -334,6 +334,8 @@ items:
     name: Biodiversity data exploration
   - items: []
     name: Champs blocs indicators
+  - items: []
+    name: 'Trajectory Analysis: Monocle3 in RStudio'
   name: New topic
 - description: Learn to analyse Ecological data through Galaxy.
   items:
