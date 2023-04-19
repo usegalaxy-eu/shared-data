@@ -335,6 +335,8 @@ items:
   - items: []
     name: Champs blocs indicators
   - items: []
+    name: Sentinel 2 workflow
+  - items: []
     name: 'Trajectory Analysis: Monocle3 in RStudio'
   name: New topic
 - description: Learn to analyse Ecological data through Galaxy.
