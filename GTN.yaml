@@ -2821,6 +2821,30 @@ items:
       name: 'DOI: 10.5281/zenodo.61771'
     name: Quality Control
   name: Sequence analysis
+- description: Training material for single-cell omics analysis
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: txt
+        info: https://zenodo.org/record/7855968
+        src: url
+        url: https://zenodo.org/api/files/d554c6c9-a28d-47bc-96be-5e34bd58266d/atac_pbmc_1k_nextgem_S1_R1_001_chr21.fastq.gz
+      - ext: txt
+        info: https://zenodo.org/record/7855968
+        src: url
+        url: https://zenodo.org/api/files/d554c6c9-a28d-47bc-96be-5e34bd58266d/atac_pbmc_1k_nextgem_S1_R2_001_chr21.fastq.gz
+      - ext: txt
+        info: https://zenodo.org/record/7855968
+        src: url
+        url: https://zenodo.org/api/files/d554c6c9-a28d-47bc-96be-5e34bd58266d/atac_pbmc_1k_nextgem_S1_R3_001_chr21.fastq.gz
+      - ext: txt
+        info: https://zenodo.org/record/7855968
+        src: url
+        url: https://zenodo.org/api/files/d554c6c9-a28d-47bc-96be-5e34bd58266d/atac_pbmc_1k_uniq_peaks.h5ad
+      name: 'DOI: 10.5281/zenodo.7855968'
+    name: Pre-processing of 10X Single-Cell ATAC Datasets
+  name: Single-cell
 - description: Training material for all kinds of transcriptomics analysis.
   items:
   - items:
