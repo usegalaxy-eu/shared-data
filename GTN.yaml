@@ -1209,30 +1209,30 @@ items:
     - description: latest
       items:
       - ext: genbank
-        info: https://zenodo.org/record/5906635
+        info: https://zenodo.org/record/7867921
         src: url
-        url: https://zenodo.org/api/files/8c2cc766-2b68-45bd-a2d3-391acf9bdb1b/alternate_annotation.gbk
+        url: https://zenodo.org/api/files/47406781-e8af-42e7-855d-d29e4a098f6f/alternate_annotation.gbk
       - ext: gff3
-        info: https://zenodo.org/record/5906635
+        info: https://zenodo.org/record/7867921
         src: url
-        url: https://zenodo.org/api/files/8c2cc766-2b68-45bd-a2d3-391acf9bdb1b/alternate_annotation.gff3
+        url: https://zenodo.org/api/files/47406781-e8af-42e7-855d-d29e4a098f6f/alternate_annotation.gff3
       - ext: fasta
-        info: https://zenodo.org/record/5906635
+        info: https://zenodo.org/record/7867921
         src: url
-        url: https://zenodo.org/api/files/8c2cc766-2b68-45bd-a2d3-391acf9bdb1b/genome_masked.fasta
+        url: https://zenodo.org/api/files/47406781-e8af-42e7-855d-d29e4a098f6f/genome_masked.fasta
       - ext: fastqsanger.gz
-        info: https://zenodo.org/record/5906635
+        info: https://zenodo.org/record/7867921
         src: url
-        url: https://zenodo.org/api/files/8c2cc766-2b68-45bd-a2d3-391acf9bdb1b/rnaseq_R1.fq.gz
+        url: https://zenodo.org/api/files/47406781-e8af-42e7-855d-d29e4a098f6f/rnaseq_R1.fq.gz
       - ext: fastqsanger.gz
-        info: https://zenodo.org/record/5906635
+        info: https://zenodo.org/record/7867921
         src: url
-        url: https://zenodo.org/api/files/8c2cc766-2b68-45bd-a2d3-391acf9bdb1b/rnaseq_R2.fq.gz
+        url: https://zenodo.org/api/files/47406781-e8af-42e7-855d-d29e4a098f6f/rnaseq_R2.fq.gz
       - ext: fasta
-        info: https://zenodo.org/record/5906635
+        info: https://zenodo.org/record/7867921
         src: url
-        url: https://zenodo.org/api/files/8c2cc766-2b68-45bd-a2d3-391acf9bdb1b/SwissProt_subset.fasta
-      name: 'DOI: 10.5281/zenodo.5906635'
+        url: https://zenodo.org/api/files/47406781-e8af-42e7-855d-d29e4a098f6f/SwissProt_subset.fasta
+      name: 'DOI: 10.5281/zenodo.7867921'
     name: Genome annotation with Funannotate
   - items:
     - description: latest
@@ -3752,6 +3752,15 @@ items:
         url: https://zenodo.org/record/5702887/files/test_y_10.tsv
       name: 'DOI: 10.5281/zenodo.5702887'
     name: Image classification of fruit 360 dataset using convolutional neural networks
+  - items:
+    - description: latest
+      items:
+      - ext: tar.gz
+        info: https://zenodo.org/record/7545662
+        src: url
+        url: https://zenodo.org/api/files/0935ad05-9b11-48b7-971e-cd28cd8720aa/datasets.tar.gz
+      name: 'DOI: 10.5281/zenodo.7545662'
+    name: Supervised Learning with Hyperdimensional Computing
   - items:
     - description: latest
       items:
