@@ -3229,118 +3229,102 @@ items:
     - description: latest
       items:
       - ext: gtf
-        info: https://zenodo.org/record/1185122
+        info: https://zenodo.org/record/6457007
         src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/Drosophila_melanogaster.BDGP6.87.dexseq.gtf
-      - ext: tabular
-        info: https://zenodo.org/record/1185122
-        src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/Drosophila_melanogaster.BDGP6.87.gene_lengths
-      - ext: gtf
-        info: https://zenodo.org/record/1185122
-        src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/Drosophila_melanogaster.BDGP6.87.gtf
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/Drosophila_melanogaster.BDGP6.32.109_UCSC.gtf.gz
       - ext: fastqsanger
-        info: https://zenodo.org/record/1185122
+        info: https://zenodo.org/record/6457007
         src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461176.fastqsanger
-      - ext: tabular
-        info: https://zenodo.org/record/1185122
-        src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461176_untreat_single.counts
-      - ext: tabular
-        info: https://zenodo.org/record/1185122
-        src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461176_untreat_single.exon.counts
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461176.fastqsanger
       - ext: fastqsanger
-        info: https://zenodo.org/record/1185122
+        info: https://zenodo.org/record/6457007
         src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461177_1.fastqsanger
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461176_subsampled.fastqsanger
+      - ext: tabular
+        info: https://zenodo.org/record/6457007
+        src: url
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461176_untreat_single_featureCounts.counts
       - ext: fastqsanger
-        info: https://zenodo.org/record/1185122
+        info: https://zenodo.org/record/6457007
         src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461177_2.fastqsanger
-      - ext: tabular
-        info: https://zenodo.org/record/1185122
-        src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461177_untreat_paired.counts
-      - ext: tabular
-        info: https://zenodo.org/record/1185122
-        src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461177_untreat_paired.exon.counts
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461177_1.fastqsanger
       - ext: fastqsanger
-        info: https://zenodo.org/record/1185122
+        info: https://zenodo.org/record/6457007
         src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461178_1.fastqsanger
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461177_1_subsampled.fastqsanger
       - ext: fastqsanger
-        info: https://zenodo.org/record/1185122
+        info: https://zenodo.org/record/6457007
         src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461178_2.fastqsanger
-      - ext: tabular
-        info: https://zenodo.org/record/1185122
-        src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461178_untreat_paired.counts
-      - ext: tabular
-        info: https://zenodo.org/record/1185122
-        src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461178_untreat_paired.exon.counts
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461177_2.fastqsanger
       - ext: fastqsanger
-        info: https://zenodo.org/record/1185122
+        info: https://zenodo.org/record/6457007
         src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461179.fastqsanger
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461177_2_subsampled.fastqsanger
       - ext: tabular
-        info: https://zenodo.org/record/1185122
+        info: https://zenodo.org/record/6457007
         src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461179_treat_single.counts
-      - ext: tabular
-        info: https://zenodo.org/record/1185122
-        src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461179_treat_single.exon.counts
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461177_untreat_paired_featureCounts.counts
       - ext: fastqsanger
-        info: https://zenodo.org/record/1185122
+        info: https://zenodo.org/record/6457007
         src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461180_1.fastqsanger
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461178_1.fastqsanger
       - ext: fastqsanger
-        info: https://zenodo.org/record/1185122
+        info: https://zenodo.org/record/6457007
         src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461180_2.fastqsanger
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461178_2.fastqsanger
       - ext: tabular
-        info: https://zenodo.org/record/1185122
+        info: https://zenodo.org/record/6457007
         src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461180_treat_paired.counts
-      - ext: tabular
-        info: https://zenodo.org/record/1185122
-        src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461180_treat_paired.exon.counts
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461178_untreat_paired_featureCounts.counts
       - ext: fastqsanger
-        info: https://zenodo.org/record/1185122
+        info: https://zenodo.org/record/6457007
         src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461181_1.fastqsanger
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461179.fastqsanger
+      - ext: tabular
+        info: https://zenodo.org/record/6457007
+        src: url
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461179_treat_single_featureCounts.counts
       - ext: fastqsanger
-        info: https://zenodo.org/record/1185122
+        info: https://zenodo.org/record/6457007
         src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461181_2.fastqsanger
-      - ext: tabular
-        info: https://zenodo.org/record/1185122
-        src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461181_treat_paired.counts
-      - ext: tabular
-        info: https://zenodo.org/record/1185122
-        src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461181_treat_paired.exon.counts
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461180_1.fastqsanger
       - ext: fastqsanger
-        info: https://zenodo.org/record/1185122
+        info: https://zenodo.org/record/6457007
         src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461182.fastqsanger
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461180_1_subsampled.fastqsanger
+      - ext: fastqsanger
+        info: https://zenodo.org/record/6457007
+        src: url
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461180_2.fastqsanger
+      - ext: fastqsanger
+        info: https://zenodo.org/record/6457007
+        src: url
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461180_2_subsampled.fastqsanger
       - ext: tabular
-        info: https://zenodo.org/record/1185122
+        info: https://zenodo.org/record/6457007
         src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461182_untreat_single.counts
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461180_treat_paired_featureCounts.counts
+      - ext: fastqsanger
+        info: https://zenodo.org/record/6457007
+        src: url
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461181_1.fastqsanger
+      - ext: fastqsanger
+        info: https://zenodo.org/record/6457007
+        src: url
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461181_2.fastqsanger
       - ext: tabular
-        info: https://zenodo.org/record/1185122
+        info: https://zenodo.org/record/6457007
         src: url
-        url: https://zenodo.org/api/files/1d804082-4153-47f1-a320-4ac261ce091d/GSM461182_untreat_single.exon.counts
-      name: 'DOI: 10.5281/zenodo.1185122'
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461181_treat_paired_featureCounts.counts
+      - ext: fastqsanger
+        info: https://zenodo.org/record/6457007
+        src: url
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461182.fastqsanger
+      - ext: tabular
+        info: https://zenodo.org/record/6457007
+        src: url
+        url: https://zenodo.org/api/files/ed51565b-3e53-4636-8410-2adf4414a36e/GSM461182_untreat_single_featureCounts.counts
+      name: 'DOI: 10.5281/zenodo.6457007'
     name: Reference-based RNA-Seq data analysis
   - items:
     - description: latest
@@ -3818,11 +3802,11 @@ items:
   - items:
     - description: latest
       items:
-      - ext: tsv
+      - ext: tabular
         info: https://zenodo.org/record/1468039#.W8zyxBRoSAo
         src: url
         url: https://zenodo.org/api/files/0d468136-5025-4c0f-bf8b-a8277a513a93/breast-w_test.tsv
-      - ext: tsv
+      - ext: tabular
         info: https://zenodo.org/record/1468039#.W8zyxBRoSAo
         src: url
         url: https://zenodo.org/api/files/0d468136-5025-4c0f-bf8b-a8277a513a93/breast-w_train.tsv
