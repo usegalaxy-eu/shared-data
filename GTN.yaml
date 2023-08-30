@@ -4363,6 +4363,16 @@ items:
     - description: latest
       items:
       - ext: h5ad
+        info: https://doi.org/10.5281/zenodo.4624461
+        src: url
+        url: https://zenodo.org/api/files/7dc49f8f-137e-49e3-8eec-1e78cb9d7612/Mito-counted_AnnData
+      name: 'DOI: 10.5281/zenodo.4624461'
+    name: "Filtrado, representaci\xF3n y exploraci\xF3n de secuenciaci\xF3n de ARN\
+      \ de c\xE9lulas \xFAnicas"
+  - items:
+    - description: latest
+      items:
+      - ext: h5ad
         info: https://doi.org/10.5281/zenodo.7075718
         src: url
         url: https://zenodo.org/api/files/4d8b712c-a2d3-4d91-9235-83a913f87936/Final_cell_annotated_object.h5ad
@@ -4430,16 +4440,6 @@ items:
       name: 'DOI: 10.5281/zenodo.4574153'
     name: "Generaci\xF3n de una matriz de datos de secuenciaci\xF3n de ARN de c\xE9\
       lulas \xFAnicas utilizando Alevin"
-  - items:
-    - description: latest
-      items:
-      - ext: h5ad
-        info: https://doi.org/10.5281/zenodo.4624461
-        src: url
-        url: https://zenodo.org/api/files/7dc49f8f-137e-49e3-8eec-1e78cb9d7612/Mito-counted_AnnData
-      name: 'DOI: 10.5281/zenodo.4624461'
-    name: "Filtrado, representaci\xF3n y exploraci\xF3n de secuenciaci\xF3n de ARN\
-      \ de c\xE9lulas \xFAnicas"
   - items:
     - description: latest
       items:
