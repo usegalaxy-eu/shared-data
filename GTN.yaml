@@ -1397,6 +1397,8 @@ items:
   - items: []
     name: Sentinel 2 workflow
   - items: []
+    name: 'Clean and manage Sanger sequences from raw files to aligned consensus '
+  - items: []
     name: 'Trajectory Analysis: Monocle3 in RStudio'
   name: New topic
 - description: These lessons will help you get your feet in data science and give
