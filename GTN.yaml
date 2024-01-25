@@ -1324,6 +1324,9 @@ items:
   - items: []
     name: Protein target prediction of a bioactive ligand with Align-it and ePharmaLib
   - items: []
+    name: Creating Quality FAIR assessment reports and draft of Data Papers from EML
+      metadata with MetaShRIMPS
+  - items: []
     name: Metabarcoding/eDNA through Obitools
   - items: []
     name: Biodiversity data exploration
@@ -3040,6 +3043,26 @@ items:
       name: 10.5281/zenodo.5090049
     name: How to reproduce published Galaxy analyses
   name: Introduction to Galaxy Analyses
+- description: Modelling, simulation and analysis for the material science domain.
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: cell
+        info: https://zenodo.org/record/6344385
+        src: url
+        url: https://zenodo.org/record/6344385/files/Si.cell
+      - ext: castep
+        info: https://zenodo.org/record/6344385
+        src: url
+        url: https://zenodo.org/record/6344385/files/Si.castep
+      - ext: den_fmt
+        info: https://zenodo.org/record/6344385
+        src: url
+        url: https://zenodo.org/record/6344385/files/Si.den_fmt
+      name: 'DOI: 10.5281/zenodo.6344385'
+    name: Finding muon stopping sites using the UEP and AIRSS methods
+  name: Materials Science
 - description: 'Training material to analyse Mass spectrometry data in Galaxy: Metabolomics
     (LCMS, FIAMS, GCMS, NMR) and imaging.'
   items:
