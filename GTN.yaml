@@ -185,35 +185,35 @@ items:
     - description: latest
       items:
       - ext: fastqsanger.bz2
-        info: https://doi.org/10.5281/zenodo.4534098
+        info: https://doi.org/10.5281/zenodo.10669812
         src: url
         url: https://zenodo.org/api/files/52e04e0d-851d-42ff-8dd9-932b38cb8ca8/DRR187559_1.fastqsanger.bz2
       - ext: fastqsanger.bz2
-        info: https://doi.org/10.5281/zenodo.4534098
+        info: https://doi.org/10.5281/zenodo.10669812
         src: url
         url: https://zenodo.org/api/files/52e04e0d-851d-42ff-8dd9-932b38cb8ca8/DRR187559_2.fastqsanger.bz2
       - ext: fastq.bz2
-        info: https://doi.org/10.5281/zenodo.4534098
+        info: https://doi.org/10.5281/zenodo.10669812
         src: url
         url: https://zenodo.org/api/files/52e04e0d-851d-42ff-8dd9-932b38cb8ca8/DRR187567.fastq.bz2
-      name: 'DOI: 10.5281/zenodo.4534098'
+      name: 'DOI: 10.5281/zenodo.10669812'
     name: Genome Assembly of MRSA using Illumina MiSeq Data
   - items:
     - description: latest
       items:
       - ext: fastqsanger.bz2
-        info: https://doi.org/10.5281/zenodo.4534098
+        info: https://doi.org/10.5281/zenodo.10669812
         src: url
         url: https://zenodo.org/api/files/52e04e0d-851d-42ff-8dd9-932b38cb8ca8/DRR187559_1.fastqsanger.bz2
       - ext: fastqsanger.bz2
-        info: https://doi.org/10.5281/zenodo.4534098
+        info: https://doi.org/10.5281/zenodo.10669812
         src: url
         url: https://zenodo.org/api/files/52e04e0d-851d-42ff-8dd9-932b38cb8ca8/DRR187559_2.fastqsanger.bz2
       - ext: fastq.bz2
-        info: https://doi.org/10.5281/zenodo.4534098
+        info: https://doi.org/10.5281/zenodo.10669812
         src: url
         url: https://zenodo.org/api/files/52e04e0d-851d-42ff-8dd9-932b38cb8ca8/DRR187567.fastq.bz2
-      name: 'DOI: 10.5281/zenodo.4534098'
+      name: 'DOI: 10.5281/zenodo.10669812'
     name: Genome Assembly of MRSA using Oxford Nanopore MinION Data
   - items:
     - description: latest
@@ -1689,6 +1689,19 @@ items:
         url: https://zenodo.org/api/files/debdbbfd-4739-4f2d-bb79-814ac032c8b5/Muco_library_RM2.fasta
       name: 'DOI: 10.5281/zenodo.7085837'
     name: Repeat masking with RepeatMasker
+  - items:
+    - description: latest
+      items:
+      - ext: auto
+        info: https://zenodo.org/records/10652998
+        src: url
+        url: https://zenodo.org/api/records/10652998/files/MIBiG_compounds_3.0.sdf/content
+      - ext: auto
+        info: https://zenodo.org/records/10652998
+        src: url
+        url: https://zenodo.org/api/records/10652998/files/gbk2features.ipynb/content
+      name: 'DOI: 10.5281/zenodo.10652998'
+    name: Secondary metabolite discovery
   - items:
     - description: latest
       items:
