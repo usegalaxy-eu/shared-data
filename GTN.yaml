@@ -1324,6 +1324,9 @@ items:
   - items: []
     name: Protein target prediction of a bioactive ligand with Align-it and ePharmaLib
   - items: []
+    name: Creating metadata using Ecological Metadata Language (EML) standard with
+      EML Assembly Line functionalities
+  - items: []
     name: Creating Quality FAIR assessment reports and draft of Data Papers from EML
       metadata with MetaShRIMPS
   - items: []
