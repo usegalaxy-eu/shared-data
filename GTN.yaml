@@ -2939,7 +2939,7 @@ items:
       - ext: gff3
         info: https://zenodo.org/record/7107050
         src: url
-        url: hhttps://zenodo.org/api/files/0f8d27c5-8c8d-4379-90c4-c3cd950de391/genome_annotation.gff3
+        url: https://zenodo.org/api/files/0f8d27c5-8c8d-4379-90c4-c3cd950de391/genome_annotation.gff3
       - ext: bam
         info: https://zenodo.org/record/7107050
         src: url
@@ -6581,7 +6581,7 @@ items:
     - ext: genbank
       info: https://doi.org/10.5281/zenodo.3960260
       src: url
-      url: https://zenodo.org/record/https://zenodo.org/record/3960260/files/Mycobacterium_tuberculosis_ancestral_reference.gbk/files/Mycobacterium_tuberculosis_ancestral_reference.gbk
+      url: https://zenodo.org/record/3960260/files/Mycobacterium_tuberculosis_ancestral_reference.gbk
     - ext: fasta
       info: https://doi.org/10.5281/zenodo.3960260
       src: url
