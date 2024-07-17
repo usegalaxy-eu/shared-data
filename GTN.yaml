@@ -5156,6 +5156,24 @@ items:
   - items:
     - description: latest
       items:
+      - ext: fastqsanger.bz2
+        info: https://doi.org/10.5281/zenodo.10669812
+        src: url
+        url: https://zenodo.org/records/10669812/files/DRR187559_1.fastqsanger.bz
+      - ext: fastqsanger.bz2
+        info: https://doi.org/10.5281/zenodo.10669812
+        src: url
+        url: https://zenodo.org/records/10669812/files/DRR187559_2.fastqsanger.bz
+      - ext: fastq.bz2
+        info: https://doi.org/10.5281/zenodo.10669812
+        src: url
+        url: https://zenodo.org/records/10669812/files/DRR187567.fastq.bz
+      name: 'DOI: 10.5281/zenodo.10669812'
+    name: Quality and contamination control in bacterial isolate using Illumina MiSeq
+      Data
+  - items:
+    - description: latest
+      items:
       - ext: tabular
         info: https://doi.org/10.5281/zenodo.61771
         src: url
@@ -5832,6 +5850,27 @@ items:
         url: https://zenodo.org/api/files/d554c6c9-a28d-47bc-96be-5e34bd58266d/atac_pbmc_1k_uniq_peaks.h5ad
       name: 'DOI: 10.5281/zenodo.7855968'
     name: Pre-processing of 10X Single-Cell ATAC Datasets
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
+        info: https://zenodo.org/records/12707159
+        src: url
+        url: https://zenodo.org/api/records/12707159/files/atac_pbmc_5k_nextgem_fragments.tsv.gz
+      - ext: gtf
+        info: https://zenodo.org/records/12707159
+        src: url
+        url: https://zenodo.org/api/records/12707159/files/gencode.v46.annotation.gtf.gz
+      - ext: txt
+        info: https://zenodo.org/records/12707159
+        src: url
+        url: https://zenodo.org/api/records/12707159/files/chrom_sizes.txt
+      - ext: bam
+        info: https://zenodo.org/records/12707159
+        src: url
+        url: https://zenodo.org/api/records/12707159/files/BAM_500-PBMC.bam
+      name: 'DOI: 10.5281/zenodo.12707159'
+    name: Single-cell ATAC-seq standard processing with SnapATAC2
   name: Single-cell
 - description: Training material for all kinds of transcriptomics analysis.
   items:
