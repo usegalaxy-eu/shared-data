@@ -609,6 +609,19 @@ items:
     - description: latest
       items:
       - ext: tsv
+        info: https://doi.org/10.5281/zenodo.13150693
+        src: url
+        url: https://zenodo.org/records/13150694/files/JC1A_Estimate_Abundance_at_Species_Level.tsv
+      - ext: tsv
+        info: https://doi.org/10.5281/zenodo.13150693
+        src: url
+        url: https://zenodo.org/records/13150694/files/JP4D_Estimate_Abundance_at_Species_Level.tsv
+      name: 'DOI: 10.5281/zenodo.13150693'
+    name: "Calculating \u03B1 and \u03B2 diversity from microbiome taxonomic data"
+  - items:
+    - description: latest
+      items:
+      - ext: tsv
         info: https://doi.org/10.5281/zenodo.815875
         src: url
         url: https://zenodo.org/api/files/0e062e89-e6ce-463b-a8cb-0151e5aabc69/humann2_gene_families_abundance.tsv
@@ -7688,9 +7701,87 @@ items:
     name: Designing plasmids encoding predicted pathways by using the BASIC assembly
       method
   name: Title of the topic
-- description: Exome sequencing means that all protein-coding genes in a genome are
-    sequenced
+- description: 'Genetic differences (variants) between healthy and diseased tissue,
+
+    between individuals of a population, or between strains of an organism
+
+    can provide mechanistic insight into disease processes and the natural
+
+    function of affected genes.
+
+
+    The tutorials in this section show how to detect evidence for
+
+    genetic variants in next-generation sequencing data, a process termed
+
+    variant calling.
+
+
+    Of equal importance, they also demonstrate how you can interpret, for
+
+    a range of different organisms, the resulting sets of variants by
+
+    predicting their molecular effects on genes and proteins, by
+
+    annotating previously observed variants with published knowledge, and
+
+    by trying to link phenotypes of the sequenced samples to their variant
+
+    genotypes.
+
+    '
   items:
+  - items:
+    - description: latest
+      items:
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.10658688
+        src: url
+        url: https://zenodo.org/record/10658688/files/igsr-1000-genomes-30x-on-grch38.tsv
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.10658688
+        src: url
+        url: https://zenodo.org/record/10658688/files/vcf2json.py
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.10658688
+        src: url
+        url: https://zenodo.org/record/10658688/files/phenopacket.py
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.10658688
+        src: url
+        url: https://zenodo.org/record/10658688/files/phenopacket.json
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.10658688
+        src: url
+        url: https://zenodo.org/record/10658688/files/HG00096.json
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.10658688
+        src: url
+        url: https://zenodo.org/record/10658688/files/HG00096.cnv.vcf
+      name: 'DOI: 10.5281/zenodo.10658688'
+    name: Querying a Beacon Database for Copy Number Variants (CNVs)
+  - items:
+    - description: latest
+      items:
+      - ext: vcf
+        info: https://zenodo.org/record/10658688
+        src: url
+        url: https://zenodo.org/record/10658688/files/HG00096.cnv.vcf
+      - ext: json
+        info: https://zenodo.org/record/10658688
+        src: url
+        url: https://zenodo.org/record/10658688/files/HG00096.json
+      - ext: tsv
+        info: https://zenodo.org/record/10658688
+        src: url
+        url: https://zenodo.org/record/10658688/files/igsr-1000-genomes-30x-on-grch38.tsv
+      - ext: json
+        info: https://zenodo.org/record/10658688
+        src: url
+        url: https://zenodo.org/record/10658688/files/phenopacket.json
+      name: 'DOI: 10.5281/zenodo.10658688'
+    name: Working with Beacon V2; A Comprehensive Guide to Creating, Uploading, and
+      Searching for Variants with Beacon tools
   - items:
     - description: latest
       items:
