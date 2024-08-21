@@ -3438,6 +3438,15 @@ items:
     - description: latest
       items:
       - ext: fasta
+        info: https://zenodo.org/record/7867921
+        src: url
+        url: https://zenodo.org/api/files/47406781-e8af-42e7-855d-d29e4a098f6f/genome_masked.fasta
+      name: 'DOI: 10.5281/zenodo.7867921'
+    name: Genome annotation with Helixer
+  - items:
+    - description: latest
+      items:
+      - ext: fasta
         info: https://doi.org/10.5281/zenodo.4485547
         src: url
         url: https://zenodo.org/api/files/662af399-04fe-4431-ba15-396b27b78c2a/aegilops_tauschii_chr1.fasta
