@@ -4,6 +4,38 @@ destination:
   synopsis: Galaxy Training Network Material. See https://training.galaxyproject.org
   type: library
 items:
+- description: Topic summary
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.13367433
+        src: url
+        url: https://zenodo.org/records/13367433/files/Contaminated_assembly.fasta
+      name: 'DOI: 10.5281/zenodo.13367433'
+    name: Decontamination of a genome assembly
+  - items: []
+    name: Protein target prediction of a bioactive ligand with Align-it and ePharmaLib
+  - items: []
+    name: Creating metadata using Ecological Metadata Language (EML) standard with
+      EML Assembly Line functionalities
+  - items: []
+    name: Creating Quality FAIR assessment reports and draft of Data Papers from EML
+      metadata with MetaShRIMPS
+  - items: []
+    name: Metabarcoding/eDNA through Obitools
+  - items: []
+    name: Biodiversity data exploration
+  - items: []
+    name: Champs blocs indicators
+  - items: []
+    name: Sentinel 2 workflow
+  - items: []
+    name: 'Clean and manage Sanger sequences from raw files to aligned consensus '
+  - items: []
+    name: 'Trajectory Analysis: Monocle3 in RStudio'
+  name: New topic
 - description: DNA sequence data has become an indispensable tool for Molecular Biology
     & Evolutionary Biology. Study in these fields now require a genome sequence to
     work from. We call this a 'Reference Sequence.' We need to build a reference for
@@ -181,6 +213,15 @@ items:
         url: https://zenodo.org/record/7055935/files/Ref_genome_Arabidopsis.fasta
       name: 'DOI: 10.5281/zenodo.7055935'
     name: Large genome assembly and polishing
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.13345315
+        src: url
+        url: https://zenodo.org/record/13345315/files/PacBio_reads.fastqsanger.gz
+      name: 'DOI: 10.5281/zenodo.13345315'
+    name: Assembly of the mitochondrial genome from PacBio HiFi reads
   - items:
     - description: latest
       items:
@@ -1622,29 +1663,6 @@ items:
       name: 'DOI: 10.5281/zenodo.2598415'
     name: GROMACS MD simulation
   name: Running molecular dynamics simulations using GROMACS
-- description: Topic summary
-  items:
-  - items: []
-    name: Protein target prediction of a bioactive ligand with Align-it and ePharmaLib
-  - items: []
-    name: Creating metadata using Ecological Metadata Language (EML) standard with
-      EML Assembly Line functionalities
-  - items: []
-    name: Creating Quality FAIR assessment reports and draft of Data Papers from EML
-      metadata with MetaShRIMPS
-  - items: []
-    name: Metabarcoding/eDNA through Obitools
-  - items: []
-    name: Biodiversity data exploration
-  - items: []
-    name: Champs blocs indicators
-  - items: []
-    name: Sentinel 2 workflow
-  - items: []
-    name: 'Clean and manage Sanger sequences from raw files to aligned consensus '
-  - items: []
-    name: 'Trajectory Analysis: Monocle3 in RStudio'
-  name: New topic
 - description: These lessons will help you get your feet in data science and give
     you tools to help you slice and dice your data into results.
   items:
@@ -4470,59 +4488,6 @@ items:
         url: https://zenodo.org/record/10105821/files/PTRC_Skubitz_Plex2_F13_9Aug19_Rage_Rep-19-06-08.raw
       name: 'DOI: 10.5281/zenodo.10105821'
     name: Clinical-MP-5-Data Interpretation
-  - items:
-    - description: latest
-      items:
-      - ext: thermo.raw
-        info: https://doi.org/10.5281/zenodo.4926594
-        src: url
-        url: https://zenodo.org/api/files/aebab6d1-0d45-4430-98b8-a7ccbd3b572f/Experimental_DIA_Dataset_Collection__191023JAT03_1_Mix_2_1ug_pOT_30k_390_1010_12%20.raw.raw
-      - ext: thermo.raw
-        info: https://doi.org/10.5281/zenodo.4926594
-        src: url
-        url: https://zenodo.org/api/files/aebab6d1-0d45-4430-98b8-a7ccbd3b572f/Experimental_DIA_Dataset_Collection__191023JAT10_2_Mix_4_1ug_pOT_30k_390_1010_12%20.raw.raw
-      - ext: thermo.raw
-        info: https://doi.org/10.5281/zenodo.4926594
-        src: url
-        url: https://zenodo.org/api/files/aebab6d1-0d45-4430-98b8-a7ccbd3b572f/Experimental_DIA_Dataset_Collection__191023JAT11_3_Mix_1_1ug_pOT_30k_390_1010_12%20.raw.raw
-      - ext: thermo.raw
-        info: https://doi.org/10.5281/zenodo.4926594
-        src: url
-        url: https://zenodo.org/api/files/aebab6d1-0d45-4430-98b8-a7ccbd3b572f/Experimental_DIA_Dataset_Collection__191023JAT12_4_Mix_3_1ug_pOT_30k_390_1010_12%20.raw.raw
-      - ext: thermo.raw
-        info: https://doi.org/10.5281/zenodo.4926594
-        src: url
-        url: https://zenodo.org/api/files/aebab6d1-0d45-4430-98b8-a7ccbd3b572f/GPF_DIA_Dataset_Collection__191023JAT04_P_1ug_395_505_4%20.raw.raw
-      - ext: thermo.raw
-        info: https://doi.org/10.5281/zenodo.4926594
-        src: url
-        url: https://zenodo.org/api/files/aebab6d1-0d45-4430-98b8-a7ccbd3b572f/GPF_DIA_Dataset_Collection__191023JAT05_P_1ug_495_605_4%20.raw.raw
-      - ext: thermo.raw
-        info: https://doi.org/10.5281/zenodo.4926594
-        src: url
-        url: https://zenodo.org/api/files/aebab6d1-0d45-4430-98b8-a7ccbd3b572f/GPF_DIA_Dataset_Collection__191023JAT06_P_1ug_595_705_4%20.raw.raw
-      - ext: thermo.raw
-        info: https://doi.org/10.5281/zenodo.4926594
-        src: url
-        url: https://zenodo.org/api/files/aebab6d1-0d45-4430-98b8-a7ccbd3b572f/GPF_DIA_Dataset_Collection__191023JAT07_P_1ug_695_805_4%20.raw.raw
-      - ext: thermo.raw
-        info: https://doi.org/10.5281/zenodo.4926594
-        src: url
-        url: https://zenodo.org/api/files/aebab6d1-0d45-4430-98b8-a7ccbd3b572f/GPF_DIA_Dataset_Collection__191023JAT08_P_1ug_795_905_4%20.raw.raw
-      - ext: thermo.raw
-        info: https://doi.org/10.5281/zenodo.4926594
-        src: url
-        url: https://zenodo.org/api/files/aebab6d1-0d45-4430-98b8-a7ccbd3b572f/GPF_DIA_Dataset_Collection__191023JAT09_P_1ug_895_1005_4%20.raw.raw
-      - ext: fasta
-        info: https://doi.org/10.5281/zenodo.4926594
-        src: url
-        url: https://zenodo.org/api/files/aebab6d1-0d45-4430-98b8-a7ccbd3b572f/T4_Salmonella_Ecoli_Bacillus_BS_191102.fasta
-      - ext: dlib
-        info: https://doi.org/10.5281/zenodo.4926594
-        src: url
-        url: https://zenodo.org/api/files/aebab6d1-0d45-4430-98b8-a7ccbd3b572f/T4_Salmonella_Ecoli_Bacillus_fasta_trypsin_z2_nce33_BS_191102.dlib
-      name: 'DOI: 10.5281/zenodo.4926594'
-    name: EncyclopeDIA
   - items:
     - description: latest
       items:
