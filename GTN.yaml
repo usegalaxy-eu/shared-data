@@ -33,6 +33,31 @@ items:
     name: Sentinel 2 workflow
   - items: []
     name: 'Clean and manage Sanger sequences from raw files to aligned consensus '
+  - items:
+    - description: latest
+      items:
+      - ext: obo
+        info: https://zenodo.org/records/13461890
+        src: url
+        url: https://zenodo.org/api/records/13461890/files/Galaxy3-[GO].obo
+      - ext: tabular
+        info: https://zenodo.org/records/13461890
+        src: url
+        url: https://zenodo.org/api/records/13461890/files/Galaxy2-[GO_annotations_Mus_musculus].tabular
+      - ext: tabular
+        info: https://zenodo.org/records/13461890
+        src: url
+        url: https://zenodo.org/api/records/13461890/files/Galaxy5-[Markers_-_clusters].tabular
+      - ext: tabular
+        info: https://zenodo.org/records/13461890
+        src: url
+        url: https://zenodo.org/api/records/13461890/files/Galaxy4-[Background_gene_set].tabular
+      - ext: tabular
+        info: https://zenodo.org/records/13461890
+        src: url
+        url: https://zenodo.org/api/records/13461890/files/Galaxy1-[Markers_-_genotype_].tabular
+      name: 'DOI: 10.5281/zenodo.13461890'
+    name: GO Enrichment Analysis on Single-Cell RNA-Seq Data
   - items: []
     name: 'Trajectory Analysis: Monocle3 in RStudio'
   name: New topic
@@ -4488,6 +4513,123 @@ items:
         url: https://zenodo.org/record/10105821/files/PTRC_Skubitz_Plex2_F13_9Aug19_Rage_Rep-19-06-08.raw
       name: 'DOI: 10.5281/zenodo.10105821'
     name: Clinical-MP-5-Data Interpretation
+  - items:
+    - description: latest
+      items:
+      - ext: thermo.raw
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT05_P_1ug_495_605_4_20.raw
+      - ext: mzml
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT04_P_1ug_395_505_4_20.raw.mzml
+      - ext: mzml
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT05_P_1ug_495_605_4_20.raw.mzml
+      - ext: thermo.raw
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT06_P_1ug_595_705_4_20.raw
+      - ext: mzml
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT06_P_1ug_595_705_4_20.raw.mzml
+      - ext: thermo.raw
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT07_P_1ug_695_805_4_20.raw
+      - ext: mzml
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT07_P_1ug_695_805_4_20.raw.mzml
+      - ext: mzml
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT08_P_1ug_795_905_4_20.raw.mzml
+      - ext: thermo.raw
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT09_P_1ug_895_1005_4_20.raw
+      - ext: thermo.raw
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT08_P_1ug_795_905_4_20.raw
+      - ext: fasta
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/BACKGROUND PROTEIN FASTA FILE.fasta
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/PROTEIN QUANTITATION OUTPUT.tabular
+      - ext: elib
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/CHROMATOGRAM LIBRARY.elib
+      - ext: elib
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/QUANT LIBRARY.elib
+      - ext: txt
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/LOG.txt
+      - ext: mzml
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT09_P_1ug_895_1005_4_20.raw.mzml
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/PEPTIDE QUANTITATION OUTPUT.tabular
+      - ext: dlib
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/SPECTRAL OR PROSIT LIBRARY.dlib
+      - ext: tabular
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/Quant-LOG.txt
+      - ext: mzml
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT10_2_Mix_4_1ug_pOT_30k_390_1010_12_20.raw.mzml
+      - ext: thermo.raw
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT04_P_1ug_395_505_4_20.raw
+      - ext: thermo.raw
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT03_1_Mix_2_1ug_pOT_30k_390_1010_12_20.raw
+      - ext: thermo.raw
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT11_3_Mix_1_1ug_pOT_30k_390_1010_12_20.raw
+      - ext: mzml
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT03_1_Mix_2_1ug_pOT_30k_390_1010_12_20.raw.mzml
+      - ext: thermo.raw
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT10_2_Mix_4_1ug_pOT_30k_390_1010_12_20.raw
+      - ext: mzml
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT11_3_Mix_1_1ug_pOT_30k_390_1010_12_20.raw.mzml
+      - ext: thermo.raw
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT12_4_Mix_3_1ug_pOT_30k_390_1010_12_20.raw
+      - ext: mzml
+        info: https://doi.org/10.5281/zenodo.13505774
+        src: url
+        url: https://zenodo.org/record/13505774/files/191023JAT12_4_Mix_3_1ug_pOT_30k_390_1010_12_20.raw.mzml
+      name: 'DOI: 10.5281/zenodo.13505774'
+    name: EncyclopeDIA
   - items:
     - description: latest
       items:
