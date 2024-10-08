@@ -3826,6 +3826,40 @@ items:
       name: 'DOI: 10.5281/zenodo.2628280'
     name: 'Mass spectrometry imaging: Finding differential analytes'
   name: Metabolomics
+- description: Summary of the topic
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: auto
+        info: https://zenodo.org/records/11501975
+        src: url
+        url: https://zenodo.org/api/records/11501975/files/molecules_input.sdf/content
+      name: 'DOI: 10.5281/zenodo.11501975'
+    name: Predicting EI+ mass spectra with QCxMS
+  - items:
+    - description: latest
+      items:
+      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
+        info: https://zenodo.org/record/6123887#.YhTCPhvjJH4
+        src: url
+        url: https://zenodo.org/api/files/f58fe126-0ca2-4ca5-bc4b-0063f3a8951c/dnabot_london_settings.yaml
+      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
+        info: https://zenodo.org/record/6123887#.YhTCPhvjJH4
+        src: url
+        url: https://zenodo.org/api/files/f58fe126-0ca2-4ca5-bc4b-0063f3a8951c/dnabot_paris_settings.yaml
+      - ext: csv
+        info: https://zenodo.org/record/6123887#.YhTCPhvjJH4
+        src: url
+        url: https://zenodo.org/api/files/f58fe126-0ca2-4ca5-bc4b-0063f3a8951c/parts_for_lycopene.csv
+      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
+        info: https://zenodo.org/record/6123887#.YhTCPhvjJH4
+        src: url
+        url: https://zenodo.org/api/files/f58fe126-0ca2-4ca5-bc4b-0063f3a8951c/rp_002_0011.xml
+      name: 'DOI: 10.5281/zenodo.6123887#.YhTCPhvjJH4'
+    name: Designing plasmids encoding predicted pathways by using the BASIC assembly
+      method
+  name: Title of the topic
 - description: Training material for all kinds of Nanopore metagenomics analysis.
   items:
   - items:
@@ -7792,31 +7826,6 @@ items:
       name: 'DOI: 10.5281/zenodo.4638516'
     name: Text-mining with the SimText toolset
   name: Statistics and machine learning
-- description: Summary of the topic
-  items:
-  - items:
-    - description: latest
-      items:
-      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
-        info: https://zenodo.org/record/6123887#.YhTCPhvjJH4
-        src: url
-        url: https://zenodo.org/api/files/f58fe126-0ca2-4ca5-bc4b-0063f3a8951c/dnabot_london_settings.yaml
-      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
-        info: https://zenodo.org/record/6123887#.YhTCPhvjJH4
-        src: url
-        url: https://zenodo.org/api/files/f58fe126-0ca2-4ca5-bc4b-0063f3a8951c/dnabot_paris_settings.yaml
-      - ext: csv
-        info: https://zenodo.org/record/6123887#.YhTCPhvjJH4
-        src: url
-        url: https://zenodo.org/api/files/f58fe126-0ca2-4ca5-bc4b-0063f3a8951c/parts_for_lycopene.csv
-      - ext: '# Please add a Galaxy datatype or update the shared/datatypes.yaml file'
-        info: https://zenodo.org/record/6123887#.YhTCPhvjJH4
-        src: url
-        url: https://zenodo.org/api/files/f58fe126-0ca2-4ca5-bc4b-0063f3a8951c/rp_002_0011.xml
-      name: 'DOI: 10.5281/zenodo.6123887#.YhTCPhvjJH4'
-    name: Designing plasmids encoding predicted pathways by using the BASIC assembly
-      method
-  name: Title of the topic
 - description: "The beacon2 toolkit interacts with the beacon2 database collections\
     \ to search for the records \nthat match the search terms. The toolkit has a list\
     \ of subcommands to query several types of data \nand metadata collections for\
