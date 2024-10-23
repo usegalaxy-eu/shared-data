@@ -1688,6 +1688,25 @@ items:
       name: 'DOI: 10.5281/zenodo.2598415'
     name: GROMACS MD simulation
   name: Running molecular dynamics simulations using GROMACS
+- description: 'Galaxy is a great solution to train the bioinformatics concepts: numerous
+    bioinformatics tools are available (more than 7,000 in the ToolShed), it can be
+    used by people without any computer science skills, it trains to use technology,
+    outlining available resources and efforts that have made them accessible to researchers,
+    it is scalable.<br> In 2016, the Galaxy Training Network decided to set up a new
+    infrastructure for delivering easily Galaxy related training material. The idea
+    was to develop something open and online based on a community effort, as always
+    in Galaxy.'
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.11548062
+        src: url
+        url: https://zenodo.org/record/11548062/files/microlearning.zip
+      name: 'DOI: 10.5281/zenodo.11548062'
+    name: FAIR-by-Design methodology
+  name: Contributing to the Galaxy Training Material
 - description: These lessons will help you get your feet in data science and give
     you tools to help you slice and dice your data into results.
   items:
@@ -3125,6 +3144,19 @@ items:
     name: 'Identifying tuberculosis transmission links: from SNPs to transmission
       clusters'
   name: Evolution
+- description: These lessons will teach you how to make your research objects more
+    FAIR with practical, hands-on advice.
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.13970369
+        src: url
+        url: https://zenodo.org/record/13970369/files/GTN_ARC_tutorial_data.zip
+      name: 'DOI: 10.5281/zenodo.13970369'
+    name: DataPLANT ARCs
+  name: FAIR Data, Workflows, and Research
 - description: A collection of microtutorials explaining various features of the Galaxy
     user interface and manipulating data within Galaxy.
   items:
