@@ -7741,6 +7741,7 @@ items:
         url: https://zenodo.org/record/5702887/files/test_y_10.tsv
       name: 'DOI: 10.5281/zenodo.5702887'
     name: Image classification of fruit 360 dataset using convolutional neural networks
+  - name: Image classification of MNIST dataset using convolutional neural networks
   - items:
     - description: latest
       items:
