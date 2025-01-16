@@ -4999,6 +4999,197 @@ items:
   - items:
     - description: latest
       items:
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14365542
+        src: url
+        url: https://zenodo.org/record/14365542/files/human_reference_genome.fasta
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.14365542
+        src: url
+        url: https://zenodo.org/record/14365542/files/RNA-Seq_Reads_1.fastqsanger.gz
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14365542
+        src: url
+        url: https://zenodo.org/record/14365542/files/human_reference_genome_annotation.gtf
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.14365542
+        src: url
+        url: https://zenodo.org/record/14365542/files/RNA-Seq_Reads_2.fastqsanger.gz
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14365542
+        src: url
+        url: https://zenodo.org/record/14365542/files/Arriba-Fusion-Database.fasta
+      name: 'DOI: 10.5281/zenodo.14365542'
+    name: 'Neoantigen 1: Fusion-Database-Generation'
+  - items:
+    - description: latest
+      items:
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14372521
+        src: url
+        url: https://zenodo.org/record/14372521/files/Homo_sapiens.GRCh38_canon.106.gtf
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14372521
+        src: url
+        url: https://zenodo.org/record/14372521/files/HUMAN_CRAP.fasta
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.14372521
+        src: url
+        url: https://zenodo.org/record/14372521/files/RNA-Seq_Reads_1.fastqsanger.gz
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14372521
+        src: url
+        url: https://zenodo.org/record/14372521/files/GffCompare_Annotated_GTF_to_BED.bed
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.14372521
+        src: url
+        url: https://zenodo.org/record/14372521/files/RNA-Seq_Reads_2.fastqsanger.gz
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14372521
+        src: url
+        url: https://zenodo.org/record/14372521/files/Human_cRAP_Non_normal_transcripts_dB_generation.fasta
+      name: 'DOI: 10.5281/zenodo.14372521'
+    name: 'Neoantigen 2: Non-normal-Database-Generation'
+  - items:
+    - description: latest
+      items:
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14374118
+        src: url
+        url: https://zenodo.org/record/14374118/files/Arriba-Fusion-Database.fasta
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14374118
+        src: url
+        url: https://zenodo.org/record/14374118/files/STS_26T_2_Eclipse_02102024.raw
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14374118
+        src: url
+        url: https://zenodo.org/record/14374118/files/Human_cRAP_Non_normal_transcripts_dB.fasta
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14374118
+        src: url
+        url: https://zenodo.org/record/14374118/files/Experimental-Design-Fragpipe.tabular
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14374118
+        src: url
+        url: https://zenodo.org/record/14374118/files/Fragpipe-Peptide-Report.tabular
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14374118
+        src: url
+        url: https://zenodo.org/record/14374118/files/Neoantigen_Peptide_Candidates_for_PepQuery.tabular
+      name: 'DOI: 10.5281/zenodo.14374118'
+    name: 'Neoantigen 3: Database merge and FragPipe discovery'
+  - items:
+    - description: latest
+      items:
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14375467
+        src: url
+        url: https://zenodo.org/record/14375467/files/STS_26T_2_Eclipse_02102024.raw
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14375467
+        src: url
+        url: https://zenodo.org/record/14375467/files/Human-TaxID.txt
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14375467
+        src: url
+        url: https://zenodo.org/record/14375467/files/NeoAntigen-Candidates.tabular
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14375467
+        src: url
+        url: https://zenodo.org/record/14375467/files/Novel_Peptides_from_PepQuery.tabular
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14375467
+        src: url
+        url: https://zenodo.org/record/14375467/files/HUMAN_CRAP.fasta
+      name: 'DOI: 10.5281/zenodo.14375467'
+    name: 'Neoantigen 4: PepQuery2 Verification'
+  - items:
+    - description: latest
+      items:
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14375693
+        src: url
+        url: https://zenodo.org/record/14375693/files/Fragpipe-Peptide-Report.tabular
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14375693
+        src: url
+        url: https://zenodo.org/record/14375693/files/GffCompare_Annotated_GTF_to_BED.bed
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14375693
+        src: url
+        url: https://zenodo.org/record/14375693/files/Novel_Peptides_from_PepQuery.tabular
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14375693
+        src: url
+        url: https://zenodo.org/record/14375693/files/Neoantigen_summary.tabular
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14375693
+        src: url
+        url: https://zenodo.org/record/14375693/files/Homo_sapiens.GRCh38_canon.106.gtf
+      name: 'DOI: 10.5281/zenodo.14375693'
+    name: 'Neoantigen 5: Variant Annotation'
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.14375917
+        src: url
+        url: https://zenodo.org/record/14375917/files/RNA-Seq_Reads_2.fastqsanger.gz
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.14375917
+        src: url
+        url: https://zenodo.org/record/14375917/files/RNA-Seq_Reads_1.fastqsanger.gz
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14375917
+        src: url
+        url: https://zenodo.org/record/14375917/files/IEDB_seq2HLA_alleles.tabular
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14375917
+        src: url
+        url: https://zenodo.org/record/14375917/files/IEDB-Optitype-seq2HLA-alleles.tabular
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14375917
+        src: url
+        url: https://zenodo.org/record/14375917/files/IEDB_Optitype_alleles.tabular
+      name: 'DOI: 10.5281/zenodo.14375917'
+    name: 'Neoantigen 6: Predicting HLA Binding'
+  - items:
+    - description: latest
+      items:
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14377365
+        src: url
+        url: https://zenodo.org/record/14377365/files/STS_26T_2_Eclipse_02102024.mgf
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14377365
+        src: url
+        url: https://zenodo.org/record/14377365/files/iedb_novel_peptide_x_hla_table-weak.tabular
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14377365
+        src: url
+        url: https://zenodo.org/record/14377365/files/iedb_predicted_neoantigens-strong.tabular
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14377365
+        src: url
+        url: https://zenodo.org/record/14377365/files/FASTA-IEDB.fasta
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14377365
+        src: url
+        url: https://zenodo.org/record/14377365/files/iedb_novel_peptide_x_hla_table-strong.tabular
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14377365
+        src: url
+        url: https://zenodo.org/record/14377365/files/iedb_predicted_neoantigens-weak.tabular
+      - ext: null
+        info: https://doi.org/10.5281/zenodo.14377365
+        src: url
+        url: https://zenodo.org/record/14377365/files/IEDB-Optitype-seq2HLA-alleles.tabular
+      name: 'DOI: 10.5281/zenodo.14377365'
+    name: 'Neoantigen 7: IEDB binding PepQuery Validated Neopeptides'
+  - items:
+    - description: latest
+      items:
       - ext: fasta
         info: https://zenodo.org/record/546301
         src: url
@@ -5811,15 +6002,15 @@ items:
       - ext: tabular
         info: https://doi.org/10.5281/zenodo.7311628
         src: url
-        url: https://zenodo.org/api/files/24d90230-31bf-4cc9-b1d3-b760de965c72/g2mPhase.tabular
+        url: https://zenodo.org/record/7311628//files/g2mPhase.tabular
       - ext: h5ad
         info: https://doi.org/10.5281/zenodo.7311628
         src: url
-        url: https://zenodo.org/api/files/24d90230-31bf-4cc9-b1d3-b760de965c72/Processed_AnnData.h5ad
+        url: https://zenodo.org/record/7311628/files/Processed_AnnData.h5ad
       - ext: tabular
         info: https://doi.org/10.5281/zenodo.7311628
         src: url
-        url: https://zenodo.org/api/files/24d90230-31bf-4cc9-b1d3-b760de965c72/sPhase.tabular
+        url: https://zenodo.org/record/7311628//files/sPhase.tabular
       name: 'DOI: 10.5281/zenodo.7311628'
     name: Removing the effects of the cell cycle
   - items:
@@ -6054,15 +6245,15 @@ items:
       - ext: txt
         info: https://doi.org/10.5281/zenodo.3386291
         src: url
-        url: https://zenodo.org/api/files/83bb489c-cd94-4d33-b8f4-da1dd7ee8e2b/annotation.txt
+        url: https://zenodo.org/records/3386291/files/annotation.txt
       - ext: txt
         info: https://doi.org/10.5281/zenodo.3386291
         src: url
-        url: https://zenodo.org/api/files/83bb489c-cd94-4d33-b8f4-da1dd7ee8e2b/counts.txt
+        url: https://zenodo.org/records/3386291/files/counts.txt
       - ext: txt
         info: https://doi.org/10.5281/zenodo.3386291
         src: url
-        url: https://zenodo.org/api/files/83bb489c-cd94-4d33-b8f4-da1dd7ee8e2b/mt_controls.txt
+        url: https://zenodo.org/records/3386291/files/mt_controls.txt
       name: 'DOI: 10.5281/zenodo.3386291'
     name: Single-cell quality control with scater
   - items:
