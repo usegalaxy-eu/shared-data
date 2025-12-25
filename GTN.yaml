@@ -887,6 +887,28 @@ items:
         url: https://zenodo.org/api/files/0e062e89-e6ce-463b-a8cb-0151e5aabc69/trainset16_022016.pds.tax
       name: 'DOI: 10.5281/zenodo.815875'
     name: Analyses of metagenomics data - The global picture
+  - description: Training data for host-read removal tutorial
+    items:
+    - description: Bee gut metagenome test data
+      items:
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.17829290
+        src: url
+        url: https://zenodo.org/records/17829290/files/SRR24759598_1.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.17829290
+        src: url
+        url: https://zenodo.org/records/17829290/files/SRR24759598_2.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.17829290
+        src: url
+        url: https://zenodo.org/records/17829290/files/SRR24759616_1.fastq.gz
+      - ext: fastqsanger.gz
+        info: https://doi.org/10.5281/zenodo.17829290
+        src: url
+        url: https://zenodo.org/records/17829290/files/SRR24759616_2.fastq.gz
+      name: 'DOI: 10.5281/zenodo.17829290'
+    name: Remove contamination and host reads
   - items:
     - description: latest
       items:
