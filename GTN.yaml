@@ -9082,6 +9082,22 @@ items:
       name: 'DOI: 10.5281/zenodo.826906'
     name: Differential abundance testing of small RNAs
   name: Transcriptomics
+- description: Statistics and Machine Learning tutorials
+  items:
+  - items:
+    - description: latest
+      items:
+      - ext: ''
+        info: https://zenodo.org/records/17114688
+        src: url
+        url: https://zenodo.org/api/records/17114688/files/images_96.zip/content
+      - ext: ''
+        info: https://zenodo.org/records/17114688
+        src: url
+        url: https://zenodo.org/api/records/17114688/files/image_metadata_new.csv/content
+      name: 'DOI: 10.5281/zenodo.17114688'
+    name: HAM10000 Image Learner Classification
+  name: Statistics and Machine Learning
 - description: "The beacon2 toolkit interacts with the beacon2 database collections\
     \ to search for the records \nthat match the search terms. The toolkit has a list\
     \ of subcommands to query several types of data \nand metadata collections for\
