@@ -5247,6 +5247,15 @@ items:
       name: 'DOI: 14205500'
     name: Image data for OMERO
   - items:
+    - description: A high-content pipeline for accurate 3D image analysis, unveils
+        cell morphology patterns in epithelial cysts.
+      items:
+      - ext: zip
+        src: url
+        url: https://zenodo.org/records/10973241/files/CartoCell.zip
+      name: 'DOI: 10.17632/7gbkxgngpm.2'
+    name: BiaPy Training
+  - items:
     - description: latest
       items:
       - ext: null
