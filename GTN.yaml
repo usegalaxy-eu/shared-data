@@ -5247,14 +5247,37 @@ items:
       name: 'DOI: 14205500'
     name: Image data for OMERO
   - items:
-    - description: A high-content pipeline for accurate 3D image analysis, unveils
-        cell morphology patterns in epithelial cysts.
+    - description: First test image
       items:
-      - ext: zip
+      - ext: tiff
         src: url
-        url: https://zenodo.org/records/10973241/files/CartoCell.zip
-      name: 'DOI: 10.17632/7gbkxgngpm.2'
-    name: BiaPy Training
+        url: https://github.com/galaxyproject/training-material/blob/main/topics/imaging/tutorials/biapy/workflows/test-data/Input%20the%20test%20data_01_raw_image.tiff
+      name: 01_raw_image.tiff
+    - description: Second test image
+      items:
+      - ext: tiff
+        src: url
+        url: https://github.com/galaxyproject/training-material/blob/main/topics/imaging/tutorials/biapy/workflows/test-data/Input%20the%20test%20data_02_raw_image.tiff
+      name: 02_raw_image.tiff
+    - description: GT for "01_raw_image.tiff"
+      items:
+      - ext: tiff
+        src: url
+        url: https://github.com/galaxyproject/training-material/blob/main/topics/imaging/tutorials/biapy/workflows/test-data/Input%20the%20test%20data_01_raw_mask.tiff
+      name: 01_raw_masks.tiff
+    - description: GT for "02_raw_image.tiff"
+      items:
+      - ext: tiff
+        src: url
+        url: https://github.com/galaxyproject/training-material/blob/main/topics/imaging/tutorials/biapy/workflows/test-data/Input%20the%20test%20data_02_raw_mask.tiff
+      name: 02_raw_masks.tiff
+    - description: First BioImage.IO model 'venomous-swan'
+      items:
+      - ext: yaml
+        src: url
+        url: https://github.com/galaxyproject/training-material/blob/main/topics/imaging/tutorials/biapy/workflows/test-data/Input%20a%20BiaPy%20YAML%20configuration%20file.yaml
+      name: conf_cartocell_swam.yaml
+    name: Image data and pipelines for BiaPy
   - items:
     - description: latest
       items:
@@ -5337,6 +5360,15 @@ items:
         url: https://zenodo.org/record/6647674/files/cover.png
       name: 'DOI: 10.5281/zenodo.6647674'
     name: Using BioImage.IO models for image analysis in Galaxy
+  - items:
+    - description: latest
+      items:
+      - ext: null
+        info: null
+        src: url
+        url: null
+      name: 'DOI:'
+    name: Where to start with bioimage analysis in Galaxy
   name: Imaging
 - description: Modelling, simulation and analysis for the material science domain.
   items:
