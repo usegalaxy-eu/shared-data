@@ -5291,6 +5291,15 @@ items:
     - description: latest
       items:
       - ext: zip
+        info: https://zenodo.org/records/18225140
+        src: url
+        url: https://zenodo.org/records/18225140/files/PCIR_98890234_20010101_7.zip
+      name: 'DOI: 10.5281/zenodo.18225140'
+    name: Segmentation of Anatomical Structures in Medical 3-D Images
+  - items:
+    - description: latest
+      items:
+      - ext: zip
         info: https://zenodo.org/record/3362976
         src: url
         url: https://zenodo.org/record/3362976/files/B2.zip
