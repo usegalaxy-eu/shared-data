@@ -18,6 +18,8 @@ items:
   - items: []
     name: Protein target prediction of a bioactive ligand with Align-it and ePharmaLib
   - items: []
+    name: 'Transcribe your Audio and Video files '
+  - items: []
     name: Creating metadata using Ecological Metadata Language (EML) standard with
       EML Assembly Line functionalities
   - items: []
