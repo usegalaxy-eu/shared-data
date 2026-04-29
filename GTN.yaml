@@ -1,3 +1,4 @@
+description: Galaxy Training Network Material
 destination:
   description: Galaxy Training Network Material
   name: GTN - Material
@@ -9777,5 +9778,36 @@ items:
         url: https://zenodo.org/api/files/0f156ca2-fb89-4d6f-8b80-02e51e5f5339/variants.vcf
       name: 'DOI: 10.5281/zenodo.3591856'
     name: Genomic Data Visualisation with JBrowse
+  - items:
+    - description: latest
+      items:
+      - ext: bigwig
+        info: https://doi.org/10.5281/zenodo.19554505
+        src: url
+        url: https://zenodo.org/records/19554505/files/data.bw
+      - ext: cram
+        info: https://doi.org/10.5281/zenodo.19554505
+        src: url
+        url: https://zenodo.org/records/19554505/files/merlin-sample.cram
+      - ext: fa
+        info: https://doi.org/10.5281/zenodo.19554505
+        src: url
+        url: https://zenodo.org/records/19554505/files/merlin.fa
+      - ext: gtf
+        info: https://doi.org/10.5281/zenodo.19554505
+        src: url
+        url: https://zenodo.org/records/19554505/files/merlin.gtf
+      - ext: hic
+        info: https://doi.org/10.5281/zenodo.19554505
+        src: url
+        url: https://zenodo.org/records/19554505/files/merlin.hic
+      - ext: vcf
+        info: https://doi.org/10.5281/zenodo.19554505
+        src: url
+        url: https://zenodo.org/records/19554505/files/test.vcf
+      name: 'DOI: 10.5281/zenodo.3591856'
+    name: Genomic Data Visualisation with JBrowse2
   name: Visualisation
+name: GTN - Material
+synopsis: Galaxy Training Network Material. See https://training.galaxyproject.org
 
