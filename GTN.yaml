@@ -1,4 +1,3 @@
-description: Galaxy Training Network Material
 destination:
   description: Galaxy Training Network Material
   name: GTN - Material
@@ -2978,6 +2977,15 @@ items:
         url: https://zenodo.org/api/files/bfb49696-ca75-4e30-95a7-454a3e3b1bb8/air_temperature_at_2_metres.netcdf
       name: 'DOI: 10.5281/zenodo.6621460'
     name: Visualization of Climate Data using  NetCDF xarray Map Plotting
+  - items:
+    - description: latest
+      items:
+      - ext: galaxy-datatype
+        info: DeepSeaSpy image data files and models
+        src: url
+        url: https://www.seanoe.org/data/00907/101899/data/115473.zip
+      name: deepseaspy
+    name: Object detection with YOLO
   name: Ecology
 - description: Analyses of sequences
   items:
@@ -9808,6 +9816,4 @@ items:
       name: 'DOI: 10.5281/zenodo.3591856'
     name: Genomic Data Visualisation with JBrowse2
   name: Visualisation
-name: GTN - Material
-synopsis: Galaxy Training Network Material. See https://training.galaxyproject.org
 
