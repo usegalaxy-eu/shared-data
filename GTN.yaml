@@ -17,6 +17,15 @@ items:
     name: Decontamination of a genome assembly
   - items: []
     name: Protein target prediction of a bioactive ligand with Align-it and ePharmaLib
+  - items:
+    - description: latest
+      items:
+      - ext: ''
+        info: https://zenodo.org/records/21371207
+        src: url
+        url: https://zenodo.org/api/records/21371207/files/the_fox_and_the_grapes.zip
+      name: 'DOI: 10.5281/zenodo.21371207'
+    name: MFA Tutorial
   - items: []
     name: Creating metadata using Ecological Metadata Language (EML) standard with
       EML Assembly Line functionalities
