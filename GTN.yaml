@@ -4958,6 +4958,12 @@ items:
       name: 'DOI: 14205500'
     name: Image data for OMERO
   - items:
+    - ext: mp4
+      info: Lieujaune-PorzBreign-GOPR5167_Edited video
+      src: url
+      url: https://zenodo.org/records/20639741/files/Lieujaune-PorzBreign-GOPR5167_Edited.mp4?download=1
+    name: Annotation AI Pipeline
+  - items:
     - description: First test image
       items:
       - ext: tiff
@@ -9376,6 +9382,36 @@ items:
   name: Statistics and machine learning
 - description: Statistics and Machine Learning tutorials
   items:
+  - items:
+    - description: Prepared Zenodo files used for the hands-on tutorial
+      items:
+      - description: Prepared metadata table with image_path and label columns for
+          Image Learner.
+        ext: csv
+        info: selected_gtex_v11_tpm_image_tissue_labels.csv
+        src: url
+        url: https://zenodo.org/records/19963477/files/selected_gtex_v11_tpm_image_tissue_labels.csv
+      - description: ZIP archive of generated grayscale images for Image Learner.
+        ext: zip
+        info: selected_gtex_v11_tpm_image_tissue_dataset.zip
+        src: url
+        url: https://zenodo.org/records/19963477/files/selected_gtex_v11_tpm_image_tissue_dataset.zip
+      name: Prepared GTEx v11 Image Learner dataset
+    - description: Direct URLs for rebuilding the prepared dataset
+      items:
+      - description: Raw GTEx v11 gene TPM expression matrix used to generate sample
+          images.
+        ext: gct.gz
+        info: GTEx_Analysis_2025-08-22_v11_RNASeQCv2.4.3_gene_tpm.gct.gz
+        src: url
+        url: https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/GTEx_Analysis_2025-08-22_v11_RNASeQCv2.4.3_gene_tpm.gct.gz
+      - description: GTEx v11 sample attributes file containing `SMTSD` tissue labels.
+        ext: txt
+        info: GTEx_Analysis_v11_Annotations_SampleAttributesDS.txt
+        src: url
+        url: https://storage.googleapis.com/adult-gtex/annotations/v11/metadata-files/GTEx_Analysis_v11_Annotations_SampleAttributesDS.txt
+      name: Optional GTEx v11 raw files
+    name: GTEx Tissue Modeling with Image Learner
   - items:
     - description: latest
       items:
