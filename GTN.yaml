@@ -9486,6 +9486,19 @@ items:
   - items:
     - description: latest
       items:
+      - ext: csv
+        info: https://doi.org/10.5281/zenodo.20250971
+        src: url
+        url: https://zenodo.org/records/20250971/files/chek2_frequency_summary.csv
+      - ext: txt
+        info: https://doi.org/10.5281/zenodo.20250971
+        src: url
+        url: https://zenodo.org/records/20250971/files/chek2_rcs_countess.ini
+      name: 'DOI: 10.5281/zenodo.20250971'
+    name: Calculating CHEK2 variant effect scores from MAVE data with CountESS
+  - items:
+    - description: latest
+      items:
       - ext: bam
         info: https://doi.org/10.5281/zenodo.60520
         src: url
