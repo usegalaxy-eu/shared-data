@@ -17,15 +17,6 @@ items:
     name: Decontamination of a genome assembly
   - items: []
     name: Protein target prediction of a bioactive ligand with Align-it and ePharmaLib
-  - items:
-    - description: latest
-      items:
-      - ext: ''
-        info: https://zenodo.org/records/21371207
-        src: url
-        url: https://zenodo.org/api/records/21371207/files/the_fox_and_the_grapes.zip
-      name: 'DOI: 10.5281/zenodo.21371207'
-    name: MFA Tutorial
   - items: []
     name: Creating metadata using Ecological Metadata Language (EML) standard with
       EML Assembly Line functionalities
@@ -1753,6 +1744,35 @@ items:
     - description: latest
       items:
       - ext: fastqsanger.gz
+        info: https://zenodo.org/records/20745835
+        src: url
+        url: https://zenodo.org/api/records/20745835/files/28C_R1.fastq.gz/content
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/records/20745835
+        src: url
+        url: https://zenodo.org/api/records/20745835/files/28C_R2.fastq.gz/content
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/records/20745835
+        src: url
+        url: https://zenodo.org/api/records/20745835/files/28A_R1.fastq.gz/content
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/records/20745835
+        src: url
+        url: https://zenodo.org/api/records/20745835/files/28B_R2.fastq.gz/content
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/records/20745835
+        src: url
+        url: https://zenodo.org/api/records/20745835/files/28A_R2.fastq.gz/content
+      - ext: fastqsanger.gz
+        info: https://zenodo.org/records/20745835
+        src: url
+        url: https://zenodo.org/api/records/20745835/files/28B_R1.fastq.gz/content
+      name: 'DOI: 10.5281/zenodo.20745835'
+    name: Detection of shared microbial strains with SameStr
+  - items:
+    - description: latest
+      items:
+      - ext: fastqsanger.gz
         info: https://doi.org/10.5281/zenodo.7871630
         src: url
         url: https://zenodo.org/api/files/626269fb-8ca4-4fd7-ab48-c967f5bd46e5/JC1A_R1.fastqsanger.gz
@@ -2433,6 +2453,15 @@ items:
         url: https://zenodo.org/record/17053220/files/SoY_Cheap_Repo_Source.txt
       name: 'DOI: 10.5281/zenodo.17053220'
     name: Introduction to Digital Humanities in Galaxy
+  - items:
+    - description: latest
+      items:
+      - ext: ''
+        info: https://zenodo.org/records/21371207
+        src: url
+        url: https://zenodo.org/api/records/21371207/files/the_fox_and_the_grapes.zip
+      name: 'DOI: 10.5281/zenodo.21371207'
+    name: MFA Tutorial
   - items:
     - description: latest
       items:
