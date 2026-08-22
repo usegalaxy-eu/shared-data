@@ -1,0 +1,666 @@
+---
+destination:
+  type: library
+  name: 'PGP-UK Open Access Data'
+  description: 'Open Access Genomic, Transcriptomic and Methylomic Data from the Personal
+    Genome Project UK. DOI: 10.1186/s12920-018-0423-1'
+items:
+- name: Genetic Data (WGS)
+  description: Open access WGS data from the PGP-UK Project
+  items:
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/004/ERR1726424/ERR1726424_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_1) data from PGP-UK Participant uk35C650: See https://personalgenomes.org.uk/data?hex_id=uk35C650'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/004/ERR1726424/ERR1726424_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_2) data from PGP-UK Participant uk35C650: See https://personalgenomes.org.uk/data?hex_id=uk35C650'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/ERZ389/ERZ389530/FR07961001.pass.recode.vcf.gz
+    src: url
+    ext: vcf
+    info: 'VCF data from PGP-UK Participant uk35C650: See https://personalgenomes.org.uk/data?hex_id=uk35C650'
+
+  - url: https://my.personalgenomes.org.uk/user_file/download/166
+    src: url
+    ext: vcf
+    info: '23andMe data from PGP-UK Participant uk35C650: See https://personalgenomes.org.uk/data?hex_id=uk35C650'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/005/ERR1726425/ERR1726425_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_1) data from PGP-UK Participant uk2E2AAE: See https://personalgenomes.org.uk/data?hex_id=uk2E2AAE'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/005/ERR1726425/ERR1726425_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_2) data from PGP-UK Participant uk2E2AAE: See https://personalgenomes.org.uk/data?hex_id=uk2E2AAE'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/ERZ389/ERZ389528/FR07961002.pass.recode.vcf.gz
+    src: url
+    ext: vcf
+    info: 'VCF data from PGP-UK Participant uk2E2AAE: See https://personalgenomes.org.uk/data?hex_id=uk2E2AAE'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/006/ERR1726426/ERR1726426_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_1) data from PGP-UK Participant uk2DF242: See https://personalgenomes.org.uk/data?hex_id=uk2DF242'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/006/ERR1726426/ERR1726426_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_2) data from PGP-UK Participant uk2DF242: See https://personalgenomes.org.uk/data?hex_id=uk2DF242'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/ERZ389/ERZ389525/FR07961003.pass.recode.vcf.gz
+    src: url
+    ext: vcf
+    info: 'VCF data from PGP-UK Participant uk2DF242: See https://personalgenomes.org.uk/data?hex_id=uk2DF242'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/007/ERR1726427/ERR1726427_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_1) data from PGP-UK Participant uk740176: See https://personalgenomes.org.uk/data?hex_id=uk740176'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/007/ERR1726427/ERR1726427_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_2) data from PGP-UK Participant uk740176: See https://personalgenomes.org.uk/data?hex_id=uk740176'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/ERZ389/ERZ389531/FR07961004.pass.recode.vcf.gz
+    src: url
+    ext: vcf
+    info: 'VCF data from PGP-UK Participant uk740176: See https://personalgenomes.org.uk/data?hex_id=uk740176'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/008/ERR1726428/ERR1726428_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_1) data from PGP-UK Participant uk33D02F: See https://personalgenomes.org.uk/data?hex_id=uk33D02F'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/008/ERR1726428/ERR1726428_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_2) data from PGP-UK Participant uk33D02F: See https://personalgenomes.org.uk/data?hex_id=uk33D02F'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/ERZ389/ERZ389534/FR07961005.pass.recode.vcf.gz
+    src: url
+    ext: vcf
+    info: 'VCF data from PGP-UK Participant uk33D02F: See https://personalgenomes.org.uk/data?hex_id=uk33D02F'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/009/ERR1726429/ERR1726429_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_1) data from PGP-UK Participant uk0C72FF: See https://personalgenomes.org.uk/data?hex_id=uk0C72FF'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/009/ERR1726429/ERR1726429_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_2) data from PGP-UK Participant uk0C72FF: See https://personalgenomes.org.uk/data?hex_id=uk0C72FF'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/ERZ389/ERZ389524/FR07961006.pass.recode.vcf.gz
+    src: url
+    ext: vcf
+    info: 'VCF data from PGP-UK Participant uk0C72FF: See https://personalgenomes.org.uk/data?hex_id=uk0C72FF'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/000/ERR1726430/ERR1726430_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_1) data from PGP-UK Participant uk1097F9: See https://personalgenomes.org.uk/data?hex_id=uk1097F9'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/000/ERR1726430/ERR1726430_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_2) data from PGP-UK Participant uk1097F9: See https://personalgenomes.org.uk/data?hex_id=uk1097F9'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/ERZ389/ERZ389526/FR07961007.pass.recode.vcf.gz
+    src: url
+    ext: vcf
+    info: 'VCF data from PGP-UK Participant uk1097F9: See https://personalgenomes.org.uk/data?hex_id=uk1097F9'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/001/ERR1726431/ERR1726431_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_1) data from PGP-UK Participant uk174659: See https://personalgenomes.org.uk/data?hex_id=uk174659'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/001/ERR1726431/ERR1726431_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_2) data from PGP-UK Participant uk174659: See https://personalgenomes.org.uk/data?hex_id=uk174659'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/ERZ389/ERZ389529/FR07961008.pass.recode.vcf.gz
+    src: url
+    ext: vcf
+    info: 'VCF data from PGP-UK Participant uk174659: See https://personalgenomes.org.uk/data?hex_id=uk174659'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/002/ERR1726432/ERR1726432_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_1) data from PGP-UK Participant uk85AA3B: See https://personalgenomes.org.uk/data?hex_id=uk85AA3B'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/002/ERR1726432/ERR1726432_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_2) data from PGP-UK Participant uk85AA3B: See https://personalgenomes.org.uk/data?hex_id=uk85AA3B'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/ERZ389/ERZ389527/FR07961009.pass.recode.vcf.gz
+    src: url
+    ext: vcf
+    info: 'VCF data from PGP-UK Participant uk85AA3B: See https://personalgenomes.org.uk/data?hex_id=uk85AA3B'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/003/ERR1726433/ERR1726433_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_1) data from PGP-UK Participant uk481F67: See https://personalgenomes.org.uk/data?hex_id=uk481F67'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR172/003/ERR1726433/ERR1726433_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGS Fastq (_2) data from PGP-UK Participant uk481F67: See https://personalgenomes.org.uk/data?hex_id=uk481F67'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/ERZ389/ERZ389532/FR07961000.pass.recode.vcf.gz
+    src: url
+    ext: vcf
+    info: 'VCF data from PGP-UK Participant uk481F67: See https://personalgenomes.org.uk/data?hex_id=uk481F67'
+
+- name: Methylome Data (WGBS, 450k array)
+  description: Open access whole Genome Bisulfite Sequencing and Array data from the
+    PGP-UK Project
+  items:
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/008/ERR2359938/ERR2359938_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_1) data from PGP-UK Participant uk35C650: See https://personalgenomes.org.uk/data?hex_id=uk35C650'
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/008/ERR2359938/ERR2359938_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_2) data from PGP-UK Participant uk35C650: See https://personalgenomes.org.uk/data?hex_id=uk35C650'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R04C02_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Blood IDAT data from PGP-UK Participant uk35C650:
+      See https://personalgenomes.org.uk/data?hex_id=uk35C650'
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R04C02_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Blood IDAT data from PGP-UK Participant uk35C650:
+      See https://personalgenomes.org.uk/data?hex_id=uk35C650'
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R03C01_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Saliva IDAT data from PGP-UK Participant uk35C650:
+      See https://personalgenomes.org.uk/data?hex_id=uk35C650'
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R03C01_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Saliva IDAT data from PGP-UK Participant uk35C650:
+      See https://personalgenomes.org.uk/data?hex_id=uk35C650'
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/009/ERR2359939/ERR2359939_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_1) data from PGP-UK Participant uk2E2AAE: See https://personalgenomes.org.uk/data?hex_id=uk2E2AAE'
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/009/ERR2359939/ERR2359939_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_2) data from PGP-UK Participant uk2E2AAE: See https://personalgenomes.org.uk/data?hex_id=uk2E2AAE'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R05C02_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Blood IDAT data from PGP-UK Participant uk2E2AAE:
+      See https://personalgenomes.org.uk/data?hex_id=uk2E2AAE'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R05C02_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Blood IDAT data from PGP-UK Participant uk2E2AAE:
+      See https://personalgenomes.org.uk/data?hex_id=uk2E2AAE'
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R03C01_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Saliva IDAT data from PGP-UK Participant uk2E2AAE:
+      See https://personalgenomes.org.uk/data?hex_id=uk2E2AAE'
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R03C01_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Saliva IDAT data from PGP-UK Participant uk2E2AAE:
+      See https://personalgenomes.org.uk/data?hex_id=uk2E2AAE'
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/000/ERR2359940/ERR2359940_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_1) data from PGP-UK Participant uk2DF242: See https://personalgenomes.org.uk/data?hex_id=uk2DF242'
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/000/ERR2359940/ERR2359940_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_2) data from PGP-UK Participant uk2DF242: See https://personalgenomes.org.uk/data?hex_id=uk2DF242'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R06C02_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Blood IDAT data from PGP-UK Participant uk2DF242:
+      See https://personalgenomes.org.uk/data?hex_id=uk2DF242'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R06C02_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Blood IDAT data from PGP-UK Participant uk2DF242:
+      See https://personalgenomes.org.uk/data?hex_id=uk2DF242'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R03C02_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Saliva IDAT data from PGP-UK Participant uk2DF242:
+      See https://personalgenomes.org.uk/data?hex_id=uk2DF242'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R03C02_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Saliva IDAT data from PGP-UK Participant uk2DF242:
+      See https://personalgenomes.org.uk/data?hex_id=uk2DF242'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/001/ERR2359941/ERR2359941_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_1) data from PGP-UK Participant uk740176: See https://personalgenomes.org.uk/data?hex_id=uk740176'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/001/ERR2359941/ERR2359941_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_2) data from PGP-UK Participant uk740176: See https://personalgenomes.org.uk/data?hex_id=uk740176'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R06C02_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Blood IDAT data from PGP-UK Participant uk740176:
+      See https://personalgenomes.org.uk/data?hex_id=uk740176'
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R06C02_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Blood IDAT data from PGP-UK Participant uk740176:
+      See https://personalgenomes.org.uk/data?hex_id=uk740176'
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R06C01_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Saliva IDAT data from PGP-UK Participant uk740176:
+      See https://personalgenomes.org.uk/data?hex_id=uk740176'
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R06C01_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Saliva IDAT data from PGP-UK Participant uk740176:
+      See https://personalgenomes.org.uk/data?hex_id=uk740176'
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/002/ERR2359942/ERR2359942_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_1) data from PGP-UK Participant uk33D02F: See https://personalgenomes.org.uk/data?hex_id=uk33D02F'
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/002/ERR2359942/ERR2359942_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_2) data from PGP-UK Participant uk33D02F: See https://personalgenomes.org.uk/data?hex_id=uk33D02F'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R05C02_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Blood IDAT data from PGP-UK Participant uk33D02F:
+      See https://personalgenomes.org.uk/data?hex_id=uk33D02F'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R05C02_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Blood IDAT data from PGP-UK Participant uk33D02F:
+      See https://personalgenomes.org.uk/data?hex_id=uk33D02F'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R04C02_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Saliva IDAT data from PGP-UK Participant uk33D02F:
+      See https://personalgenomes.org.uk/data?hex_id=uk33D02F'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R04C02_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Saliva IDAT data from PGP-UK Participant uk33D02F:
+      See https://personalgenomes.org.uk/data?hex_id=uk33D02F'
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/003/ERR2359943/ERR2359943_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_1) data from PGP-UK Participant uk0C72FF: See https://personalgenomes.org.uk/data?hex_id=uk0C72FF'
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/003/ERR2359943/ERR2359943_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_2) data from PGP-UK Participant uk0C72FF: See https://personalgenomes.org.uk/data?hex_id=uk0C72FF'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R06C01_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Blood IDAT data from PGP-UK Participant uk0C72FF:
+      See https://personalgenomes.org.uk/data?hex_id=uk0C72FF'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R06C01_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Blood IDAT data from PGP-UK Participant uk0C72FF:
+      See https://personalgenomes.org.uk/data?hex_id=uk0C72FF'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R01C01_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Saliva IDAT data from PGP-UK Participant uk0C72FF:
+      See https://personalgenomes.org.uk/data?hex_id=uk0C72FF'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R01C01_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Saliva IDAT data from PGP-UK Participant uk0C72FF:
+      See https://personalgenomes.org.uk/data?hex_id=uk0C72FF'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/004/ERR2359944/ERR2359944_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_1) data from PGP-UK Participant uk1097F9: See https://personalgenomes.org.uk/data?hex_id=uk1097F9'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/004/ERR2359944/ERR2359944_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_2) data from PGP-UK Participant uk1097F9: See https://personalgenomes.org.uk/data?hex_id=uk1097F9'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R02C01_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Blood IDAT data from PGP-UK Participant uk1097F9:
+      See https://personalgenomes.org.uk/data?hex_id=uk1097F9'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R02C01_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Blood IDAT data from PGP-UK Participant uk1097F9:
+      See https://personalgenomes.org.uk/data?hex_id=uk1097F9'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R01C02_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Saliva IDAT data from PGP-UK Participant uk1097F9:
+      See https://personalgenomes.org.uk/data?hex_id=uk1097F9'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R01C02_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Saliva IDAT data from PGP-UK Participant uk1097F9:
+      See https://personalgenomes.org.uk/data?hex_id=uk1097F9'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/005/ERR2359945/ERR2359945_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_1) data from PGP-UK Participant uk174659: See https://personalgenomes.org.uk/data?hex_id=uk174659'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/005/ERR2359945/ERR2359945_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_2) data from PGP-UK Participant uk174659: See https://personalgenomes.org.uk/data?hex_id=uk174659'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R05C01_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Blood IDAT data from PGP-UK Participant uk174659:
+      See https://personalgenomes.org.uk/data?hex_id=uk174659'
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R05C01_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Blood IDAT data from PGP-UK Participant uk174659:
+      See https://personalgenomes.org.uk/data?hex_id=uk174659'
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R05C01_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Saliva IDAT data from PGP-UK Participant uk174659:
+      See https://personalgenomes.org.uk/data?hex_id=uk174659'
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R05C01_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Saliva IDAT data from PGP-UK Participant uk174659:
+      See https://personalgenomes.org.uk/data?hex_id=uk174659'
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/006/ERR2359946/ERR2359946_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_1) data from PGP-UK Participant uk85AA3B: See https://personalgenomes.org.uk/data?hex_id=uk85AA3B'
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/006/ERR2359946/ERR2359946_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_2) data from PGP-UK Participant uk85AA3B: See https://personalgenomes.org.uk/data?hex_id=uk85AA3B'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R02C02_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Blood IDAT data from PGP-UK Participant uk85AA3B:
+      See https://personalgenomes.org.uk/data?hex_id=uk85AA3B'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R02C02_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Blood IDAT data from PGP-UK Participant uk85AA3B:
+      See https://personalgenomes.org.uk/data?hex_id=uk85AA3B'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R01C01_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Saliva IDAT data from PGP-UK Participant uk85AA3B:
+      See https://personalgenomes.org.uk/data?hex_id=uk85AA3B'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R01C01_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Saliva IDAT data from PGP-UK Participant uk85AA3B:
+      See https://personalgenomes.org.uk/data?hex_id=uk85AA3B'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/007/ERR2359947/ERR2359947_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_1) data from PGP-UK Participant uk481F67: See https://personalgenomes.org.uk/data?hex_id=uk481F67'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR235/007/ERR2359947/ERR2359947_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'WGBS Fastq (_2) data from PGP-UK Participant uk481F67: See https://personalgenomes.org.uk/data?hex_id=uk481F67'
+
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R02C01_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Blood IDAT data from PGP-UK Participant uk481F67:
+      See https://personalgenomes.org.uk/data?hex_id=uk481F67'
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760049_R02C01_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Blood IDAT data from PGP-UK Participant uk481F67:
+      See https://personalgenomes.org.uk/data?hex_id=uk481F67'
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R02C02_Grn.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Green Saliva IDAT data from PGP-UK Participant uk481F67:
+      See https://personalgenomes.org.uk/data?hex_id=uk481F67'
+  - url: https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5377/E-MTAB-5377.raw.1.zip/101130760050_R02C02_Red.idat
+    src: url
+    ext: idat
+    info: 'Methylation 450k Array Red Saliva IDAT data from PGP-UK Participant uk481F67:
+      See https://personalgenomes.org.uk/data?hex_id=uk481F67'
+- name: Transcriptome Data (RNA-Seq, Amplicon-seq)
+  description: Open access whole RNA-seq and targetted RNA-seq amplicon sequencing
+    from the PGP-UK Project
+  items:
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/005/ERR2322365/ERR2322365_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_1) data from PGP-UK Participant uk35C650:
+      See https://personalgenomes.org.uk/data?hex_id=uk35C650'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/005/ERR2322365/ERR2322365_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_2) data from PGP-UK Participant uk35C650:
+      See https://personalgenomes.org.uk/data?hex_id=uk35C650'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/003/ERR2322353/ERR2322353.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - Amplicon Fastq data from PGP-UK Participant uk35C650:
+      See https://personalgenomes.org.uk/data?hex_id=uk35C650'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/008/ERR2322368/ERR2322368_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_1) data from PGP-UK Participant uk2E2AAE:
+      See https://personalgenomes.org.uk/data?hex_id=uk2E2AAE'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/008/ERR2322368/ERR2322368_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_2) data from PGP-UK Participant uk2E2AAE:
+      See https://personalgenomes.org.uk/data?hex_id=uk2E2AAE'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/004/ERR2322354/ERR2322354.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - Amplicon Fastq data from PGP-UK Participant uk2E2AAE:
+      See https://personalgenomes.org.uk/data?hex_id=uk2E2AAE'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/004/ERR2322364/ERR2322364_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_1) data from PGP-UK Participant uk2DF242:
+      See https://personalgenomes.org.uk/data?hex_id=uk2DF242'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/004/ERR2322364/ERR2322364_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_2) data from PGP-UK Participant uk2DF242:
+      See https://personalgenomes.org.uk/data?hex_id=uk2DF242'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/005/ERR2322355/ERR2322355.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - Amplicon Fastq data from PGP-UK Participant uk2DF242:
+      See https://personalgenomes.org.uk/data?hex_id=uk2DF242'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/001/ERR2322371/ERR2322371_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_1) data from PGP-UK Participant uk740176:
+      See https://personalgenomes.org.uk/data?hex_id=uk740176'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/001/ERR2322371/ERR2322371_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_2) data from PGP-UK Participant uk740176:
+      See https://personalgenomes.org.uk/data?hex_id=uk740176'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/006/ERR2322356/ERR2322356.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - Amplicon Fastq data from PGP-UK Participant uk740176:
+      See https://personalgenomes.org.uk/data?hex_id=uk740176'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/003/ERR2322363/ERR2322363_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_1) data from PGP-UK Participant uk33D02F:
+      See https://personalgenomes.org.uk/data?hex_id=uk33D02F'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/003/ERR2322363/ERR2322363_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_2) data from PGP-UK Participant uk33D02F:
+      See https://personalgenomes.org.uk/data?hex_id=uk33D02F'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/007/ERR2322357/ERR2322357.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - Amplicon Fastq data from PGP-UK Participant uk33D02F:
+      See https://personalgenomes.org.uk/data?hex_id=uk33D02F'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/009/ERR2322369/ERR2322369_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_1) data from PGP-UK Participant uk0C72FF:
+      See https://personalgenomes.org.uk/data?hex_id=uk0C72FF'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/009/ERR2322369/ERR2322369_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_2) data from PGP-UK Participant uk0C72FF:
+      See https://personalgenomes.org.uk/data?hex_id=uk0C72FF'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/008/ERR2322358/ERR2322358.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - Amplicon Fastq data from PGP-UK Participant uk0C72FF:
+      See https://personalgenomes.org.uk/data?hex_id=uk0C72FF'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/007/ERR2322367/ERR2322367_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_1) data from PGP-UK Participant uk1097F9:
+      See https://personalgenomes.org.uk/data?hex_id=uk1097F9'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/007/ERR2322367/ERR2322367_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_2) data from PGP-UK Participant uk1097F9:
+      See https://personalgenomes.org.uk/data?hex_id=uk1097F9'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/009/ERR2322359/ERR2322359.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - Amplicon Fastq data from PGP-UK Participant uk1097F9:
+      See https://personalgenomes.org.uk/data?hex_id=uk1097F9'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/002/ERR2322372/ERR2322372_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_1) data from PGP-UK Participant uk174659:
+      See https://personalgenomes.org.uk/data?hex_id=uk174659'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/002/ERR2322372/ERR2322372_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_2) data from PGP-UK Participant uk174659:
+      See https://personalgenomes.org.uk/data?hex_id=uk174659'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/000/ERR2322360/ERR2322360.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - Amplicon Fastq data from PGP-UK Participant uk174659:
+      See https://personalgenomes.org.uk/data?hex_id=uk174659'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/000/ERR2322370/ERR2322370_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_1) data from PGP-UK Participant uk85AA3B:
+      See https://personalgenomes.org.uk/data?hex_id=uk85AA3B'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/000/ERR2322370/ERR2322370_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_2) data from PGP-UK Participant uk85AA3B:
+      See https://personalgenomes.org.uk/data?hex_id=uk85AA3B'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/001/ERR2322361/ERR2322361.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - Amplicon Fastq data from PGP-UK Participant uk85AA3B:
+      See https://personalgenomes.org.uk/data?hex_id=uk85AA3B'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/006/ERR2322366/ERR2322366_1.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_1) data from PGP-UK Participant uk481F67:
+      See https://personalgenomes.org.uk/data?hex_id=uk481F67'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/006/ERR2322366/ERR2322366_2.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - RNAseq Fastq (_2) data from PGP-UK Participant uk481F67:
+      See https://personalgenomes.org.uk/data?hex_id=uk481F67'
+
+  - url: ftp.sra.ebi.ac.uk/vol1/fastq/ERR232/002/ERR2322362/ERR2322362.fastq.gz
+    src: url
+    ext: fastqsanger.gz
+    info: 'Transcriptomic - Amplicon Fastq data from PGP-UK Participant uk481F67:
+      See https://personalgenomes.org.uk/data?hex_id=uk481F67'
